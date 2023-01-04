@@ -1,0 +1,1603 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>4-7-2016_giltner,_a._01-g_responsive_docs.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 3:54:51 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:19.8209385</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"></div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">D
+NOTARY APPLICATION REVIEW CHECKLIST
+Applicant Name:
+	 Application Complete (Date reviewd :
+FUN name, contact information, Florida DL / ID number, and DOB
+4/  Questions 1-6 answered
+  Pnor Notary? If so:
+Commission #: ГР I     n<r*-l Expiration:
+Hold / Suspension / Resignation
+Professional license revoked? If so:
+у\1г\ Written statement of action / Supporting documentation
+Copy of Final Order
+y\i) Regulatory agency discipiinary action? If so:
+  Ir  Written statement of action / Supporting documentation
+ysJJÂ. Copy of Order
+Convicted of felony / Currently on probation? If so:
+\л/р| Adjudicated guilty of felony
+Vlla Copy of Restoration of Civil Rights
+v/  Whtten statement of nature of offense(s)
+Copy of court judgment and sentencing order
+Affidavit of Character completed
+Oath of Office completed and signed by notary
+Fully executed bond and signed by notary
+и 1/)  Notary education certificate (first-time appiicants)
+у/  FDLE Background Check	Circle if not applicable
+Date requested: i h /; L
+Рал с< t
+ino r
+
+1 / |   /1
+
+
+/эя /tu
+Date received: I
+Missing Matenals / Information / Notes:
+V\/U
+г-(/14 OJl
+I
+
+
+
+
+- 1(1	AÇÀ
+À Ou
+U
+FDJ-£	a
+c r /
+
+
+г
+:\oiiirv С'МШ:
+;
+NOTARY PUBLIC COIVIMISSION APPLICATION
+Florjda Department of Slate
+Notary Commissions {850) 245-6975
+This applil tiQa and [гюглайоп tt ccmatls. ахс€й soclal secnimy ngmb rs, af  pubitç	and
+
+ilf!DlülD !![n.lfi(.
+DEC 15 2015
+PO 80 5378
+Tslfana s   FL323H-5378
+800821 0821
+
+iy
+
+
+L
+noRIAN
+PAIC  
+Full Name;
+'y>sdlc)
+FI Q CFOLA 34758
+(''SO
+
+KISSIMMEE
+HomeAckIress: 305 CORNWALLIS CQURI
+ORANGEonl 1NTY CORRFCTIONS DEPARTMENT / IRM
+
+{Cganfy)
+□ Unemployed □ Retired
+
+(Clly)
+F lace of Emptoyment:
+BusinessAddress: POGT QFFICE BOX Am.
+Маи lo; □ Home \z Business □ Other Address: —
+nRANOE з;>яп2-4970
+Ei
+ORLANDO
+( )
+(Cou )
+islal }
+{Ci!/)
+
+i
+;2ip)
+(Slal 
+K1.V)
+($lfe!er>0 8 )
+Black
+Sex: □M [ F Race:
+E-MailAddress: corlan.paiqe(0)Qcf).n t	
+‘NONC')
+	
+i<l; •NONe*)
+Florida Dfiver's License (or other S1a(e ot Fkjnoa Issuod fo):
+{K*0ü> r*ô;'KixaJ' pr l s ciy)
+Extensior 	
+254-7542
+Business Phorc; {AÙZ
+Home Phone: {AÙZ—)
+lo:	•KONrI
+ 7:0585(1 )(c) F.SI
+05/17/1976
+Date of Birth:
+
+1	A/e you a legal resident of Florida? Yes □ No {il No. ус аге no( loappvloie notary co lri br Legal	te 'naintaf adlhroogho m 	1
+2	Am you a Un fled States cicizen? ÏE Yes □ No (II No. yoi' ir  a feoorded Oactafat   ol OCXTIjcik otiain mt	trom your Counlv CCH3t>ousa ]
+3	Af« you now or have you ever been commissioned a Notary Public kl the state of Flonda? I Yes □Noduio.youmu.lc.rnp teaDh HrrnolaryeducelütH.
+sut olr; a $lg( ad cartfKak of :0l11plelk:r (Ch 66B 50(11 )FS )) Go 10 ww > orerypubl  rcia.too1 Ю co laie \r  nolafy œijrae
+Па/2П/2П15
+coura 
+CORIAN L. PAIGE
+32054
+IfY S:
+4. Hava you	g; *onai licen ro;TO";; ;ucns (Olher than Notary Publlc)
+(If у! 	mtt Lbfùi t wrinen  lalc-Tcfu obout Iho mature of Ihc oc80r! ЬГ!>'  u crtlng docum tatKKI, 8llct1 as a cc  of the rrriai ordaf (гот Ihe regd tins «9®  ‘
+5 Have vou been discipifned by a regulatory agency, including The Florida Bar, and Including disciplinary adion that is confidentlal? □ Yes
+Vdd ыьглк a vmttel $10le'nenu cl 1haoatvre Ы'ье  cton and anysoppor ng docorr lador. suc  Jin copyd Ihe rm\ Ordjrfrotnihe regdl tJIg agenoy}
+you been convicted of a felor y or had an adjudication of guilt withhetd fora fclony Odense? [S Yes
+I iudgéllli il	JJ l0l1g oruar ir ccl''' lcl d. /Ckl mIHf il rmjl ? r Mlll.cata of Rajtor tlon vf c*»  F hts )
+prob ation ? □ Yes (B No fif 70i, yt u rr'.lsl SJbtfT  a  ntlorv i1nlo<njnt of IhJ n at J or Iho 0fr9nie(i) bf whicti you hjva bjjn glaced on proballor )
+□ Yes IB No
+;
+IB No
+(IfYJS
+□ No (If Yoj, ycil mllll  bnut a чггпап Jijromont or
+6. Have
+lr>J nAfllr  of I'lH	Ibc! CUUI
+7. A:e vou on
+AFFIDAVIT OF CHARACTER
+ORANGE
+County
+FLORIDA
+STATB OF
+nANIELLE MILLS
+CQRIAN L. PAIGE
+am unrelated to af d have kflown .
+\,
+
+0' Tvoe hom  cf
+for one year or Гмоге: anc! vo me best of fTfy Know'ledge end observation i<now (n(m)(her) 10 be of good oi' ; acier
+32811
+Огапое
+Fl
+Orlando
+4190 s. Kirkman Rcl
+My address is
+PENALTiES Or PERJU y, IOECLARE THAT i HAVE RE.AD THE FORiooING AFFIDA'.'IT ARD THAT T E rAUTS STAIP J IT	J 'U Û
+
+fool
+(Çl\yl
+
+UNDER
+1/
+Home Phone. (.iQ/ ) -96804M ,
+
+OATH OF OFFICE
+Couf 
+STATE OF FLORIDA
+thereto; and know me dut;os, responsibllitles. limitations, and powers of a nolafy publlc; and hat I W11l honestiy, dlllgenli/, and falmtL ly
+disctшrge thc duties of Notory Public. State of Flohda, on which 1 am now about to enter.  80 help гт>е God).
+'ECLARE THAT I HAVE READ THE FOREGOING APPUCATION AND OATH AND THAT THE FACTS
+)( the office of Notary Public, Slale of Florida
+iER NALTIE F PEJ
+I acl
+Rl
+ITAT 
+
+Ч
+i
+[MPORTANT. USÈ:ÔF INmAt  NQW LII\ 1TED
+то77 г4с о! |>|  VA  ll0fF9;
+
+TV
+
+дгпр тдт p viiplATIOM  OF cofu llsslok NAME
+Apdloanl’$  1) namo: Jbnc (Maria Ooo Jane Оее Jana M. Ooe
+J Marie Ooe Mane Doe (NicknamelooetJaneyof Jenoae 
+rgoTALLOWCO.
+J Оае M Ooe J M.DOa
+IV/lan  гтотшд norafij/ ac/a, ycu wutt ti n fxactr/aa
+commisston d.
+
+[Ontoj
+(FH')i 0l*I/p n
+Prefues {Dr. Мгз. Rev, ecc}
+119.Q71'{5)(a) l-■ 
+s.
+Social Security Nurrt pp .
+PLEASE COMPLETE BACK
+P414
+Л.-01 r cDl (U6'15l
+I
+
+г
+г-
+SURETY BOND
+
+ш.
+
+\
+
+п
+STATE OF FLORIDA
+BOND OF NOTARY PUBLIC
+Secretary of state
+Notary Commissions
+FOR OFFICE USE ONLY
+Approved by Department of State:
+Ш
+Ш
+Ш
+Ш
+Ш
+i
+Ш
+
+Ш
+Ж.
+Ш
+Ш
+Ш
+:
+Ш
+Ш
+
+
+Ш
+Ш
+
+m
+Ш
+Ш
+Ш
+\
+Ш
+Ш
+STATE OF FLORIDA
+
+Ш
+
+Ш
+KNOW ALL MEN BY THESE FRESENTS, That we,
+
+Ш
+
+
+as Principal, and
+CQEÏAH-LJP-NBR
+(Nama of Apolicani)
+'Ш
+Ш
+'Ш
+
+i
+
+Universal Surety of America (800) 331-6053
+as Surety Company, give bond payable to any
+
+Imprim Name of Suraly Compaay
+individual who may be harmed as a result of a breach of duty by said applicant acting in his/her official capacity as
+Notary Pubiic, in the amount of Seven Thousand Five Hundred Doliars ($7,500) as assurance for thG due discharge of
+the duties of' his/her office of Notary Pubiic and we do bind ourselves, and each of our heirs, executors and
+administrators, jointly and severaily.
+s
+
+Ш.
+'Ш
+
+
+
+i
+ж
+Й
+■Ш
+Ш
+
+
+
+Applicant was, on the date of issuance af commission, bonded as a Notary Public in and for the state of Fiorida, to hold
+office for the term of four years in accordance with the Constitutioll and Laws of this state
+
+
+
+■M
+
+flic, as prGscribed by law.
+■бшсе of Notar
+duties
+Now, therefore, if said appiicant shail faithfully discharge
+therl Ihis obligation shali be void.
+
+
+X
+
+i
+
+f		day of
+Signed and seaied this
+
+i
+Ш
+yN!VERSAL_ RELY-QF AMERJCA
+1нате ol Sumfy Согврапу)
+
+Ш}
+
+i
+a
+p o. BOX 5077
+Sioux Fails. SD 57117-5Q77
+
+m
+
+ÎAddresa oi Quraf) compar>y)
+
+
+NnTARy pljBLic UNDERWRiTERS
+i
+Ш
+J I
+m
+(Нги 1й Of Soodk'o Agaffcy or C0fl>pf4'*y)
+Ш
+Ш
+Ш
+p. o, Box 5378
+Ш
+
+Tallahassee. FL 32314-5378
+'	oi BQndjf A cy or Cof pany]
+i
+
+/1
+/I
+3
+Щ
+: SEAL
+
+I и
+
+i
+ш
+5
+В’
+ж
+
+(Sfgnaiuro ot Fiorida Lloonaed Agofll)
+%
+
+
+А06аз2в
+
+
+{Fiorida ücan ad Agaril Njmoar)
+i
+p)
+Ш
+.1АПК nIESTELHORST
+
+Ш.
+(Pnrfied Name of Florlda Licenaed Agorfi)
+
+
+i
+
+m
+Section 817 234(1 )(b), FS “Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a
+statement of claim or an application containing any faise, incomplete, or misieading information is guilty of a felony in the
+third degree."
+
+
+
+3
+
+
+
+
+в
+i
+Ш
+This bond shali be for Seven Thousand, Five Hundred Dollars ($7,500) After execution by surety company, the bond
+must be submitted to the Department of State for approvat and fiiing before issuance of the notary pubiic commission.
+
+
+
+3
+m
+Ш
+
+
+
+SURETV BOND
+
+
+FL-ог os/oe {0ЭЮ4)
+■
+Letter of Explanation for 2015 Notary Renewal
+:
+August 20,2015
+To whomever this Letter of Explanation may concern:
+My name is Conan Paige (formeriy Conan Woods). In February 2002 1 was in an abusive
+relationship that resuited in me being falsely charged with Aggravated Chlld Abuse in the 3 Degree. i
+was not convicted and Adjudication of Guilt was Withheld. Out of ignorance to the way law worked and
+the influence of others, I took a plea bargain to end the nightmare of back to back court proceedings.
+The downfail to the plea required me to plead guilty. I did what I had to do in order to get my life and
+chiidren back. In the end, i took the plea and moved on with my life, applled and was granted a
+protection order against my abusive ex, and eventually re-gained the custody of my children and my life
+back.
+j mèà u bm
+
+
+
+y
+( (
+
+'" огтагп.- Paige
+(
+г
+!
+:
+:
+i
+■
+;
+IN rnt-. аясипcotmT OJ' Uil-
+NfNl  /итсгл|,. clRcl.:n\ IN AND
+I-OR ORANGF. COIJNrY. I .ORIDA
+:
+CA.Sl- NU.MaliR: 4.Y- 02-CF- Ш2 0 ■ i\
+I
+DivLSIUN NO: 14
+
+STA n'.o!' n.0PJ.DA.
+FJailllld;
+W4.
+cotlAN LA.SHi’.ND.A W(K>I )S
+!>r'4' ndr1f1 
+
+
+
+
+ш
+
+
+
+:
+сч- urf	on 7/ \ гч?ии: , фе iaibu'mg alhc M
+!к>лошьк‘ Anihony H	.Jud e Prc  dm ..
+Ai L  шгс А!гу :
+(\ми( riçlMuy:
+Cm dly Гпг Fl'i -	l'bv i>i’.'rt.n-.r.a! ■aâ4 j rc'.lml VÛU IH v4-uf.m’T.  Nal c: Gfc4H.:'.r. Hdî
+!
+
+с‘ошп Rc7‘>:41. r:
+DivAi l Î4
+sivi'   N.4yri"
+;
+
+
+
+
+  •
+l‘lea
+rh  Dcfcr.Hbn1 \’пфс|г<”л ùte pa'vl41a.4v4-n r;rTfd ple  Clf SVM: Gudly Tht;l Evr nd;lnt CV..-14  -.Vüntl xnê Ркч< Guilry ач
+,h1d*r.!r ' rni
+.\djud; : àljc--r  i.i:'<!l d  v..v,rvKbhr!ki
+;
+
+.ian
+I4l bç' ftdkl v d by
+гъ	и crdcrcd ■icixi.' 2	' n di;‘ l'Jr; rop:t i ‘‘t4ixy kid ’Л nh cn’dil i:n -■ 0 l>44) llnit: ■ I4c4i;
+}‘r1'tb  ti --n
+Ргоьагы 
+'1ъе	iil plàccd c.rl '> 44.; r(s)supcr. ii- 4i pb..bfll:NV1i Ulxkr {Ы	iji:'lkc DC(K’tr1nuTll •:'f ГПГТ СМОП’С,
+(Jctl'TICLVi!: w iuvMnplckr diç li.l b-vvnlg  !:]/- |г|ргм -|,*1пс |14:la rrHa::A:l phn:ra n )	''Ц ikr'I'.lk-r.l'l
+t Arlv;cr N ar a ’rnlcru S'.~nii.n:u I1>c fx,'F claiH !:tav  -,v.u-xiy ih-л- r';M 1; frca-il-.'l-
+!ЪС"
+F rio
+<:Ж\.ССГ $ so<:>:>; t..0':;l'n- s 20<:I1XI:
+fhl: DcrccKl nr i< hcîcby t-rdlj-ci:d Is.-' pay lll-c: u1l!..iv,lr H:	Cv  ln LVSIi:: s
+TIIF:NC:-I : s vv{K:'i CRiN [:STP. s 20 .{.y,
+Plly pcf m 'nlll bil lîlnH’K: itt ''' ' ‘.lay 
+:
+Л| .02’СГ- Ш2.0 ,\
+|)“'12-'2сю2 !2 ')5 PM Рд;:е 1 C.f1
+<:оа|лч LASU!.:SDA •AXX)I>S
+'
+Heather Ferguson
+
+Heather Ferguson
+Tuesday, September 01, 2015 4:43 PM
+'conan.paige( ocfl,net’
+Message from Notary Public Underwriters, Inc,
+Froni:
+Sent:
+To:
+Subject:
+CORIAN L PAIGE,
+Thank vou for choosing Notary Public Underwhters for all your notary needs. During our initial check, we
+found information which needs to be corrected before we can process your request.
+MORE INFORMATION NEEDED - On your notary application you have indicated that you've been convicted of a
+felony. If this is correct, the Governor's Office requires a statement (in your own words) regarding the
+circumstances and nature of the charges, a copy of the judgment and sentencing order, and a copy of your
+Restoration of Civil Rights (or pardon). If any of these documents are unavailable to you, the Governor's Office
+requires that you obtain a letter from the County Courthouse in which the offense took place, stating that
+these documents are not available. These documents are required for all applicants, New or Renewing and
+approvals and denials are decided at the time of each application. In addition, The Governor's Office has
+become more selective in the review process, and documents submitted for your previous commission may
+not be sufficient. Without this information your request may be rejected and processing could be delayed. For
+faster service, you may fax this information to 877.856.1663.
+Your prompt response will allow US to continue the processing of your order. Please feel free to contact us at
+800.821.0821.
+Sincerely,
+Heather Ferguson
+Customer Care Specialist
+Invoice Number: 5069200-1
+Notary Public Underwriters, jnc.
+BGND with NPU on social media for FREE notary 8t business tips, law updates and industry newsi
+L0. 30/4 5 
+1
+Heather Ferf uson
+corian.paige(i50cfl.net
+Tuesday, September 01, 201S 6:03 PM
+Heather Ferguson
+**exempt** RE: Message from Notary Public Underwriters, Inc.
+From:
+Sent:
+To:
+Subject:
+Good afternoon.
+The info vou are requesling was submitted along with my application. My nghts were never taken so there is nothing to
+submit in regards to them being restored. ! was not convicled, Adjudication of Gullt was Withheld. This is the same
+incident which was reporied the first time I became notary Please review the paperwork ihat was submiued
+more.
+once
+••C. Paige
+From: Heather Ferguson [mailto:hferguson(a)npuon[ine.com]
+Sent: Tuesday, September 01, 2015 4:43 PM
+To: Paige, Corian L
+Subject: Message from Notary Public Underwriters, Inc.
+CORIAN L PAIGE,
+Thank you for choosing Notary Public Undervv'riters for ali your notary needs. During our initial check, we
+found information which needs to he corrected before we can process your request.
+MORE iNFORMATION NttDED - On your notary application you nave indicated that you've been convicted of a
+felony. If this is correct, the Governor’s Office requires a statement (in your own words) regarding the
+circumstances and nature of the charges, a copy of the judgment and sentencing order, and a copy of your
+unavallable to you, the Governor's office
+Restoration of Civii Rights (or pardon). If any of these documents
+requires that you obtain a letter from the County Courthouse in which the offense took place, stating that
+these- documents are not available. These documents are required for al! applicants. New' or Renewing and
+approvais and deniais are decided at the time of each appiication, in addition. The Governor’s Office has
+become more selective in the review process, and docyments submitted for your previous commission rnay
+not be sufficient. Without this information your request may be rejected and processing couid be deiayed. For
+are
+faster service, you may fax this information to 877.856.1663.
+Your prompt response wili allow US to continue the processing of your order. Please feei free to contact US at
+800.821.0821.
+Sincerely,
+
+Heather Ferguson
+Customer Care Specialist
+Invoice Number: 5069200-1
+1
+Conan Paige
+Vanessa Rudoiph
+Nestor Mena
+Michael s. Goodman
+wiHiam A. Hutching
+Lloyd Schwed
+Signature;
+12-3-15
+Mail Af lcation  tû
+■\i)tarv\ J’llbiic
+NOTARY PUBLIC COMMISSioN APPLICATION
+Щ Florida Depanmeni of state
+Notary Commissions (850) 245-6975
+PO Box аат8
+T laha  , F132314-8378
+800.821.0821
+>y
+
+
+Tl)i$ appliçation and the infolTnaclon tt conlalns. axeept aoclal aecullty numbera. are public recofd and ITlay be diaciosed Ю any pefson upon raqueat
+L
+CORIAN
+Full Name: PAIGE
+Home Address: 305 CORNWALLIS COURT
+Place of Employment: ORANGE CQUNTY CORRECTIQNS DEPARTMENT / IRM
+Bu ness Address: -P.QSl. OFFICE BOX...4.9ZÜ
+Majfto: □ Home 1  Business □ ouler Address:	
+E-Mail Address: conan.paiget§)Qcfl.net	
+(Qr *NON8 )
+Hon  Phone: (407	) .483-4069	
+(Of 'N0N1:}
+Florida Drivers Ucense (orolhef Slate of Flonda Issued ID): i_
+( Njcle)
+FL QSCEQLA 34758
+(n'll)
+
+KISSiMMEE
+'Cotxitv)
+
+{State)
+lolyl
+  p Unemployed □ Retired
+QRANGE 32R02>4Q7Q
+FL
+QRI-ANDO
+{2p)
+icowNy)
+(8tat4)
+{Cllyj
+
+{ )
+(S retl nrpo Box)
+{City;
+Bex: □ M F Race:, Black
+(II 'CIMr' or'I xed*,  ease tpeciy)
+Extension	
+1 254-7542
+{orwnt l oNE’)
+Bijsiness Phone: f 407
+s. 97.0 85(1)(cl F.s.
+Date of Birth: 05/17/1976
+(MgfvttvD4yty 4t)
+1.	Are you a leQa) resident of Fk)hda? [B Yes □ No {1t No. you аг0 not elgible to appiy for a nolarv coiïlmission. Lagal rosIdelKy mijst be niaintalned throu ut   appotniment,}
+2.	Are you a United States citizen? 1Ж Yes □ No (If No. you иши subiflil a reporded Declar or o( Domiale. Oblain this document frcrn your Cc hty C0tlnh0i.be,)
+3.	Are you now or have you ever been commissioned a Notary Pubitc fn the State of Florida? 1  Yes □ No (lINO, yourhusi corhpletoa 3 hournotaryerxicbboh
+COUTM and subrTUI a Sigrted certdicate 01 completlon. {Ch. 868.50(11 }F.S,)) Go to WWW.NOtarypublicFkirlda.ec  to ccnipleto tha notary coijrse.
+noRIAN L, PAIGE
+EE132054
+09720/2015
+If yes:
+(Nâme in s ch yotJrc nwTifsskn
+
+(Cgfrmi$ ,0n	cute)	(Coalmi  	(Neme in s cn yotjrc tl tssicn  ииеа;
+4. Have уои heid any Drofesaional iicenses or commtssions (other than Notary Public) In Flohda duhng the past 10 years? Yes □ No
+(If Yes. PIBasalbl.) CNA		Have any been revoked? □ Yes I NO
+(If Yis.you must sutK il a Whtten statemeni aboul Ihe r\alura of the actron any supporling IdoQumentalloh. such as a ccpyofthe Ftnal c ef frorr the regulabng agehcy.)
+5.	Have you been discipiined by a regulatory agency. Induding The Florida Bar, and Including dfsciplinary action mat is confidential? □Yes IZ No
+(If Yos, ypu must submit a Wl15eh statolTient alx)ut tha r furF of tho actlorl   аау supponing documentat(0n. Such as a copy pf Lho Final Order ffom th  repijialfig aos'  y )
+6.	Have у DU been convicted of a felony or had an adjudication of guilt withheld for a felony ояепзе? 1Ж Yes □No IH Yes. you musi submil a stbtemeht of
+tho ooturo of tho offense( ), 'J оору’ of Ihe coufijuogement and een çncing Ofd r. If eonvicted, yol>  ublnir e ceftificate of Restor lion nf Civil Rights )
+7.	Are you on probation? D Yes IH No (If Veo, you must Sllbmit a irrrttten statarnent of Ihe nalkire of the offeose(s) for vmich you havo bean placed on ргоьааоп.)
+AFFIDAVrr OF CHARACTER
+ORANGE
+STATE OF FLORIDA
+County
+CQRIAN L. PAIGE
+DANIELLE MILLS
+am unrelated to and have known
+I,
+(NsmedfA lkal t)
+(Pnnt ar 1 vpe N l  of Afllant)
+for one year or mcxe: and to the best of my knowledge and observation lalow (him)(her) to be of good character.
+Огапае
+32811
+FL
+Orlalldo
+4190 s. Kirkman Rd
+My address ts
+'Zipj
+ St )
+(CCKMtIy)
+{Oty)
+
+ШПШМУ
+UNDER PENALTIES OF PERJURY. I DECLARE THAT f HAVE READ THE FOREOOING AFFIDAVFT AND THAT TIIE Fr
+Hnmp phnn Y 407 ) 9680474	Wnrk phnnA( 407 ) 2547545	 X	
+'	'	(0/ Me*NOH8*f	(ofwnto’NONE*)
+OATH OF OFFICE
+Cou 
+STATE OF FLORIDA
+I DO solemnly {swear)(affirm) lhat I wljl suppoll, prDtect and defend Ihe Constitution and Oovemment of the Untted States and of the' tate of
+Florida* that I am duly qualified to hold office under the Constitution of the state of Flonda; that I hsve read Chapter 117, Florida Statutes, and any
+amendments thereto, and know the duties, responsibilities, limitations, and powers of a notary риы|с; and thal I will honestly diligently, and faithfutly
+discharge the duties of Notary Public, state of Flonda, on which 1 am now about to enter, (so help me God).
+ECLARE THAT I HAVE READ THE FOREGOING APPUCATION AND OATH AND THAT THE FACTS
+)t the off ce of Notary Public, state of Flolida,
+iMmRl NALTIE%OF PB
+a{
+X
+IMPORTANT: USE OF rNmALS NOW LIMITED
+
+
+
+
+ACC PTABI.E V IATIOhJ  OF COMMfssloN NAME.
+Apppcants full nam . Jahe Maria Do  Jane Doe Jane M. Doe
+J. Мале Doe Mane Doe [Nicknamel Doe (Janey or Jan Doe)
+MOTAl LOWEID
+J. Doe M. Doe J M.DOe pre8xea(Dr., MI ..Rev..elc.;
+p ffofmmg псшш acts, you must sign axsctiy as
+commissionad
+tTIt * Г1 лиг и ьгв)
+{Ояг ;
+>ГГГ|1 Jf
+8.119.071 (5)(а) F.S.
+Sodal SBCUnt/Numbef
+FL4)1 NPC01 (06 '18)
+PLEA3E COMPLETE BACK
+Я-814
+о
+
+
+SURETY BOND
+
+
+ш
+
+
+STATE OF FLORIDA
+BOND OF NOTARY PUBLIC
+Secretary of state
+Notary Commissions
+
+
+
+FOR QFFICE USE ONLY
+Ш
+Ш
+Ш
+Approved by Department of State:
+
+Ш
+
+
+
+
+
+Ш
+
+
+
+
+
+»
+
+Ш
+
+
+
+
+0
+
+Ш
+
+
+
+STATE OF FLORIDA
+
+
+
+a
+Ш
+M
+KNOW ALL MEN BY THESE PRESENTS, That we,
+
+Ш
+
+
+z
+CORIAN L. PAiGE
+as Principal, and
+
+
+
+(Name of Appllcanf)
+Ш
+
+
+Universal Surety of America (800) 331-6053
+ta
+as Surety Company, give bond payable to any
+Ш
+Ш
+Imprm! Name ol Surety Company
+individual who may be harmed as a result of a breach of duty by said applicant acting in his/her official capacity as
+Notary Public, in the amount of Seven Thousand Five Hundred Dollars ($7,500) as assurance for the due discharge of
+the duties of his/her office of Notary Public and we do bind ourselves, and each of our heirs, executors and
+administrators, jointly and severally.
+Ш
+
+
+
+s
+
+Ш
+Ш
+
+
+Ш
+
+'êi
+
+Ш
+m
+
+
+Ш
+
+Applicant was, on the date of issuance of commission, bonded as a Notary Public in and for the State of Florida, to hold
+Щ office for the term of four years in accordance with the Constitution and Laws of this State.
+Ш
+%
+z
+
+\
+flic, as preschbed by law,
+Шее of Notap
+Now, therefore, if said applicant shall faithfully dischargeth€auties
+then this obligation shall be void.	/	 
+
+
+
+4Г
+Щ.
+Щ
+i
+‘i
+fl
+(S gnalum a pplicano
+
+•]
+i
+
+day of
+Signed and sealed this
+i
+
+UNIVERSAL SURETY OF AMERICA
+..e
+
+
+
+(Name of Surefy Сотрапу)
+
+
+
+
+p. o. BOX 5077
+Sioux Falls. SD 57117-5077
+
+
+Ш
+
+
+i
+(Addrass of Sorefy Company)
+
+
+m
+NOTARY PUBLIC UNDERWRITERS
+
+
+'■Ш
+
+(Name of Boncling Agency or Company)
+
+Ш.
+I
+
+p. o. Box 5378
+Tallahassee. FL 32314-5378
+
+
+
+Ш
+
+Ш
+(/ddress of BQndinaA cy or Company)
+
+SEAL
+
+Ш
+11
+
+
+Ш
+
+B'
+
+(Stgnafure of Fforlda Ucensed Agent)
+Ш
+Ш
+Ш
+А06832в
+Ш
+
+ti
+(Flonda Licensed Agent Numder)
+Уут
+Ш
+'M
+JACK DIESTELHORST
+
+
+(Printed Name of Florida Licensed Agant)
+
+
+
+Ш.
+
+Section 817.234(1 )(b), F.S. “Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a
+statement of claim or an application containing any false, incomplete, or misleading information is guilty of a felony in the
+third degree.”
+
+
+
+
+
+
+Ш
+
+
+
+
+
+
+This bond shall be for Seven Thousand, Five Hundred Dollars ($7,500). After execution by surety company, the bond
+must be submitted to the Department of State for approval and filing before issuance of the notary public commission.
+
+
+Ш
+
+
+
+
+
+
+
+
+
+SURETY BOND
+FL-02 DS/DE (03/04)
+Letter of Explanation for 2015 Notary Renewal
+August 20, 2015
+To whomever this Letter of Explanation may concern:
+My name is Corian Paige (formerly Corian Woods). In February 2002 I was in an abusive
+relationship that resulted in me being falsely charged with Aggravated Child Abuse in the 3''' Degree. I
+not convicted and Adjudication of Guilt was Withheld. Out of ignorance to the way law worked and
+the influence of others, I took a plea bargain to end the nightmare of back to back court proceedings.
+The downfall to the plea required me to plead guitty. I did what I had to do in order to get my life and
+children back. In the end, I took the plea and moved on with my life, applied and was granted a
+protection order against my abusive ex, and eventually re-gained the custody of my children and my life
+back.
+was
+'Submit
+
+
+СогтшгL. Paige
+Heather Ferguson
+corian.paige(0)ocfi.net
+Tuesday, September 01, 2015 6:03 PM
+Heather Ferguson
+**exempt** RE: Message from Notary Public Underwnters, Inc.
+From:
+Sellt:
+To:
+Subject:
+Good afternoon.
+The info you are reqyesting was submitted afong with my application. My rights were never taken so there is nothing to
+submit m regards to them being restored. ! was not convicted, Adjudication of Guilt was Withheld. This is the same
+incident which was reported the first time I became notary. Please review the paperwork that was submitted once
+more.
+-C. Paige
+From: Heather Ferguson [mailto:hferguson( npuonline.com]
+Sent: Tuesday, September 01, 2015 4:43 PM
+To: Paige, Corian L
+Subject: Message from Notary Public Underwriters, Inc.
+CORIAN L. PAIGE,
+Thank you for choosing Notary Public Underwriters for all your notary needs. During our Initial check, we
+found Information which needs to be corrected before we can process your request.
+MORE INFORMATION NEEDED ■' On your notary application you have indicated that you've been convicted of a
+felony. If this is correct, the Governor's Office requires a statement (in your own words) regarding the
+circumstances and nature of the charges, a copy of the judgment and sentencing order, and a copy of your
+Restoration of Civil Rights (or pardon). If any of these documents are unavailable to you, the Governor's Office
+requires that you obtain a letter from the County Courthouse in which the offense took place, stating that
+these documents are not available. These documents are required for all applicants. New or Renewing and
+approvals and denials are decided at the time of each application. In addition, The Governor's Office has
+become more selective in the review process, and documents submitted for your previous commission may
+not be sufficient. Without this information your request may be rejected and processing could be delaved. For
+faster service, you may fax this information to 877.856.1663.
+Your prompt response will allow US to continue the processing of your order. Please feel free to contact us at
+800.821.0821.
+Sincerely,
+Fleather Ferguson
+Customer Care Specialist
+Invoice Number: 5069200-1
+1
+STATE OF FLORIDA
+шт
+(Office of tbe ( otlernor
+i
+.9 
+2 
+
+i
+
+
+THE CAFITOL
+TALLAHASSEE, FLORIDA 32399-0001
+Ш
+N. OOWEJ3 
+www.flgov.com
+850-488-7146
+850-487-0801 fax
+RICK SCOTT
+GOVERNOR
+November 3,2015
+Notary Public Underwrites
+Post Office Box 5378
+Tallahassee  Flonda 32314
+Dear Sir or Madam:
+The Governor's Office received a notary application for Corian Paige. upon review
+of the application (attached)j, it has been determined that it cannot be processed because
+further information is necessary to make a determination.
+1) specifkally describe the circumstances surrounding the allegations of
+''A.ggravated Child Abuse" and provide any supporting documentation,
+including court documentation of the incident.
+Thank you for your assistance. If you have
+me at the number below.
+any additional questions, please contact
+Regards,
+
+
+Cllase Larldruni
+Notary Coordinator
+Executive Office of the Governor
+Office: (850) 717-9325
+chase.Landrum( eog.myflorida.com
+
+
+Enclosure
+г?
+f
+rN im сжсип cotm г 01' 1111:
+NINTH JÜDICIAI. cmc'urT IN ANI.>
+FOR QRVVNGF. coiJNry. FIORIÜA
+CASE NUMUtR: 4S- 02-CF- IS42.0 ■ A
+DIVtsION N0:1-4
+STATH OF FIORIOA.
+
+CORIAN LASfItNDA Wfx>l>s.
+DC4vrKlüfl4.
+Ш:шйё	J
+
+fv *?*;
+-i
+
+Ccnirt Ofvencti оп 7 12 2(XI2, V.i1th thc	olllcm
+üc o  bk Atithony H. Jelutinn, ludgc  Frc ’ldla .
+Assi SLaieAtly..
+c*>un nefluly:
+Coun Rcp«.>r1cr
+DjvAion I ■4
+I i' :  R; mcy
+Shçrir Si yrr
+Thei calne rbi's 4л> fnr Рка.уе|11с1и:ш  Ih-l:’ IJepvndanI presl n!  'Ith coua! *l. Ccllm rl  N:uлc: GTegocv Hil!.
+т и "-
+w-.-
+
+Ией
+тье D fca-d l wi'hdrcw llle-prevHlu ly i’nkT d 01 Nl-’il (ilu tly ïbf I)crendant  às irivcinl and i lod Oglhy fv 
+AdJiJdu:aLion ofGuilJC t a.4 Vrrthhcld
+
+
+y.*r\
+
+■:■•
+
+
+Jflill
+тъс detcndnill ls€'rdcl'1:d Ш : m'e 2 nayl;:l) Ш li\c	<0'urlry Jail l!h cr La Ù4 2 linvc  n,cd. Гаьс ûdbwMd by
+prubaMun
+Prabatlo 
+The defcl KUI1[	on у Vearo supm'iied pfoKatlo l limkf thc  Xipcn'liion ofihe ocpanrTvcnl of corTccllon . ihe
+dcl'cndai’ t сотпркк û\c fldu)vl,-mg ! lf-lmprove1nen4	v.h)k on FlobatH n:
+  Ап ег Mana c7ner\t SCTnInar Лк rx’K Clavb maly  п!игу thl   rr<lulTtmef11
+h'int%
+11к Dekndant hereby orijcfed to pay llK fouau-ln  ajnolant : Cc jrt Co ls. s
+TrIFNCr: $	3 00; CRIMFSTP. s
+Pay S2h per monib beginning in days.
+5.ao,CCF:s 5l)(K>; LGC3TF s 200 00;
+4g-<:>2.CF* 1Ш-0’'А
+от/,12 00212:05 PM Рш е 1 of I
+CORtAS LASHIJND.  WDOI>s
+Heather Feryuson
+Heather Ferguson
+Tuesday, September 01, 2015 4:43 PM
+'conan.paige )ocfl.net'
+Message from Notary Public Underwriters, Inc.
+From:
+Sent:
+To:
+Subject:
+CORIAN L PAIGE,
+Thank you for choosing Notary Public Underwriters for all your notary needs. Dunng our initial check, we
+found information which needs to be corrected before we can process your request.
+MORE INFORMATION NEEDED - On your notary application you have indicated that you've been convicted of a
+felony. If this is correct, the Governor’s Office requires a statement {in your own words) regarding the
+circumstances and nature of the charges, a copy of the judgment and sentencing order, and a copy of your
+Restoration of Civil Rights (or pardon). If any of these documents are unavailable to you, the Governor’s Office
+requires that you obtain a letter from the County Courthouse in which the offense took place, stating that
+these documents are not available. These documents are required for ali applicants. New or Renewing and
+approvals and denials are decided at the time of each application. In addition. The Governor's Office has
+become more selective in the review process, and documents submitted for your previous commission may
+not be sufficient. Without this information your request may be rejected and processing could be delayed. For
+faster service, you may fax this information to 877.856.1663.
+Your prompt response will allow US to continue the processing of your order. Please feel free to contact us at
+800.821.0821.
+Sincerely,
+Heather Ferguson
+Customer Care Specialist
+Invoice Number: 5069200-1
+Notary Public Underwriters, Inc.
+BOND with NPU on social media for FREE notary 8L business tips, law updates and industry news!
+L0. 7р\1\ш
+1
+1
+Governor's Approval Checklist
+
+D
+о LeRal Hold-
+\3
+Шш
+тж
+о Emailed customer letting them know they are a legal hold. copy Email Qt
+or. H.
+(J Called the customer and let them know they're a legal hold. Told customer to follow up with
+Governor's Office to resolve any pending hold. Date:	
+о License Revoked-
+o l-ist of licenses or commissions revoked.
+о Written statement for each incident.
+о Disciplined bv a ReHulatorv ARencv. Including Florida Bar anci includinR clisciDllnarv action
+that is confjdential-
+o Written statement of the nature of the action (per incident),
+о Judgment Order
+о Sentencing Order
+о Documents no longer available letter/Letter from the County,
+о Customer refuses to provide more documents. Copy ofemoil or date spoke to:
+о Felonv or adiudication of Ruilt withheld-
+(Q- l ritten statement of the nature of the offense (per offense).	\	I  
+цо>-зо|-ч зг
+(  dgment Order
+0 ntencing Order
+о Documents no longer available letter/Letter from the County,
+о Restoration of Civil Rights Certificate
+о Per Customer-Civil Rights were not revoked.
+о Customer refuses to provide more documents. Copy ofemaif or date spoke to:	
+Customer sending in additional documents as requested. Previouslv Transmitted.
+
+Г!н1
+UJJb
+
+Representativ
+Date:
+I
+Trinity A. Godwin
+Conan.Paige ocfl.net
+Wednesday, December 02, 2015 4:03 PM
+Trinity A. Godwin
+FW: **exempt**
+From:
+Sent:
+To:
+Subject:
+This is the last communication I received from the governor's office. Please read below
+From: Landrum, Chase fmailto:chase.Landrum(a)eoQ.myflorida.com]
+Sent: Fnday, November 20, 2015 4:32 PM
+To: Paige, Corlan L
+Subject: RE: **exempt**
+That is not a complete application. I will need the complete application that was sent back to the bonding
+agency. Please have the bonding agency send the complete application.
+From: Corian.pai e ocfl.net rmailto:conan.paiHe( ocfl.net1
+Sent: Fnday, November 20, 2015 4:27 PM
+To: Landrum, Chase <chase.Landrum eog.mvflonda.com>
+Subject: RE: **exempt**
+I emailed it to you directly. It would have come through as "Image Runner" over a week ago.
+From: Landrum, Chase rmailto:chase.Landrum(i eoQ.mvflorida.coml
+Sent: Friday, November 20,2015 4:23 PM
+To: Paige, Corian L
+Cc: Adamson, Latonia
+Subject: RE:  *exempt**
+Ms. Paige -
+I just went through my four different stacks of applications and have not yet received an updated copy. Please contact
+your bonding agency and ask them when they sent it over. They can also fax it to me at (850} 448-9810.
+Chase Landrum
+Notary Coordinator
+Executive Office of the Governor
+(850) 717-9325
+From: corian.paiEe ocfl.net fmailto:corian.pai e ocfl.net1
+Sent: Friday, November 20, 2015 4:17 PM
+To: Landrum, Chase <chase.Landrum( eo .mvflorida.com>
+Cc: Latonia.Adamson ocfl.net
+Subject: **exempt**
+Importance: High
+Mrs. Adamson,
+1
+'4
+
+FDLE SHIELD; Batch Detalis
+1/2a 16
+
+Us§r
+1321n1i ((7370 2- t>
+Status of Submitted Batch
+Status
+FDLE ID
+Control
+ccnlrol2
+SSN
+Address
+DOB
+Sex
+Race
+Name/Allases
+ 1ел71( )  F3.
+11Э5299
+fJO RECORD
+F
+w
+02/Û6/1S48
+ALLEN, ANNA L
+ALVARE2-MENA,
+LOURDES
+1135300
+IDENT
+и
+11/25/1976
+F
+1136301
+NO RECORD
+F
+и
+01/20/1989
+ARIAS, ADRIANA
+IDENT
+1135302
+11/17/1962
+F
+6
+BASNUEVA. ROSA
+1135303
+IDENT
+BAUTISTA, HUGO LUIS 0	OB/02/1979
+M
+и
+1135304
+IDENT
+w
+03/22/1971
+M
+BÜRDE, DONALD
+NO RECORD
+1135305
+07/21/1951
+M
+w
+FLETCHER, BRUCE w
+113S306
+NO RECORD
+F
+w
+LAWRENCE, RACHEL E
+07/21/1988
+1135307
+NO RECORD
+09/15/1960
+M
+w
+MlaER, OANIEL s
+IDENT
+1135308
+08/18/1960
+F
+w
+MIUER, RACHAEL J
+1135309
+IDENT
+в
+PAIGE, CORIAN L
+05/17/1976
+F
+1135310
+tDENT
+07/31/1977
+F
+и
+RIVERA, BRANDIE D
+IDENT
+1135311
+02/10/1966
+
+w
+WATSON, ARTHUR D
+Transaction Information
+Batch/Customer Information
+Transaction Number FL7370992-20160126001
+Time Submitted
+Amount Paid
+Agency Montrl-to-date $312.00
+Batch Number 20160126001
+Organization ORI FL737099Z
+Submitteci by	Я7370992-еь
+Current Time	1/28/2016 4:33; 182 PM
+1/26/2016 3:15:28 PM
+$312.00
+1/1
+https 'JI H el d.fdle.state.lt .us/SNeld app/wlcket/pa9e?33
+20160126001R (1)
+THE FOLLOWING RECORD IS ASSOCIATED WITH
+CONTROL NBR:
+TRANSACTION: 000011
+NAME: PAIGE, CORIAN L
+--FLORIDA CCH RESPONSE--
+ATN/FL7370992/SHIELD
+FC.DLE/5571154.PUR/P.ATN/FL737099Z/SHIELD
+SID NUMBER: 5571154 PURPOSE CODE:p
+1
+PAGE:
+BECAUSE ADDITIONS OR DELETIONS MAY BE MADE AT ANY TIME,
+A NEW COPY SHOULD BE REQUESTED WHEN NEEDED FOR FUTURE USE
+FLORIDA CRIMINAL HISTORY
+DATE REQUESTED
+01/26/2016
+EYES HAIR BIRTH PLACE SKIN DOC NO.
+BRO BLK FL
+STATE ID NO.
+FL-05571154
+FBI NO.
+NAME
+WOODS, CORIAN LASHUNDA
+SEX RACE BIRTH DATE HEIGHT WEIGHT
+05/17/1976	S'06''	230
+F
+в
+—CONTINUED--
+PAGE:	2
+SID NUMBER: 5571154 PURPOSE CODErp
+SCR/MRK/TAT
+MISCELLANEOUS NO.
+FI«3ERPRINT CLASS Щ
+IN AFIS - 3
+OCCUPATION
+CITY/STATE
+APOPKA, FL
+ADDRESS
+117 E 15TH ST A
+SCR/MRK/TAT
+DOB
+SOC
+AKA
+wocos, CORIAN L
+--CONTINUED--
+PAGE:	3
+SID NUMBER: 5571154 PURPOSE CODElp
+OBTS NO.-4803003961
+ARREST AGENCY-ORANGE COUNTY SHERIFF'S OFFICE
+AGENCY CASE-
+CHARGE 001-CRUELTY TOWARD CHILD-
+ABUSE WITHOUT GREAT HARM
+STATUTE/ORD-FL827.03
+02/10/2002
+ARREST- 1
+CFL0480000)
+OFFENSE DATE-02/10/2002
+,3RD DEG
+LEVEL-FELONY
+
+-■*** THE FOLUOWING IS A STATUS RECORO -- NOT AN ARREST
+ARREST- 2	07/18/2002 OBTS N0.-0013319985
+ARREST AGENCY-ORANGE COUNTY SHERIFF'S OFFICE
+AGENCY CASE-403097
+CHARGE 001-CRIMINAL REGISTRATION (NOT AN ARREST)-
+FEL CHILD ABUSE
+CFL0480000)
+OFFENSE DATE-
+--CONTINUED—
+PAGE :	4
+SID NUMBER: 5571154 PURPOSE C0DE:P
+STATUTE/ORD-
+BOOKING STATUS-NOT PROSECUTED RELEASED
+LEVEL-FELONY
+THIS RECORD CONTAINS FLORIDA INFORMATION ONLY.
+EXPLANATION OF A CHARGE OR DISPOSITION IS NSEDED, COMMUNICATE
+DIRECTLY WITH THE AGENCV THAT CONTRIBUTED THE RECORD
+THIS RECORD MAY ONLY BE USED FOR THE PURPOSES
+WHEN
+INFORMATION.
+DEFINEO BY FLORIDA STATUTE
+AS MANDATED BY FLORIDA STATUTE 119.071(5), FULL SOCIAL
+SECURITY NUMBERS ARE NOW EXEMPT FROM PUBLIC DISCLOSURE
+Page 20
+20160126001R (1)
+AND MAY BE DISCLOSED ONLY TO GOVERNMENTAL ENTITIES AND
+CERTAIN COMMERCIAL ENTITIES (UPON A SHOWING OF BUSINESS
+NECESSITY AS DEFINED BY THE LAW). FDLE WILL, HOWEVER,
+—CONTINUED--
+PAGE:	5
+SID NUMBER: 5571154 PURPOSE CODE:p
+RELEASE THE LAST FOUR DIGITS OF THE SOCIAL SECURITY NUMBER.
+EXAMPLE: XXX XX 1234.
+THIS CONTAINS FLORIDA RECORD ONLY.
+UNKNOWN AS TO NATIONAL RECORD STATUS.
+END OF RECORD
+—END--
+FLORIDA DEPARTMENT OF LAW ENFORCEMENT
+CHARGES AND DISPOSITIONS AS CODED HEREIN REFLECT STANDARDIZED UNIFORM OFFENSE
+AND DISPOSITION CLASSIFICATIONS FOR COMPUTERIZED CRIMINAL HISTORY RECORDS.
+MORE DETAILED AND SPECIFIC INFORMATION MAY BE AVAILABLE FROM CONTRIBUTORS.
+FDLE DOES NOT WARRANT THAT THESE RECORDS ARE COMPREHENSIVE OR ACCURATE, ONLY
+THAT THIS RECORD CONTAINS ALL INFORMATION ON THE SUBIECT THAT THE DEPARTMENT
+HAS RECEIVED AND IS PRESENTLY AUTHORIZED BY LAW TO DISSEMINATE.
+BATCH 20160126001
+REPORT FOR OFFICE OF GOVERNOR NOTARY PROGRAM
+THE FOLLOWING RECORD IS ASSOCIATED WITH TRANSACTION: 000012
+CONTROL NBR: NAME: RIVERA, BRANDIE D
+—FLORIDA CCH RESPONSE--
+ATN/FL737099Z/SHIELD
+FC.DLE/7190999.PUR/P.ATN/FL737099Z/SHIELD
+SID NUMBER: 7190999 PURPOSE C0DE:P
+1
+PAGE:
+BECAUSE ADDITIONS OR DELETIONS MAY BE MADE AT ANY TIME
+A NEW COPY SHOULD BE REQUESTED WHEN NEEDED FOR FUTURE USE
+$
+FLORIDA CRIMINAL HISTORY
+FBI NO,
+DATE REQUESTED
+01/26/2016
+BIRTH PLACE SKIN DOC NO.
+STATE ID NO.
+FL-07190999
+SEX RACE BIRTH DATE HEIGHT WEIGHT EYES HAIR
+07/31/1977 S’08’*	130
+NAME
+RIVERA, BRANDIE DARLENE
+BRO BLK US
+F
+w
+--CONTINUED--
+PAGE:	2
+SID NUMBER: 7190999 PURPOSE CODE:p
+SCR/MRK/TAT
+MISCELLANEOUS NO.
+FINGERPRINT CLASS SOCIAL SECURITY NO.
+5гшл7т(5)(а)тг 
+IN AFIS - 3
+SCR/MRK/TAT
+soc
+DOB
+AKA
+Г'119.071(5)(а)р;н:
+ARREST- 1	03/05/2009 OBTS N0.-4802094906
+ARREST AGENCY-FHP ORLANDO
+--CONTINUED--
+CFL0489000)
+Page 21
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

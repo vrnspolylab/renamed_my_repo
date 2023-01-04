@@ -1,0 +1,1303 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>2015-11-25 wally hamed - arrest report.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 3:59:02 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:08.5704438</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td></td></tr>
+<tr><td>author</td><td></td></tr>
+<tr><td>revision date</td><td>12/15/2015 10:19:28 AM</td></tr>
+<tr><td>subject</td><td></td></tr>
+<tr><td>Creator</td><td></td></tr>
+<tr><td>publisher</td><td></td></tr>
+<tr><td>CreationDate--Text</td><td></td></tr>
+<tr><td>title</td><td></td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">'\ЗАОЧЧ§в
+I. DR. NO.
+u.s. VIRGII  ISLANDS POLICE DEPARTMENT
+2. True N me (Last. First, Middle)
+ШШ5
+3. Name Gtven (Last. First. Middle)
+4. Arrest No.
+s. Nickname or Alias I6. s.s. No.
+7. I.D. No.
+‘ ' o-ÙL-44s’4
+AddfeL.
+ 	c 's-hM
+
+ARREST REPORT
+25. Location of Arrest
+26. Zone
+8.
+9. Phone'
+J-9S- / ari-Âi/f
+
+ 40-
+
+27. Type of Premises (Describe)
+/b//OL- 
+10. p.o.e.
+П. D.O.B. 12. Sex
+Г ‘х1-1% г   
+J3. Race
+LCUUC.
+14. Ht. 15. wt.
+5‘/c 
+28. Date of Crime
+29. Location of Crime
+16. Driver's License No. and state
+17. Mal al Status
+SEP. o. w.
+Sc  Cs 7x3
+J5-/.7- - 2 15
+30. Day. Date 4 ■
+Time Arrested
+T-F-s
+)8. Occupation
+ 5‘49 ,iN0x. iô
+I9. mployer/School
+
+s—M—T
+31. Sober
+32. Observed Drinking
+20. Phone
+'Ьно- 7 f’/srj 
+
+Yes (X) No (	)
+Yes (	) No (X}
+32. Resisted
+34. Obs. w/Narc.
+Yes (	) No (K) lves( ) NQC )
+35. Armed
+21. Original Charge
+22. Oate/Time
+(	) No 0 )
+36. weapon..if armed (Describel
+23. Charged Changed to
+24. Date .
+37. Searched by
+Л. /Ч
+Badge No.
+38. Transporting Officer
+Badge No.
+t4e i
+i
+oo't-
+39. Vehicle involved: Make.
+A'/A
+Year,
+Model,
+Color(s),
+Tag No.,
+State,
+Year Issued
+40. Vehicle Held
+v« (	) No
+
+41. PT  rty Taken From Arestee (Describe):
+42. Cash
+Ы i
+$
+43. Pr e   Held for Evidence (Descnbe):
+44. Casfl
+A'
+$
+A5..Date4Ti m.e Booked:
+- 46r Booking-Ot er
+
+6?>l
+•Q- 'hu3 r> 
+47. Bail Set At $ is ôôo
+ 	by	ch/hgt A >
+10% Yes (	) No OC)
+
+on
+Hrs.
+48. Reteased:
+No ( ) Yes ( ) Terms:
+PERSONAL DESCRIPTION
+49. Face: Round ( i/ 
+Square (	)
+Narrow (	)
+Rectangle (	)
+Triangle Up (	)
+Triangle Down ( )
+so. Hair-Color:
+Black (	) Brown (	) Blond (	) A other
+Type: straight (	) Locks (	) Clfriy (	)
+Wavy (	) Kinky (	) Bald (X) Toupee f ) Wio I 1
+51. Eyes-Color: Blue (	)
+Type: Large (	)
+Heavy (	)
+Artificial R.
+Brown (	) Black (	) Hazel (	) other (’i( )  yb-€ach eye different Color R
+Slant {	) Bulging (	) Hooded Lids ( )
+Defects: Crossed (	)
+	.Squtnts (	) Blinks (	) Glasses (	> Contact Lens F _ L.
+52. Nose:.-Large (	) Small (	) Pug (	) straight (   Pointed (	) Flat (	) Broken (	) Concave (	) Convex (	)
+I
+Small ( )
+Light {И
+Patch R L
+Deep Set (	)
+Shaven (	)
+Eye Brow: Meeting { )
+— i closed p	»
+Blind R.
+I
+I
+Both
+53. Mouth: Long/Wide (	)
+Full Lips (	)
+Small/Narrow )
+Lower Lip; Long (	) Short (	)
+Thin Lips (	)
+Upper Lip: Long (	)
+Short ( )
+54. Facial Hair: Clean shaFen (	)
+Beard (	)
+Moustache (	) Goatee (> 
+Sideburns (	)
+55. Chin: Round (	) Sqoare OC) Pointed (	) Jutting (	)
+Receding (	) Cleft (	) Dimpted (	) Double (	)
+56. Build: Slim (	)
+Medium )
+Heavy/Stout (	) stooped (	) Round Shouldered (	)
+57. Complexion: Light (•у)
+Dark (	)
+other:
+58. Speech/Voice: GrufT'( j Soft ( г
+Mute (	) Highprtched (	)
+Refined  x: )
+Lisping (	)
+Coarse (	)
+Stuttering (	)
+Effeminate (	)
+Rapid (	)
+Accent (	) Describe
+Slow (	)
+59. Peculiarities: Left Handed (	)	Ambidextrous (	)
+4 w vvears built-up shoes: Right Foot (	)
+Twitching Features (	)
+Left Foot {	) Crutch (	) Walks with cane f )
+Aibino (	)
+I Rapid Shuffline f 1
+60. Tatoo (	)/y< 4'Ear D ects (	)
+Scars and Marks (	)
+Amputation or peformrttes (	)
+Describe in Remarks Below :
+
+
+
+
+61. Modus operandi
+
+
+
+%
+/
+62.	Associates in this Arrest:.
+63.	REMARKS:	
+69'. Right Thd bpnnr
+Б
+65. Date of this Report
+64. Arresting Officer
+Badge No.
+3/6 J
+
+68. Finger print Class
+67.
+Left Thumb Print
+PD •5 {5/84)
+WHITE: R card  пычшп- Ypnnyi/- A rixrt,
+/ n	/'rx
+Governllnent of
+The Virgin isiands of the United States
+
+
+
+o
+VIRGIN ISLANDS POLICE DEPARTMENT
+NAME: WALEED HAMED
+A LIAS:
+CRIMINAL NO: B5133I6
+DATE: November 25j 2015
+POB: JORDAN
+CODE: SFP
+DOB: 01/22/1962
+ss#: 580-06-4454
+WALEED HAMED
+11/25/2015
+ST. CROIX, V.I
+EMBEZZLEMENT
+PENDING COURT ACTION
+'-Û
+
+
+I
+hnvt of lr orrof 1
+I CERTIFY: That th 
+Record Search by: /
+DESARR1E FARQImM
+Isxtrui
+in our Crimmal flle.
+ьшоп
+ropy 01 
+
+
+/1 '
+VPT. KENNETH EDWARM
+
+Page 1 of 1
+MessageDetail
+1L0104HC00001YCW
+vr0010308
+CLEAR NAM/HAMED, WALEED NIC/W225040592
+11/25/2015, 05;52:31
+-	MKE: cw
+-	Source: NCIC
+-	ISN: 04HC000025
+-	REF: UNKNOWN
+r
+r шщ €мтнЁштш INFORMATION-NCIC
+I тёегштё the gllideitlles for and the
+HstrKnions on anyseeondary dissemination
+mformaëoll contained in this report.
+
+11/25/2015
+http://192.168.1.100/ofweb/MessageDetail.aspx?userId-MARCELLEE2< MSgID-24945170055246( ti...
+Page 1 of 1
+MessageDetail
+1L0104HC00002MQWA
+Vi0010308
+***MESSAGE KEY QWA SEARCHES ALL NCIC PERSONS FILES WITHOUT LIMITATIONS.
+WARNING
+MKE/PROBATION OR SUPERVISED RELEASE STATUS
+ORI/TXUCP037G NAM/HAMMOND, JOEL SEX/M RAC/W
+DOB/19620122 HGT/600 WGT/165 EYE/BRO HAI/BRO FBI/878355FC1 CTZ/US
+soc/454213433
+OCA/21409
+VLD/20150311
+MIS/PLEASE CONTACT FEDERAL PROBATION/PRETRIAL OFFICER WITHIN 24 HOURS IF AN
+MIS/INQUIRY OR CONTACT IS MADE CONCERNING THIS SUBJECT TO ADVISE THE NATURE OR
+MIS/REASON OF THE INQUIRY OR CONTACT
+DPE/20221I23
+DSS/20I4II24 SON/SMITH,ANDREA SOT/903 508-6029
+DNA/N
+EML/ANDREA_SMITH0TXEP(DOT)USCOURTS(DOT)GOV
+ORI IS US COURTS US PROBATION EASTERN DISTRICT OF TX 903 590-1330
+IMN/I121182073 IMT/M
+NIC/C073I72415 DTE/20141205 1215 EST DLU/20150824 2315 EST
+REPEAT
+BASED ON THIS INFORMATION
+TELEPHONE OR EMAIL TO ADVISE OF CONTACT WITH SUPERVISED INDIVIDUAL.
+PLEASE BE ADVISED THAT SUPERVISING AGENCY MAY NOT BE
+OPERATIONAL 24/7.
+IMR/
+NO NCIC WANT FBI/717070CC2
+NO NCIC WANT soc/580064454
+11/25/2015, 05:53:47
+-	MKE: QWA
+-	Source: NCIC
+-	ISN: 04HC00002X
+-	REF: UNKNOWN
+DO NOT ARREST BASED ON THIS INFORMATION
+DO NOT ARREST
+PROBATION OR SUPERVISED RELEASE STATUS RECORD
+PLEASE CONTACT SUPERVISING AGENCY VIA NLETS,
+'k 'k
+IMAGEDATA[1]
+11/25/2015
+http ://192.168.1.100/ofweb/MessageDetail.aspx?userId=MARCELLEE2l MsgID-24945170055274( ti...
+MessageDetail
+7L0104HC00000YQH
+VI0010308
+THIS NCIC INTERSTATE IDENTIEICATION INDEX RESPONSE IS THE RESULT OF YOUR
+INQUIRY ON NAM/HAMED, WALEED DOB/19620122 SEX/M RAC/U soc/580064454 PUR/C
+ATN/SGT MARK A CORNERIO
+NAME
+HAMED,WALEED MOHAMMAD
+Page 1 of 1
+
+
+FBI NO.
+717070CC2
+INQUIRY DATE
+2015/11/25
+SEX RACE BIRTH DATE HEIGHT WEIGHT EYES HAIR PHOTO
+1962/01/22	510
+190
+M w
+GRN GRY N
+BIRTH PLACE
+JORDAN
+FINGERPRINT CLASS
+PATTERN CLASS
+ALIAS NAMES
+HAMED,WALEED M
+SOCIAL SECURITY
+580-06-4454
+IDENTIFICATION DATA UPDATED 2015/11/24
+THE CRIMINAL HISTORY RECORD IS MAINTAINED AND AVAILABLE FROM THE
+FOLLOWING:
+- FBI/717070CC2
+FBI
+THE RECORD(S) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION
+INDEX BY USING THE APPROPRIATE NCIC TRANSACTION.
+END
+11/25/2015, 05:47:10
+-	MKE: QH
+-	Source: III
+-	ISN: 04HC000014
+-	REF: UNKNOWN
+r*'
+r lll  collFIBilmALINFORMA'lloN
+}	the   id unes for and the
+on зпу secondary disseminatir’
+of  Infornlauon contained in this report.
+I
+http://192.168.1.100/ofweb/MessageDetail.aspx?userId=MARCELLEE2( MSgID=24945170055209< ti... 11/25/2015
+MessageDetail
+Page 1 of 1
+FL0104HC000017QR
+VI0010308
+THIS INTERSTATE IDENTIFICATION INDEX RESPONSE IS THE RESULT OF YOUR
+RECORD REQUEST FOR FBI/717070CC2. THE FOLLOWING WILL RESPOND TO YOUR
+AGENCY :
+- FBI/717070CC2
+FBI
+END
+11/25/2015, 05:48:13
+-	MKE: QR
+-	Source: III
+~ ISN: 04HC00001F
+-	REF: UNKNOWN
+http://192.168.1.100/ofvveb/MessageDetail.aspx?userId=MARCELLEE2< MSgID=24945 Î 70055220< ti...	11/25/2015
+Page 1 of3
+MessageDetail
+
+ML0111252015
+VI0010308
+CR.WVFBINFOO
+03:12 11/25/2015 03494
+03:12 11/25/2015 00899 VI0010308
+TXT
+HDR/2L0104HC000017QR
+ATN/SGT MARK A CORNERIO
+■ ■k-k-k-k-k -k- -k-k-k-k-k-k-k-k-k-k-k-k-k-k
+CRIMINAL HISTORY RECORD
+■k-k-k-k-k-k-kk-k'k'k-kk-k-k-k-kk-k-k-k-k
+■kkk-k-kkk-k-kkkkkkkk-kkkk-kkkk-kkk-k
+Introduction
+■kk-k-kk-k-k-k-k-kk-kk-k-kkkkk-k-kk-k-k-k-k-k-k
+This rap sheet was produced in response to the following request:
+717070CC2
+FBI Nuniber
+Request Id
+Purpose Code
+Attention
+c
+SGT MARK A CORNERIO
+The information in this rap sheet is subject to the following caveats:
+This record is based only on the FBI number in your request-UCN:
+717070CC2 Because additions or deletions may be made at any time,
+copy should be requested when needed for subsequent use.(US;
+2015-11-25}
+a new
+All arrest entries contained in this FBI record are based on
+fingerprint comparisons and pertain to the same individual.(US;
+2015-11-25)
+The use of this record is regulated by law. It is provided for official
+use only and may be used only for the purpose requested.(US;
+2015-11-25)
+■kkk-kk-k-kkkkk-k-k-kkkk-kkk-kk-k-kkk-k
+IDENTIFICATION
+k-kk-k-k-k-kk-k-k-k-k-k-k-k-kkkk-k-kkk-kkkk
+Subject Name(s)
+HAMED, WALEED MOHAMMAD
+HAMED, WALEED M (AKA)
+Subject Description
+FBI Nimiber
+717070CC2
+Race
+White
+Sex
+Male
+Date of Birth
+1962-01-22
+Weight
+Height
+540"
+190
+Eye Color
+Hair Color
+Gray Or Partially Gray Blue
+citizenship
+United States
+Place of Birth
+Jordan
+Fingerprint Images
+11/25/2015
+http ://192.168.1.100/ofweb/MessageDetail.aspx?userId MARCELI.EE24 MsgID-24945170055222 ti...
+Page 2 of 3
+MessageDetail
+Photo Images
+Photo Image Available
+Capture Date
+(No Photo Image Transmitted
+2003-09-18
+)
+Caution Information
+Caution
+CONFIRM THAT WANT IS STILL
+OUTSTANDING. AGENCY-VI PD-ST CROIX CHARLOTTE
+AMALIE (VI0010308) NIC-W225040592WANTED-NCIC
+#W225040592 HAMED,WALEED EMBEZZLE -
+PROP CASE #13A04488 DATE OF WARRANT
+11/23/2015 NOTIFY VI0010300 VI PD-ST CROIX
+CHARLOTTE AMALIE VI
+WANTED
+BUSINESS
+■к-к-к-к-к- -к-к-к- -к-к-к-к-к-к-к-к-к- -к-к-к-к-к-к
+CRIMINAL HISTORY
+'k'kk-k-k'k-kkkkk'kk'k'k'k'k'kkkkkkk'kk
+= Cycle 001 =====:
+2003-09-18
+Earliest Event Date
+2003-09-18
+Arrest Date
+Arrest Case Number
+Arrest Case Nulllber
+Arresting Agency
+Charge
+VIFBISC00 FBI-RA-ST CROIX SAINT CROIX
+1
+Charge Literal
+Severity
+2603 - MAIL FRAUD
+Unknown
+2
+Charge
+6110 - MONEY LAUNDERING (IF TAX BASED)
+Unknown
+Charge Literal
+Severity
+3
+Charge
+6101 - INCOME TAX
+Unknown
+Charge Literal
+Severity
+(Cycle 001)
+Court Disposition
+Court Case Number
+Court Agency
+Charge
+I
+CONSPIRACY TO DEFRAUD THE UNITED STATES COUNT
+(1)-FELONY
+( DISMISSED, OR GOVERNMENT MOTION FOR ACQUITTAL
+GRANTED OR ANY DISPOSITION OTHER THAN
+DISPOSITION OTHER THAN A CONVICTION NOT COVERED
+BY ANOTHER CODE)
+Charge Literal
+Disposition
+2
+Charge
+MONEY LAUNDERING-MURDER COUNTS
+(2,4,5,6,7,8,9,10,11,12)-FELONY
+( DISMISSED, OR GOVERNMENT MOTION FOR ACQUITTAL
+GRANTED OR ANY DISPOSITION OTHER THAN
+DISPOSITION OTHER THAN A CONVICTION NOT COVERED
+BY ANOTHER CODE)
+Charge Literal
+Disposition
+3
+Charge
+FRAUDS AND SWINDLES COUNT (3)-FELONY
+( DISMISSED, OR GOVERNMENT MOTION FOR ACQUITTAL
+GRANTED OR ANY DISPOSITION OTHER THAN
+DISPOSITION OTHER THAN A CONVICTION NOT COVERED
+BY ANOTHER CODE)
+Charge Literal
+Disposition
+4
+Charge
+FRAUD, WAGERING TAX, OTHER COUNT (13)-FELONY
+( DISMISSED, OR GOVERNMENT MOTION FOR ACQUITTAL
+GRANTED OR ANY DISPOSITION OTHER THAN
+Charge Literal
+Disposition
+http://192.168.1.I00/ofweb/MessageDetail.aspx?userId MARCELLEE2 MsgID-24945170055222i ti... 11/25/2015
+MessageDetail
+Page 3 of 3
+DISPOSITIUlx) OTHER THAN A CONVICTION NOT coviJKED
+BY ANOTHER CODE)
+Charge
+5
+Charge Literal
+FRAUD AND FALSE STATEMENTS COUNTS
+(14,15,16,17,18,19,21,21,22,23)-FELONY
+( DISMISSED, OR GOVERNMENT MOTION FOR ACQUITTAL
+GRANTED OR ANY DISPOSITION OTHER THAN
+DISPOSITION OTHER THAN A CONVICTION NOT COVERED
+BY ANOTHER CODE)
+Disposition
+Charge
+6
+Charge Literal
+Disposition
+CRIMINAL FORFEITURE COUNT (24  amp; 25)-FELONY
+( DISMISSED, OR GOVERNMENT MOTION FOR ACQUITTAL
+GRANTED OR ANY DISPOSITION OTHER THAN
+DISPOSITION OTHER THAN A CONVICTION NOT COVERED
+BY ANOTHER CODE)
+INDEX OF AGENCIES
+
+
+Agency
+Agency Email Address
+Address
+VI PD-ST CROIX; VI0010308;
+CHARLOTTE AMALIE, VI 00801
+Agency
+Agency Email Address
+Address
+VI PD-ST CROIX; VI0OIO300;
+CHARLOTTE AMALIE, VI 00801
+Agency
+Agency Email Address
+Address
+FBI-RA-ST CROIX; VIFBISC00;
+SAINT CROIX, VI 00824
+* * * END OF RECORD * * *
+11/25/2015, 05:48:15
+-	MKE: CR
+-	Source: NLETS
+-	ISN: 04HC00001H
+-	REF: UNPCNOWN
+http://192.168.1.100/ofweb/MessageDetaiLaspx?userId=MARCELLEE2( MSgID=24945170055222< ti... 11/25/2015
+MessageDetail
+1L0104HC00001KQWA
+VI0010308
+Page 1 of 1
+***MESSAGE KEY QWA SEARCHES ALL NCIC PERSONS FILES WITHOUT LIMITATIONS.
+MKE/WANTED PERSON
+EXL/1
+ORI/VI0010308 NAM/HAMED, WALEED SEX/M RAC/U POB/JO
+DOB/19620122 HGT/510 WGT/190 EYE/GRN HAI/GRY FBI/717070CC2
+soc/580064454
+OFF/EMBEZZLE - BUSINESS PROP
+DOW/20151123 OCA/13A04488
+NOA/N
+MIS/SUBJECT IS WANTED FOR EMBEZZLEMENT BY FIDUCIARY/PRINCIPALS SGRAND
+MIS/BAIL WAS SET 0 $75,000IF ANYONE COMES IN CONTACT W/SUBJECT PLEASE CONTACT
+MIS/SGT MARK CORNIERO 0340 7126100 OR NCIC 0340 7126066/6015 FAX 340 7782948
+DNA/N
+ADD/01 - RESIDENCE (LAST KNOWN} DDA/20151123
+SNU/#7 SNA/SOUTHGATE
+CTY/CHRISTAINSTED STA/VI ZIP/00820
+COU/ST CROIX
+ORI IS VIRGIN ISLANDS POLICE DEPARTMENT 340 778-2211
+AKA/HAMED, WALEED MOHAMMAD
+AKA/HAMED, WALLY
+NIC/W225040592 DTE/20151124 1640 EST DLU/20151124 1724 EST
+FULL EXTRADITION
+LARCENY
+WARNING - DO NOT ARREST BASED ON THIS INFORMATION
+MKE/PROBATION OR SUPERVISED RELEASE STATUS
+ORI/TXUCP037G NAM/HAMMOND, JOEL SEX/M RAC/W
+DOB/19620122 HGT/600 WGT/165 EYE/BRO HAI/BRO FBI/878355FC1 CTZ/US
+soc/454213433
+OCA/21409
+VLD/20150311
+MIS/PLEASE CONTACT FEDERAL PROBATION/PRETRIAL OFFICER WITHIN 24 HOURS IF AN
+MIS/INQUIRY OR CONTACT IS MADE CONCERNING THIS SUBJECT TO ADVISE THE NATURE OR
+MIS/REASON OF THE INQUIRY OR CONTACT
+DPE/20221123
+DSS/20141124 SON/SMITH,ANDREA SOT/903 508-6029
+DNA/N
+EML/ANDREA_SMITH0TXEP(DOT)USCOURTS(DOT}GOV
+ORI IS US COURTS US PROBATION EASTERN DISTRICT OF TX 903 590-1330
+IMN/I121182073 IMT/M
+NIC/C073172415 DTE/20141205 1215 EST DLU/20150824 2315 EST
+REPEAT
+PROBATION OR SUPERVISED RELEASE STATUS RECORD - DO NOT ARREST
+BASED ON THIS INFORMATION - PLEASE CONTACT SUPERVISING AGENCY VIA NLETS,
+TELEPHONE OR EMAIL TO ADVISE OF CONTACT WITH SUPERVISED INDIVIDUAL.
+PLEASE BE ADVISED THAT SUPERVISING AGENCY MAY NOT BE
+OPERATIONAL 24/7.
+IMR/
+i< ir
+IMAGEDATA[1]
+11/25/2015, 05:49:13
+-	MKE: QWA
+-	Source: NCIC
+-	ISN: 04HC00001V
+-	REF: UNKNOWN
+http://192.168.1.100/ofweb/MessageDetail.aspx?userId=MARCELLEE2< MSgID=24945170055236< ti... 11/25/2015
+сл CD
+ф >
+о сл  
+X с:  
+§
+о
+(Л о
+со о
+о >
+D  
+П1 Z
+о
+
+ь-»
+ш
+-ч
+о
+
+I-»
+с:
+Fl
+<
+сл
+о
+- 1
+□ 5
+‘V
+NJ
+
+о
+
+о
+с
+сл
+ип
+
+о
+й:
+(Г
+о   «
+сл
+о
+гп
+к
+4  е
+о
+>
+о
+м
+
+
+X
+(Л
+0 
+о
+
+
+п
+m
+УЭ
+ш.
+о
+сл
+I-»
+
+
+>
+Q
+оп  
+
+
+
+
+сл
+
+о
+
+2:
+>
+>
+о
+Z
+
+>
+z:
+
+-1 
+>
+сл
+
+>
+> >
+п о
+m
+о
+
+о
+m
+[I! m
+  >
+г<  
+2 °
+а
+о
+X
+
+m
+CÔ
+m
+сл
+сл -I
+>  
+к  
+X
+о g
+X
+X
+
+X
+2 >
+D я
+сл
+m
+
+
+ао
+m
+о
+сл
+
+>
+
+CD
+гп
+сл
+гл
+X ос
+m
+m  
+
+>
+о
+d
+
+
+
+Z
+CD
+X
+сл
+о
+о  
+X  
+
+
+>
+m
+сл
+m
+н
+m
+о
+3!
+D
+X
+
+гп
+о
+§ i
+O’ Q
+Д]
+>
+  i
+ё =
+о
+
+о
+<
+сл
+>
+со
+м
+с
+
+77
+
+
+
+ГТ|
+45»
+о
+н
+со
+>
+
+X
+4 
+гп
+m
+о
+X
+
+со
+Û) -п
+о <
+Q. 5
+4 
+X
+X
+сл
+>
+со
+
+
+
+сл
+
+о  
+>
+
+о
+о z!
+в i
+X
+
+X
+
+
+X
+
+  S
+X >
+  d
+X
+X
+сл
+X
+и
+(Л
+
+
+CL
+о
+>
+lE 8
+ю сл
+сл I
+о
+н
+-о
+гп
+о
+■о
+
+
+
+гп
+>
+X
+m
+d
+сл
+о
+•н
+а
+8
+>
+о
+X
+о
+>
+сл
+с
+X
+X
+X
+го 8
+
+п
+
+X
+<л
+о
+>
+m
+8
+<
+гп
+>  
+I-»
+о
+X
+X
+о
+о
+  1
+о
+X
+X
+тс
+Uÿ
+
+|х
+гп
+m
+гп
+X
+о
+d
+о
+(Л
+Z
+
+а
+о
+m
+Н-»
+>
+>
+Z
+о
+X
+■1А
+X
+OJ
+сл
+
+-<
+-о
+У’ о
+о
+X
+сл
+
+
+8
+Z
+
+гп
+
+о
+>
+
+X
+о о
+о -п
+к  
+о m
+i
+8
+о
+>
+со
+гп
+2:
+
+
+о
+d
+H
+m
+
+X
+8
+>
+m
+>
+-<
+X
+(Z
+гп
+гп
+
+X
+ГГ|  
+I  
+X 0
+со
+гп ч
+о
+со
+m
+m
+
+1 ”
+N ••
+со
+X
+
+0
+у:
+н
+о
+о
+гп
+>
+X
+с  
+
+
+со
+гп
+о
+о
+о
+Q m
+>
+о
+гп
+
+р;;
+-о
+СТ)
+X
+гп п
+гп
+Q
+о
+
+
+о
+о
+Q
+о
+
+
+m
+сл
+>
+8
+>
+о
+m
+гп
+>■ i
+
+о
+гп
+X
+
+i
+сл
+X
+о
+
+>
+Ô
+
+о
+
+
+о
+X
+D
+Z
+Ô5
+X
+|П
+X
+-<
+X
+
+гп
+сл
+
+о
+X
+Z
+-<
+X
+>
+d
+о
+и  
+>
+X
+
+J:: Fi 
+<1
+гп
+сл
+гп
+н
+ю
+
+
+го
+СП
+сл
+KD
+X
+>
+сл
+гп
+
+rsi
+NJ
+m
+о
+M
+го
+о
+
+о
+о  
+-
+'У 8
+Г-» ш
+сл
+СП
+гп
+R'
+
+
+(Л
+сл
+>
+>
+гп
+CJ
+
+
+гп
+CD
+X
+>
+05
+:z
+го X
+о
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
