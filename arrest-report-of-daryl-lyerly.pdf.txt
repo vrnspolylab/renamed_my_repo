@@ -1,0 +1,4684 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>arrest-report-of-daryl-lyerly.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:37:31 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:17.3174773</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>10/1/2012 6:08:59 AM</td></tr>
+<tr><td>revision date</td><td>10/1/2012 10:14:04 AM</td></tr>
+<tr><td>Creator</td><td>TOSHIBA e-STUDIO351c</td></tr>
+<tr><td>publisher</td><td>MFPImgLib V1.0</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">ARREST REPORT
+A
+ORI
+OCA
+Agercy Nanie
+Date/Tin’e Afrested
+G I
+Rowan County Sheriffs Office
+12001566
+0800000 R0009
+09/29/2012 18:45
+E N
+N F
+Taken
+Fingerprint Card Check Digit # {CKN)
+Arrest Tract
+Residence Tract
+Arrest Number
+c 0
+  Prints
+Y
+ Photos 1953FFJ
+48608
+Z08
+oc
+Country of
+Citizenship
+Name (Last, First, Middle)
+Place cf Binh
+Race
+Sex
+D.o B.
+Age
+ROWAN
+COUNTY.
+LYERLY, DARYL LEWIS
+07/21/1980
+w
+M
+32
+US
+NC
+Current Address
+Cccupatlon
+Phdne
+  Resident □ Unkncwn
+□ Non-Resident
+A
+10032 Old Salisbury Rd, LINWOOD, NC 27299
+Disabled
+336-425-5380
+R
+Employer’s Name
+Phene
+Address
+R I
+UNEIVIPLOYED
+E N
+704-
+s F
+Censumed Drug/Alcohol
+□ yes   NC □ Unk
+Also Known As (Alias Names)
+Skin Tone
+Hair
+Eyes
+Hgt
+Wgt
+T о
+BLN
+GRN
+LGT
+5’07
+150
+E
+E
+Scars, Marks, Tattoos
+Misc. # and Type
+Social Security #
+CLN and state
+TATTUPPL BACK/SKULL/TRIBAL; TATT
+28814258
+240-55-4361
+Nearest Relative Name
+Phone
+Address
+LYERLY,NANCEY
+10032 OLD SALIBURY RD, LINWOOD, NC
+If Armed, Type ofweapon
+Place of Arrest
+D On-View П Criminal Summons
+Q Order for Arrest D Citatioh   Warrant
+NOT APPLICABLE/NONE
+2555 N US 29 HWY, SPENCER
+Warr. Date
+Charge #1
+Breaking Or Entering Buiidings Generally
+Statute #
+Counts
+DCI Code
+Cffense Jurisdiction (if not arresting agency)
+Z) Fel
+□ Misd
+A
+R I
+0500
+2
+14-54
+09/28/2012
+R N
+Warr, Date
+Charge #2
+Felony Larceny
+DCI Code
+Offense Jurisdiction (if not arresting agency)
+Statute #
+Counts
+E F
+  Fel
+□ Misd
+s 0
+1
+0690
+14-72
+09/28/2012
+T
+Warr, Date
+Cha'’ge ff3
+Larceny Motor Vehicle
+Offerse Jurisdiction (if not arresting agency)
+Statute à
+Counts
+DCI Code
+  Fel
+D Misd
+2
+0710
+14-72/AUTO
+09/28/2012
+VIN
+VYR
+Make
+Model
+Style
+Color
+Plate #fstate
+V
+N
+E
+Vehiole
+□ Seoured
+2,	D Released to other at owners request
+3.	D Impounded D Place of storage 
+1, D Left at Scene
+□	Unsecure
+□	Name of Other
+Date/Time
+F
+H
+0
+Inventory on Fite'?,
+Date ime Confined
+Committing Magistrate
+Place Confined
+c
+09/29/2012 19:45:08
+T. WYRICK
+RCDC
+о
+N в
+Type Bond
+D Written Promise П Unsecured
+[Zl Secured Q No Bond П Other
+City
+Trial Date
+Court Of
+District Court
+Bond Amount
+F о
+SALISBURY
+I N
+$5,500.00 10/02/2012 09:00
+N D
+E
+Date/Time Released
+Assisting Ofreef Name/ID #
+Released By (Name/Department/iD #)
+D
+0
+Status
+Codes
+c - Counterfeit / Forged F - Found
+L - Lost
+s - Stolen
+R - Recovered
+D - Damaged
+z - Seized
+8 - Burned
+Check up to 3 types of activity for each
+DCI
+Status
+Quantity
+Type Measure
+Suspected Type
+Sale
+operating
+Possess
+Buy
+Mfg.
+Importing
+A
+D
+R
+R
+AR
+ТЕ
+G
+s
+s T
+c
+Complalnant
+Victim D
+Phone.
+Name.
+Address
+о
+M
+HENLINE, G 8
+232 N Main St, Saiisbury, NC 28144
+704-216-8700
+P
+OFA was for speeding, expired reg in Randolph County, court date 10/19/2012, bond $500.
+N
+A
+R
+R
+A
+T
+V
+E
+Supervisor Signature
+Arresting Qfficer Signature/ID #
+Date ime Submitted
+s
+T
+STONER, s. R. (RCS000403)
+WILLIAMS, c. D.
+09/29/2012 18:45
+A
+Case Status:
+D Further Inv.
+П lhactive   Closed
+Arrestee Signature
+Case Disposition:
+□ Cleared By Arrest / No Supplement Needed
+  Arrest / No Investigation
+T
+и
+s
+Rev. 3/92
+DCI-608F
+ARREST REPORT (Additional Charges)
+OCA
+Da e/Time Arresled
+Agency Name
+ORI
+12001566
+Rowan County Sheriffs Office
+0800000 R0009 09/29/2012 18:45
+Afrest Number
+Arrestee Name
+LYERLY, DARYL LEWIS
+48608
+(if notarresting agercy)
+DCI Code Offense Jurisdiction
+statute # Warr. Date
+Fei/Misd Counts
+Charge
+2690 RANDOLPH COUNTY
+ivi
+1
+15A-305
+05/23/2012
+Failure To Appear/comply
+Page 2
+Arrest Report (Additional Charges)
+-ч о
+
+о >
+ 9
+It 6
+I g
+P
+O
+
+
+
+  Q
+O
+
+SJ 1 	 
+— m  
+P   a
+O    
+i
+ 	9
+  Cl    	~
+O   E O   I
+
+r
+
+7   
+O >
+
+
+
+>1
+CO
+00
+e-
+
+
+1 
+
+SJ
+P  
+<b
+vo
+i
+O
+
+<0
+O
+O
+II
+
+
+
+X
+Z! Ш
+1 
+3. O
+11
+(O  
+31  
+3 O
+Ю «'
+O
+Со
+O
+
+NJ
+H
+R O
+  f
+ъ
+P
+C/D
+>
+
+>
+O
+O
+
+
+r
+Z
+
+CO
+NJ
+b
+
+2:
+DO O
+
+a
+O
+rn
+
+c
+  i
+
+
+
+ГП
+
+  D
+a
+Q р*э
+>
+0 
+СЛ
+
+2:
+O
+NJ
+(-0
+O
+O
+%
+H
+P
+O
+2:
+СЛ
+7}
+
+
+i
+O
+
+>
+CO
+
+i: 
+Da
+>
+O
+-р  0)
+Ы  
+Z:  
+
+NJ
+O
+b
+3
+Ч
+m
+2
+>r
+O
+O
+
+H
+
+m
+a
+O
+i§i
+!
+B-
+D
+<
+
+'<
+
+(b
+V)
+
+O
+
+
+
+ГП
+O
+Z
+00 CO
+H X
+-П
+
+
+ 1
+70
+P
+
+n
+ii
+H
+
+Z
+m
+
+D
+m
+
+B’
+s
+'<
+il
+Ы
+O
+n
+2:
+c
+ая
+O
+O  
+O CO
+c ct
+"П
+(A
+
+n
+a
+
+
+
+H
+P
+O
+O
+“r1
+2l
+ 1
+c
+P
+
+—, O
+r  
+
+PO
+H
+cn
+n
+
+
+cro
+
+n
+;§■
+Z
+00
+7)
+
+Z
+i
+ЗГ
+•c*
+<8
+O
+f*  
+с!л ü
+
+
+i'
+O
+2
+O
+Vl
+
+P
+>
+P
+
+R
+>
+Ul
+O
+D
+
+
+O
+> f
+  B-
+PDJ
+l•   
+NJ
+3
+00 r: 
+  a
+00
+31.
+O
+
+::o
+7:1
+C>J
+3
+UJ
+2
+'Q
+O
+O
+2
+O
+w
+Q.
+
+ON
+XI
+O
+m
+I
+
+
+ca
+O
+П.
+  O
+a
+
+
+
+00
+NO
+ГТ1
+'-J
+Z
+O
+3
+
+я
+CO
+
+NJ
+O
+(Л
+ço
+>
+I  
+NJ  
+  a
+P
+CO
+O 1:: 
+
+
+
+CO
+H
+O
+•D
+ç>
+2
+<
+NJ NJ
+P— -O
+(J\ NJ
+  NJ
+O ®®
+O -'
+
+NJ
+CO 0®
+<D rr‘
+
+O
+<a
+a
+ço
+СЛ
+O
+O
+O
+O
+NJ
+so
+4 
+
+so
+
+4 
+'O
+S)
+ÇP)
+O
+;d	 
+i	 
+i	 
+П	 
+I	i
+i	b
+>1
+i I
+O Cd   .r- O H
+P  —' O Ч cr CD r\1
+P 2)	 	O 3 “
+P l-H ;:l. ;S ‘'' <л  
+2  O   P CD  
+i   e if
+0 w P- :7 P. QJ
+  g в:   a l.
+    cr    
+O     g '' cr  
+  CJ B- P tz ÇD  
+P zt t%o
+  a g  
+Sllf
+P 0>
+CTI B. < *a
+<li§-
+r    
+m O I fr	 
+ 1 f e
+(Л
+9- -l
+0) q 3-
+ü> CD  
+я
+s iT
+-I®
+O CD (0
+CD O 5'
+c = o
+Q. O-
+ô'‘<
+0 0
+is-
+-■4 
+p  CD
+  □B
+H
+>
+II
+II
+m
+0
+H
+7}
+O
+m
+>
+m
+m
+O
+O
+O
+(/>
+ГП
+
+O
+73
+“П
+Z
+O
+
+O
+Z
+  P
+Q □c
+
+
+>
+O
+2
+il
+O
+71 O
+w C/J
+  O
+O
+TJ
+P
+O
+H
+5'
+NJ
+■0
+X
+O
+■<!
+O
+Q)
+a
+ON al
+O
+c/l
+C’
+3
+l-
+NJ
+a.
+>
+Z
+CO
+O
+
+O
+c
+X3
+Д
+ощг
+§lf
+CD
+Q -c°-
+CD
+(Л O O
+3.
+O  
+Q
+H
+O
+СЛ
+O
+a
+’П
+r
+ô’
+O
+O
+ZT.
+c
+D
+O
+Z
+D
+
+X
+D
+
+>
+  NJ 7;;  a
+  ° i I
+s
+(Л
+m
+X
+7}
+CD
+O
+<
+D
+O
+3
+n
+P c -.
+Ш û, =»
+зтю 
+  mçD
+ÔO 
+“ m 
+7,lt
+3- P
+Û3  3
+CP   -.
+û> R =
+O' 9- CD
+O “ CL
+< я c
+P Ш’О
+3 O
+D. O
+c
+я
+'”2l  
+  H O
+O    
+>	g.    
+a cr P O
+c/} P a'
+>	  3 Яч
+Ч
+O
+CD
+O'
+m ;<
+CD
+P
+D
+p' Q
+
+CD
+P
+3.
+ 2
+O
+
+я œ
+O Ë.
+-  
+P  
+O
+o’ «-
+3 P
+NJ
+P
+O
+P
+
+00
+c   Вч I
+  Q P'
+1=
+я
+ЗГ
+4 4
+O
+c/l
+B
+г
+s>.
+P
+vo
+  O    
+  00 P O
+IO
+  ® a »
+bJ n   cr‘
+CDO   н1 O
+O  
+■ O    
+I d I a
+5.	 	Fl
+O P   O
+„	c/) P '-N
+CD P O
+      U
+й &
+rf P
+
+
+CD
+
+я
+'O
+o'
+-n
+
+я
+
+
+ô'
+CD
+P
+'-0
+O
+
+c
+a
+O
+  l
+
+
+[E
+O'
+я
+3.
+5’Я
+!3D
+>
+ШЁт - '
+тш I ' 1 i1Élr  / :  
+CQ
+B
+
+P
+P g'
+C/D
+□
+CD
+O
+FF;
+
+3
+TD
+
+-H о
+of
+
+
+о
+
+po   po Cl i’
+о > Id о
+c:
+
+-H о
+NJ •d  
+0 "
+H о I
+о    
+  к 9
+r о 1 
+|8|
+ ||
+и
+г
+
+a >
+;o 00
+1Ш
+
+
+>i
+r
+E
+00
+
+
+в
+
+SJ
+p 
+о >
+ 8
+r  a
+Id  
+VO
+о
+
+о
+о
+роь
+::<§.
+f b
+га
+î<l
+tn 
+
+
+
+O
+a:
+<a a
+Л ф
+
+po
+
+H
+Ov
+8 I
+  I
+  n
+-Л O
+
+
+СЛ
+>
+>
+П
+O
+n
+
+
+b
+X
+i.s
+
+Ш
+tsj
+п
+2:
+O
+a
+O O
+à-l’
+V'
+8 s 
+8 s
+m
+
+c
+и
+•3 3
+2::
+ГХ1
+
+  O
+a
+Q  
+>
+tîlfB
+i' 
+fi
+ю  
+3’i
+3 Ф
+(Q <
+O  
+
+<A
+<
+Z
+O
+Ю
+O ;<
+o-<
+=.■
+
+9
+O
+H
+
+O
+7}
+7)
+>
+9 1 "
+1: 
+O
+
+
+>
+
+P
+’d
+pç
+b
+Ы
+O
+R-
+
+H
+rn
+
+I
+O
+O
+s
+m
+0--
+<11 O
+O CO
+II
+O
+•O
+<
+i
+-<
+'t-
+73
+O
+a-
+
+
+
+m
+Z
+CO CO
+H X
+'1
+ 1
+•П
+$
+из
+O
+
+n
+H
+
+Z
+m
+X
+■31.
+O
+B-
+
+<
+Ы
+O
+73.
+a
+<0
+3l
+3 'i
+■Tl
+<0
+O
+>
+
+n
+
+X
+73
+ IC
+01( 
+O
+
+D
+
+t
+« O
+:: a
+i
+® I
+-I
+H
+PO
+O
+
+
+
+X
+CO
+rd
+%
+
+7]
+I
+X
+
+O
+<Q
+O
+2:
+8  
+N>  
+O
+
+i'
+O
+
+
+(JX
+O
+H
+>
+O
+NM
+
+>
+VI
+m
+
+  U
+Ы
+3
+00
+
+'-J
+X
+73
+73
+  2:
+  n
+00 3
+00 и
+„ Ф
+O
+v>
+
+<i
+O
+n
+Z
+2
+C/)
+O
+s 
+4: 
+
+73
+m
+
+5'
+O
+' o
+'O
+U
+c
+“ a>
+<0 00
+■pv.  
+bJ P
+'-  Og
+00
+4: 
+(O
+00
+Oo
+
+m
+
+O
+Z
+
+O
+c/)
+a)
+>
+Q
+I  
+  a
+CO
+
+i.
+
+
+ô
+
+H
+CO
+
+P
+2
+M
+<
+tvj to
+I—> 'O
+ON to
+to
+O 0®
+O ■r
+â O
+CD to
+CO ®p
+CO ■-'
+
+'t
+P
+(/>
+O
+O '0
+O
+to
+о
+VO
+
+4 
+VO
+
+-о
+to
+со
+о
+  i
+I  
+Il >f
+II о  
+  I'  
+3   гп
+о W
+   	  >Г" о н
+§	I	11	  ||
+ 	 	 	в	I:и:а
+о '<  оо
+р а. В’	ш “‘
+5 ■	 	1	'gl	ф I
+t   1: vl	i
+ 	/0	р	Б	:::	:□
+я	 	 	 	°-
+в-	о	о	 	 	'"■
+р	00	 	р	0|
+о I'
+1!л	 	 	о	 
+ 	о	 	 	g*
+о	tT1	0<	01	р
+::	п	ы	р.	н:
+ 	 	Û	 	о
+о	н	 	р	 
+в	ш	 	i'	1
+р	 	к-	 	о
+"i	с 	р'
+ 	 	 	I	а
+ 	 	 	 	 
+ 	 	о	®	р'
+сл
+9-Ё'-|
+i’
+= w P
+ш П) й
+I  
+н
+н
+X
+>
+n а’
+я 3
+ГТ1
+н
+73
+
+3
+m
+р§  
+о ÇD (Л
+  о 5‘
+ш <
+с:   о
+о. р Ci)
+ô '<
+Яоа
+ 1
+Ё.-ё
+-<	ф
+X	~
+>
+Q
+о
+  Q
+i
+1 р
+со
+1—1
+m
+n
+73
+Tl
+Z
+о
+
+  Z
+O
+□□
+P
+
+-<
+O
+>
+O CD
+II
+O  
+i  
+  O
+2
+O
+73
+O
+H
+tvo
+■0
+X
+O
+‘<!
+O
+Q:
+и
+O
+CO
+CL
+I
+
+I
+o\
+>
+Z
+Os
+П)
+9
+O
+c
+73
+  û),  
+ =3 Д
+î t
+O _>Q.
+Ф   <-►
+  0) D-
+
+a
+Ч
+O
+СЛ
+O
+Q.
+“П
+ô'
+O
+ç:
+O
+P-.
+c
+P
+O
+Z
+D
+73
+г
+D
+
+P
+>
+00 NJ    
+r ° I I
+  2: I s
+
+(Л
+m
+a>
+X
+73
+00
+Ф
+O
+<
+Cd
+O
+□
+O
+d
+я
+O Ф
+11
+  H n
+ô
+H
+0)
+P
+m ■<
+CP
+Ш
+P
+Q.
+
+CP O
+'< nip
+  тя
+  O
+Q
+
+CO
+Ш
+CP
+
+O
+я Ф
+O P
+°  
+P P-
+I' Q
+O t-
+D с
+
+S)
+c
+%■
+O
+CD
+Ш
+CO
+г
+«• я
+P
+
+00
+3’
+'H
+
+
+Ч
+û}
+vo
+
+vo
+P)
+CP
+vo
+  I' 9   s
+crQ
+O P
+я
+vo
+5'
+
+я
+Ш
+гг
+
+
+
+P Z 3
+•n CP  
+CO 3H CO
+w CP (/)
+P)   c
+O   a
+ ll
+crID'
+.1' 
+P
+o‘
+P
+O
+cr
+n
+CP
+CP
+P
+
+i  
+  8   _
+O I71   a
+Г2 2   я
+t! O "
+O   P Я,
+O
+O
+a
+a
+O
+vo  
+81
+
+
+
+
+i
+[B
+P
+O
+O
+tT 
+Ш
+O
+a
+
+
+c/:
+>
+
+ca
+O 'J
+s
+
+P
+я  
+cpg-
+CO
+.
+Â:B:m..:>. ;...
+□
+O
+O)
+P
+•0
+
+-  
+с i
+ot
+
+о
+
+
+
+- 9
+p
+““  
+NJ *d Ш
+— Ш  
+Ч d,
+po b
+r w a
+H о i-
+  Щ Î
+о
+r о  
+isl
+I
+isiiil
+8  8il
+t
+4 
+r
+0 >
+
+1 
+i!
+>i
+oo
+i:
+
+
+
+
+p 
+°9
+о >
+о
+(tl
+о
+о
+га
+OOQ
+r 
+ша
+
+  о
+
+X
+I!  
+I-
+■3 3
+5' 
+р
+1! 
+о о
+<° <
+« <
+о
+73
+со
+о
+
+н
+о
+о
+
+о
+сл
+>
+о
+>
+
+
+
+IS
+
+X
+
+со
+м
+го
+2:
+о
+а
+о о
+■'=‘  •
+о
+m
+
+с
+
+
+СП
+  о
+
+3
+о ’рз
+>
+
+(Л
+<
+X
+
+о
+NJ
+СУ1
+= ■
+о к
+%
+н
+9
+о
+2:
+С-О
+7]
+:о
+
+о
+
+о
+
+>
+
+со
+><
+2:  
+о
+I?
+'П
+70
+о
+N>
+
+н
+m
+о
+о
+
+н
+9
+m
+о-»
+fâ
+аа
+о
+<
+
+-<
+
+о
+‘а-
+о
+
+
+
+
+СП
+00 00
+н X
+-Ч
+•Т1
+
+ 1
+ф
+
+9
+п
+о
+н
+Z
+СП
+X
+7S
+€ =;
+S’
+
+3:
+><
+
+о
+70
+с
+5' 
+2|
+“П
+Со
+<
+п
+
+=п
+70
+
+о
+77
+и
+о
+о
+
+СП
+о
+S’
+с
+о
+I
+
+ч
+о  
+о со
+II
+п
+ч
+-  
+  5
+', сь
+|'
+X
+Р-—
+crt 
+
+X
+со
+
+Д]
+X
+:г
+ф
+<ф
+о
+п
+о
+
+
+I
+о
+ол
+С!:
+
+о
+>
+г
+  •~J
+со —' о
+|?« rsj
+•-4
+ч
+
+>
+с/1
+ф-
+ч
+ч
+Сл)
+NJ
+GC
+;г!
+X
+:дз
+
+ф
+>  
+C>J
+ос
+'ч
+сч
+а
+2:
+<Q
+о
+п
+
+о
+3
+«
+fb I
+
+4:: 
+сл
+7}
+о
+ч
+
+'= о
+\С
+
+с
+о
+
+а
+4 >.
+1.= 
+00
+m
+сг>
+-4
+Z
+о
+ф
+
+ф
+со
+
+ы
+о
+(Л
+
+>
+3  
+  i
+« а
+о
+со
+
+
+4: 
+9
+н
+со
+о
+■D
+
+2
+<
+bJ м
+и-i 'О
+С7\ м
+  N4
+о ос
+о ч
+â
+CD
+CD 00
+CD Ч
+
+O
+<a
+0
+
+CO
+8
+П 't
+O
+Ф
+S4
+ o
+4i-
+4 
+40
+
+4 
+
+l
+N>
+O
+ 	Ф
+%	 
+I	 
+c	s
+1	i
+СЛ	 
+i	9
+
+'so	b- 	c/}	>
+  41    	  O
+O	O	Ч	СП	Ш	Cü
+NJ	bJ	in	 	O	3	“
+O	N	5'	3	d	lp'<
+d	d	D	O
+O	 	M	D	 ::u	-21
+“	D-	nl
+O
+(Л
+P H
+Q. H
+a>   rr
+s  û)
+8-p  
+O Ф (/)
+  O 5’
+c  o
+Q. СГ CO
+ô ‘<
+H
+□( > I
+H
+X
+>
+2 I
+II
+llg]
+m
+n
+Ч
+7}
+m
+>
+00
+O
+
+Ч
+-V.	-	ИС   Q
+a- d   - Ш "'
+a: Cd 4 <Q i
+ 	 	Q	CD c*
+  и " a “■
+  Ф Q '' O-
+1 “ i a  1
+s I'? -  ■l
+lz° 
+4  d B C!:
+
+O
+b
+O NJ
+O ''
+O
+O
+Cc
+
+ГТ1
+O
+70
+Tl
+Z
+O
+
+
+Z
+m
+
+O
+□□
+■<
+O
+>
+2
+II
+O
+
+O
+Ч
+
+O
+N)
+■D
+X
+O
+O
+I"
+CD
+O
+я
+O
+0)
+O
+O
+B;
+LA
+D
+ogB
+ |_ф
+П) ж
+  û) СЛ
+a
+CO
+LO
+a
+>
+ч O- П)  
+CL  
+Z
+O
+S’
+c
+O
+7: 
+O
+
+
+D.
+G    
+
+H
+O
+СЛ
+cr -•
+O <л
+< 41
+O
+
+Q.
+■П
+r
+ô'
+O
+O
+c:
+я
+O
+
+  CB
+O   CD
+  < Cd
+c
+D
+M
+O
+Z
+O
+
+a
+72
+§lf
+D
+o“
+
+>
+00 NJ Ч O
+r ° I I
+  I
+в
+d
+СЛ
+tTi
+
+a.
+m
+H
+Ф
+O  Q-
+СЛ O O
+СЛ c: _.
+Ф ÛJ D
+CD
+CD
+X
+72
+m
+
+Ф
+O
+O
+<
+2Î
+CO
+O
+D
+n
+d
+d
+c
+я
+d
+ 	    i i*
+ГП	►< 2 s Д
+CL
+O tn B
+   
+Irn 40  
+no 04  
+    B
+  O S-
+”   ë-
+0 0
+    -
+“ 40
+H
+c/ 
+Ф
+D'
+CD
+Ф
+Ф
+
+O
+
+00
+2
+Ф ç>
+
+n H n
+Ф
+Ф
+n.
+O'
+0}
+
+O
+I
+O
+'< mw
+oo 
+“тя
+I O.
+(D
+NJ
+O
+Ш
+я Ф
+O û).
+° P
+P Д-
+I' Q
+o' «-
+D c
+
+oc
+a
+я
+tr
+CD
+4 
+O
+
+LA
+3’
+-1
+
+CD
+O
+
+гч*
+Ч
+d'
+Ш
+40
+я
+
+40
+Ф
+0)
+40
+O
+OB  
+Ф Ф
+я
+
+40
+tT1
+d
+
+n  
+al
+3’
+1
+Ш
+O
+O
+B3
+>-t
+я
+I
+гг
+
+a
+ 4*
+d
+
+я
+o'
+d
+Ф
+a'
+  3’  
+' Ф D>
+Ш   c:
+  я P
+< Яс
+о. 3
+0-5'
+“3
+З'Я
+Ф g'
+00
+ф
+о
+ф
+о
+о*
+
+d
+ч: 
+r-f
+о  
+‘О     CD
+с  р
+f III
+  0'< о
+  = о
+cfQ 2  
+о
+о
+с
+а
+о
+>9 ::1
+§ 1
+9
+
+[Е
+>
+CD
+
+ш.
+.
+р
+d
+ф
+ёш 
+<
+□
+CD
+tl
+Я-
+D
+s pxv'.
+d
+ч
+CD
+
+о
+SJ "О ш
+  ш
+I
+о
+г о щ
+t'
+  о й
+“< W  
+а|
+>0 C/J SJ ;7d п о
+п   н п г1
+о -< ® о   I
+
+
+
+о
+о
+::о
+о >
+°9
+  о
+|я
+v<
+г
+4 
+ро C/J
+
+
+
+
+е-
+00
+>1
+CCI
+
+
+в
+я
+о >
+S4
+р 
+д>
+“• Л)
+
+о
+
+1 
+о
+о
+-Ьо.
+  о >
+DO о
+i!i
+1	а
+2	о
+I  
+a 
+
+о
+со
+о
+
+SJ
+  i
+  i
+н
+ь
+о
+>
+о
+
+
+с ь
+га
+X
+CD
+SJ
+
+:z:
+
+
+■'  Д-
+о
+i.  
+ы ><
+в
+с
+
+m
+
+СП
+
+  D
+п ;=0
+о -<
+о
+2:
+ф
+ф
+>
+Оэ
+с/>
+2:
+о
+|5
+Z! 
+:о ф
+со <
+ф  
+SJ
+ш
+о
+g
+н
+о
+2:
+
+73
+
+с
+
+Сл
+о
+X
+>
+г|
+о
+>
+ь
+SJ
+;я:|
+о
+
+н
+m
+2
+а
+о
+ч
+
+о
+
+m
+.о
+о
+а
+‘<
+■о
+<
+i
+'S-
+о
+
+
+
+о -
+1 
+аа
+fi
+о  
+о со
+II
+СП
+о
+сл с/ 
+н X
+Z
+';i
+•п
+
+-п
+о
+
+75
+п
+н
+Z
+m
+■8 н;
+
+
+
+СП
+
+><
+
+о
+
+5' 
+1 =
+2:
+Tl
+
+
+
+о
+72
+о
+75
+
+’-п
+о
+с
+
+-  
+■h S
+cio z
+л  
+D
+
+н
+ч
+
+п
+э
+00
+9:
+(А
+п
+X
+75
+
+3“
+X
+7]
+ф
+<а
+о
+
+I
+о
+
+я о
+5:  ■'
+о
+о
+75
+g
+(-П
+g*
+>
+ч
+
+>
+i!
+D
+о
+
+'D
+. “ч
+ч
+SJ
+м
+Z’
+Q
+
+0D
+ф
+РО
+Д]
+>1
+ы  
+о Z
+о
+00
+'ч
+•w'
+
+о
+<о
+
+п
+
+ы
+а
+о
+W Q
+о
+
+«  
+4: 
+7}
+00
+5'
+СП
+ф
+I
+п
+-"О
+0>
+о
+о
+
+с
+в
+
+4: 
+4::.
+Çb
+го
+
+00
+о'
+С7>
+гп
+SJ <
+'О
+
+о
+Z
+со
+i;'
+
+SJ
+
+о
+я
+1  
+  а
+OJ
+g
+
+(/>
+>
+
+00
+
+
+Ô
+4 
+Со
+со
+•D
+н
+SJ
+о
+
+SJ SJ
+о\ bJ
+<
+SJ
+о 00
+о ‘Г*
+SJ
+<о оо
+ю 'Г'
+â
+ф
+о
+о
+со
+ф
+о ф
+</)
+о
+ф
+SJ
+4 
+40
+
+
+4 
+'О
+'О
+SJ
+со
+о
+о	 
+i	=5
+1	 
+8	f
+-  
+> I
+о	со	 	 	-Г-	о ч
+“■	 	о'	 	С5	Q '<
+ 	 	с	р	3	о
+»	”	t	§•	"	о  
+о	сл	 	Z	 	D-  
+о м-  	0) -с
+3	я	о:	а  
+1	 	о-	 	I
+о	2и	 	о	''	°' с
+ 	 	§	в’	||
+ 	 	 	 1
+ 	сь	а	 
+о\ о i
+сл
+0) q гг
+ш ф  
+н
+
+н
+X
+S 1
+сг I
+>
+m
+п
+lî
+7)
+5 i
+ч
+о
+о-§  
+
+m
+>
+СП
+ф
+-  
+п
+о
+1	 
+:зз	«
+'В
+1	р
+СП
+о
+о
+Со
+гп
+о
+75
+о CD (Я
+  о 5'
+с'= о
+Q. а-
+ô''<
+0 0
+—b о ~*|
+  о .-с-
+BI-D  
+  W œ
+о
+с сл
+"П
+Z
+о
+о
+  Z
+□□
+■<
+8
+>
+о
+о tD
+II
+о
+и  
+а о
+Z
+о
+:;о
+R
+о
+ч
+Ô'
+SJ
+■и
+X
+о
+■<!
+о
+
+а
+03
+о
+•:l
+в в а:
+о
+U)
+I
+
+Os
+Q.
+>
+Z
+PL q
+03 о
+о-  •
+ - <  5
+  s: " 3
+POQ    
+D' о     CD
+  я   я
+>	а ё  
+а   у о
+СА ''< р (Т
+>	  в а
+  м а  •
+  |Т1 03 о
+со   сг  
+I 7-’ о р-
+  о    
+с/3 с о
+  а  
+45   о
+-«1 
+  в   о
+  о
+ 	  р
+П' с   о
+со р
+в.   о
+пз   CL
+OS
+g
+о
+о -«
+с
+7}
+о.
+а
+о
+н
+о
+сл
+о
+о.
+
+с/3
+о
+"П
+Ô'
+I"
+о
+с:
+о
+с .
+с
+D
+о
+Z
+7)
+о
+$
+о
+00 SJ х о
+ о 11
+ 2:1 §•
+  >
+ОР-О
+о _> О-
+CD ;> .-ь
+сл о о
+р р _.
+
+(Л
+m
+7]
+X
+CD
+g
+<
+CD
+n
+O
+D
+G
+я
+  Ч c  
+oo '<
+  H O
+  P =
+  s=
+oo 
+"mB
+  O,
+O
+Ч
+CD
+rr
+m
+(Л  
+ob CD
+0)
+
+Ш
+O
+Çc?
+X' P
+a g
+
+SJ
+3
+O
+O
+00
+P
+
+B
+O ÜL
+8 n
+P  
+s. O
+СЛ
+o' c-
+■D c
+4:: 
+СУ1
+Ы
+5'
+•n
+«
+H
+c
+P
+so
+
+so
+P
+so
+lll
+O
+ZT P
+ÛJ B =>
+,n P
+CO 3  СЛ
+w P  
+lll
+•'11
+0.55
+B
+so
+3'
+Ш
+O
+B
+
+ r
+ô'
+P
+P
+g
+g
+a
+a
+O
+я ::i
+i i
+
+
+Ш:-
+■•гл 1
+•V
+'-ъ
+[E
+o  O
+i' 
+f-л
+Л
+
+>
+“B
+s-p
+P g-
+P P
+f-f  
+
+
+C5
+s
+CO
+□
+Q
+a
+x'r,b''£-«i-:-h,f
+"D
+
+-и о
+о|
+о
+
+
+
+  о
+
+  " i п у i
+iil8l38iî
+г g i
+il
+  H  
+  П
+?3 r
+NJ "d  
+“ tl  Э
+4 
+
+r
+
+
+  >
+  00
+r
+>1
+  b >
+00
+I
+8
+p 
+B
+  d.
+  a
+
+
+NJ
+a
+°9
+vo
+'O O
+"“ O
+<b
+:<a
+O
+
+O
+
+
+
+
+O
+
+3li.
+H
+и
+  я O
+  to  
+c  NJ :]
+*'	CO
+П
+-* O
+;:::  O
+1 
+O Ф
+00
+>
+r-b
+X
+
+i.§
+ГТ1
+>37' CO
+■3 B   G
+11
+ii H
+3! 	■<
+Э Ф
+Ш <
+« <
+a
+O O
+
+t
+m
+4 
+
+'TL
+rn
+O
+  D
+
+
+>
+
+nlàl
+(/>
+-<
+2:
+n>
+
+O
+у ■:: 
+4t   
+Ы  
+5
+O
+wa
+NJ
+
+Ч
+=.-
+9
+;:o
+2:
+O
+O
+O
+>
+:D
+
+
+
+B NJ
+’Tl
+73
+l<
+O
+
+Ч
+m
+X'
+O
+E:
+a
+O
+m
+
+
+.O
+n  
+O-»
+fi
+Яа
+at <p
+O  
+O c/)
+II
+Э
+<
+■D
+
+
+O
+O
+t•
+
+
+m
+tA
+и
+H
+1
+c/  00
+-1 n:
+•Л
+ 1
+
+
+П
+O
+H
+O
+Z
+Mt
+a:
+PO
+m
+‘<
+  Z
+  s-
+
+Ы
+O
+c
+"П
+a
+<
+i' 
+2f
+n
+СЛ
+M
+•8
+70
+73
+O
+m
+9
+O
+'т:
+CJ
+9
+7:
+-I
+d
+M O
+r  
+I
+П
+CE:
+
+i'
+СГР
+Z
+;D
+9:
+X
+
+00
+i
+tT
+O
+
+(0
+t:i
+O
+<Q
+O O
+cr  
+N) a  
+00 :S  
+й:з
+O
+VI
+O
+
+I
+•O
+>
+r
+O
+
+VI
+>
+P
+’Tl
+i’
+rr1
+NJ  
+> f
+àr
+U)
+00
+,I»"K
+
+Z
+;o
+3»
+g
+
+Ы
+я
+sw'
+
+2:
+O
+‘i
+O
+O
+Z
+O
+0
+2:
+a
+•«4
+7}
+
+Q.
+n
+
+rr\
+•B O
+I  
+O
+9 N)
+c
+O
+
+<A
+
+a
+
+U
+ct> OJ
+4: 
+00
+m
+
+Г'О
+NJ P
+« r
+2:  
+0  
+'-J
+Z
+O
+b
+O
+
+CO
+>
+O
+CO
+s  
+Й i
+0« a
+OJ
+
+4: 
+Ч
+<
+00
+NJ NJ
+  •4
+Os N4
+P
+■O
+O
+Cj NJ
+O PP
+O ■r'
+â
+(  NJ
+CO PP
+CO >r
+O
+СЛ
+<b
+P
+8
+so
+Ы
+NJ
+Cb
+4 
+4: 
+
+
+4 
+•4
+N)
+9>
+O
+i  
+i  
+e  
+CO
+do	и	’
+O	 	 	к	 	O
+tn	».	I	2
+'’d	O	»	d	Ф  
+tT'	d	d	d	O
+ 	:P	a	d:;
+a	O-	 	00
+P	HI	 	 	(5
+v 	 	 	a	   
+H	 	я	''	cr 
+Ы	H-	c	 
+11 i I
+3	 
+  O
+  H'
+< ’d
+f	I	 	i-
+H.	rt	 
+d	rn	CL	 
+(JQ	w	O	nl
+d	C'	 	O
+ 	>	P	d
+1	Q	I	 
+ 	0:1	[Г	O
+P -l
+□( > f
+IIM
+Ш гп
+    m
+9-c’” 
+a> d ir
+œ' H. d
+B' Ф я
+H
+Ч
+X
+>
+т
+H
+O
+X
+9
+m
+B
+3 Q-' 
+ali
+>
+V)
+O
+ 	9
+i	n
+I	 
+ГП
+O
+Со
+HH
+8 ;!
+  z:
+> O
+ГЛ
+O
+O Ф c/t
+Ф O 5‘
+QJ Ш <
+c'= o
+Q. O'
+Bi'
+O ‘P O
+-t O ““
+ p c*
+ш ф
+  û>.i
+PVO Д
+E LÛ,
+§lf
+B P*p
+d cu =5
+  CP :т
+a <
+d
+'< mû)
+“ma
+Ф O,
+û)
+Z
+Q □[:
+Z
+il
+  n
+7}
+O
+d
+H
+O
+NJ
+X
+B‘
+O
+1}
+O
+
+d
+O
+'B
+LO
+O
+I
+a
+Os
+>
+a.
+B-
+as
+Z
+c
+
+P
+O
+i’
+P
+. d
+O
+I
+Ч
+O
+a
+O r
+ô‘
+"П
+c:
+
+c
+O
+O
+Z
+O
+X
+
+O
+7}
+>
+00 NJ   a
+  O I s
+I !
+s
+(Л
+Ф
+m
+X
+70
+Ф
+O
+O
+O
+<
+Cd
+n
+h
+ô	 
+m	’<
+
+P® b d ?
+V ÛO
+  H O
+Ф
+O'
+o'!
+d
+(Â' Q
+
+d
+O
+
+Ф
+d
+s.
+cr
+
+'-h
+O
+a P
+O d
+-  
+O Л
+< O
+(0  
+0' f-
+o c
+
+  d a
+<4 Q
+O Vl    
+O E  d P
+O 00  
+§ “< r
+g  
+11 °
+° 11
+i. 1
+1
+1    
+'5  c
+O tù >‘ 
+O
+d
+NJ
+d
+N)
+
+d
+00
+H'
+a
+d‘
+4t>.
+O
+H'
+LO
+
+d
+
+
+so
+Ф
+so
+a
+so
+s
+H'
+
+i=
+
+ô‘
+Ф
+Ф
+(Л C/J
+«—'Ф cn
+û) n m
+сг 9' Ф
+P “ P-
+ 11
+a d
+ii
+O
+9
+8
+a
+O
+
+я  
+i I
+9
+
+
+i
+
+
+[B
+O'
+O
+
+  a  
+
+tT1
+>
+-1
+3
+Ю
+H
+
+d
+
+in
+C/J
+fD
+□
+Ф
+p‘
+
+D
+
+D
+
+:ь
+
+
+
+о|
+>î
+о
+
+
+о
+
+
+
+4: 
+г
+m   t
+X i
+CÎ
+□ :2 
+о >
+
+
+
+
+
+е-
+сс
+
+
+8
+р 
+ 8
+о
+с 
+ о
+ct
+Сн-'®
+  •>,
+о
+о
+
+о
+я
+а:
+S)
+ь
+о.
+I
+
+-(S
+•< I
+о
+ч
+
+о
+
+о
+С)
+>
+Q
+о
+1 
+1- 
+I?
+о-
+
+
+а
+Т1
+X
+ы
+н
+ь
+
+а
+о Ô о
+■'=‘  •
+о
+5
+>
+
+m
+(л
+
+а
+
+
+70
+т
+
+  о
+5: о
+
+
+
+
+о
+с
+:г:
+(/)
+о
+о
+
+
+р
+9
+П)
+
+
+ч
+m
+2:
+
+
+о
+а
+>
+4 
+о
+4 
+CD
+00 J’
+Г'¥
+
+а.
+о
+а
+о
+ч
+-о
+
+о
+сэ
+о
+
+о
+п
+г
+С\
+гл
+Ç!
+m
+г 
+
+<
+
+I-
+00
+■а-
+ь
+о
+
+о
+н
+::а
+
+о
+о «
+® а;
+Со
+а
+
+
+
+"П
+
+ч
+ч
+о
+■п
+8
+
+•<
+■п
+о
+Z
+X
+
+
+н
+с/1
+о
+о
+
+ho
+а
+Z
+Со
+m
+о
+00
+9
+OJ
+в
+7J
+ро
+9
+о
+о
+
+
+
+7J
+
+я<
+о
+о
+
+2:
+ч
+
+01
+о
+I
+а
+о
+о
+о
+а
+
+а
+
+X
+о
+X
+о
+>
+
+ч
+о
+о
+
+
+ôr
+00
+
+-  
+'П CD
+п §
+о
+>
+
+о
+<D
+с
+
+7)
+
+>
+8
+
+S'
+m
+U)
+N)
+
+
+X
+o' 
+7 
+z
+
+0ц>
+00
+a’
+a
+2:
+as
+O
+  8
+Ч
+
+H
+B 9
+'-. CD
+m
+a
+n
+□
+(b
+c
+>
+O
+(A
+O
+■O
+4 
+S'
+c/)
+
+'O
+O
+d
+
+z
+CO
+z
+
+O
+H
+N)
+0)
+0)
+O
+>
+П
+9
+O
+CO
+9
+Ч
+
+P
+X
+40 CO
+o  H
+Os c 
+<
+>
+â
+
+bo
+
+O
+ço
+П
+(П
+d
+O
+so
+O
+2:
+so
+.a
+a
+B
+O
+O
+a
+□□
+
+
+■a -<
+-a  
+O Ш
+□ ф Ф
+O Q. 9,  
+°   X
+□ □
+П H H
+l—I rr O
+  û;
+œ<CQ-o0 Q)- wo  fcoco> o>  caQ.>  ао.> з?
+П   ■р:;ср‘осл ‘.х	 ф'  5 ГПВФ' ф ф'
+ 	 û-c cr,ç(2a ç s' ro0(rQ «E.g'x  
+t	llo
+c	    z  n zn ”rr a-:;z ca‘<:r -
+Яоэо --Е—С 8-2шз>оф>=' =щф  [ з фт
+9 9- у со   С0С0':ЗСС”ФСЛ(— 10'''ZÛ)C0,.	•ф(0/-ч
+Pile
+-°-o>x “ 8.dotp8.> [ ан 1 1
+ “-az	ox n  goo
+Р 9.:30)Ч çnQ)'<J:0o	Ч
+g i.'o lo “o
+фсоо.;. о  	 -пи'р  фо
+ -8.‘	p' '  m  o O.	Q.—|0ФСГ) 0. 
+Q.OCO r- no.   (b O. :т   	 >n   o-=r>
+,»oo	z _-	o‘ Q.Z:> o:-4
+al=  ашз’ I	e
+0i' 	i	E°	|я~	1 °
+F	I	IE“	 ш|,
+■Od >	 âsc:
+ОФ  	(/>1—': 9  co 
+D ГЛ	,	 	Ф
+CO-'	 	3	%	 ф 
+00	ç	c	o<l>	qE —
+II	l i
+  ф	Ф сгя
+о.	3'< o'
+3 0)	Ф ш :з
+  с
+Р- 4-'-
+□ □ □  
+п
+сл
+н
+
+II
+X
+н
+9
+SI
+
+0)
+4 
+со
+м
+00
+■«о
+сл
+
+m
+>
+S'
+а
+tn «
+8
+о
+73
+г
+CD  
+о S
+ч
+(Ь
+>
+S
+>
+m
+I
+г
+
+о
+ о
+X
+9
+3
+о о
+II
+о
+о
+а о
+ф
+m
+m
+нч
+3
+с/>
+ф
+2 ■п
+о _
+о Z
+ о
+ 7 
+о
+Z
+-i.
+3 =.
+ф о
+с со
+  8
+о  
+г
+н
+
+
+7 
+о
+m
+■<
+о
+г Û)
+
+с
+о
+о*
+
+8'
+ч
+о
+ш
+о
+о
+н
+с.
+п
+
+7Г
+Z
+'Z
+ф
+ф
+Bi
+а
+
+ф со
+о
+о {L
+-h П)
+ш
+о
+D
+ф
+□□
+Z
+о.
+>
+а
+ф Ртг
+г\ф о
+-  со
+о. ф • ■ 
+ш
+о
+CD о
+о о
+а а
+
+с
+7 
+о.
+н
+о
+ф
+о
+(0
+о
+о
+о.
+■п
+са .а
+ф сь
+о.
+ф о. _i,
+•'  Q) сл
+  ш ст
+со ' со ж
+-. ф N:>
+со CL> .
+о о-
+Ô'
+с |-
+X —
+  ш
+ÔS <л
+ф CD
+ф
+о
+t:
+d'.
+о
+о
+о
+7)
+
+<
+D
+о. •
+я
+>
+> - о
+  W §-§■
+ ■п о
+ф ф
+râ
+я о
+8 3
+(Л
+
+о
+m
+со
+о
+Е]
+73
+ф
+с
+
+<
+я
+X
+D _
+я =’.
+ф
+р>в-
+   
+    9
+I
+  I
+' о
+о
+о
+о.
+ф zr>-r'
+— Q) I
+о   со
+о о. 4 
+Q.
+5'SS
+о со
+OÏ
+  ф
+ 3
+ф
+о.
+3=3'
+'<
+о
+о.
+3
+m
+о
+2Л0
+о. 
+ф 9
+ф
+о гг
+'-'■ П)
+I—I
+1_| ф
+со ф
+% я
+о о
+-' с
+о  
+8 о
+л с_
+< с*.
+ш. ф
+о
+3
+о
+D
+о.
+
+о.
+ф
+3.
+ф о
+о. о
+ф о.
+о'<
+со Q.
+ф -г.
+о ф
+3 со
+со
+ф 3
+я  
+3= я
+о _.
+3
+N'  
+ф  
+3
+
+сг
+ф
+3'S
+O’ ф
+CUCQ
+CT ф
+ф ;з'
+о
+о
+3.
+3
+Т1
+
+>
+са
+о
+X
+
+Т|
+>
+ф
+о
+m
+zr
+я
+ф
+
+ф
+о.
+я
+>
+о.
+
+ф
+0Г<«
+pg
+о
+о.
+о.
+ф
+ф
+я
+X
+ф  
+с з-
+со ф
+ф
+ф
+m
+Q-_ 
+fc5'
+. сг
+со '<
+о
+ф
+•а 3
+3
+Z
+I
+ф
+о
+3
+ч ф
+3
+о
+ф
+о.
+
+о.
+Q.
+о.
+3
+>
+ф
+X
+ф
+сг 
+я о.
+ФШ
+сл
+ф
+3 о-" 
+о Я'ТГ'
+о  
+“' ф
+со о.
+со  
+ф  
+■§ф
+ф о.
+яя
+i;;:
+ф  
+3=’
+ф о
+я
+
+zr
+я
+
+о
+ф
+Р'< о
+ст
+
+
+ф'
+Z
+ф
+я
+о
+
+
+■о
+3
+>
+о
+о
+с
+о
+ф
+о
+~ ’о
+t я
+  я
+3
+0) -ф
+!t
+O’ CT
+3
+ф
+ф
+3
+и
+ф I
+о. со
+i§
+3 со
+’О
+
+ф
+§1
+to л
+о
+с
+о
+о
+о ф
+р
+И'
+о. ='
+ст
+ф
+со
+о
+sa с:
+ 5'
+  о
+ф
+ф
+о.
+ф
+с
+Z
+ф
+о
+
+о.
+ч
+3
+в.
+Q.
+m
+о
+ф
+
+ф
+
+о
+ф
+zr
+ф
+о.
+о.
+к>
+3
+X
+Зо.
+ф'
+ф
+о
+ф
+Е]
+ч
+-о
+
+я
+ф
+ф
+ф ж:
+'<
+о
+со
+>
+о.
+
+3
+ф
+ф
+ф
+3 
+3 3
+о. ф
+со я
+
+о.
+ф
+ф
+о
+ф
+ф
+о
+о
+о
+о.
+-о
+я
+O’
+ф
+3
+ф
+□
+’О
+X
+ф
+
+’О
+'<
+3
+ф
+ZT
+
+о.
+•а
+  9
+
+о
+
+т>
+
+
+ф
+ф
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

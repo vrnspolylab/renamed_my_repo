@@ -1,0 +1,4217 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>alan weierman failure to report charges_97769695_ver1.0.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:55:30 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:45.2364610</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>8/7/2018 2:13:20 PM</td></tr>
+<tr><td>revision date</td><td>8/7/2018 2:13:20 PM</td></tr>
+<tr><td>Creator</td><td>RICOH Aficio MP 7502</td></tr>
+<tr><td>publisher</td><td>RICOH Aficio MP 7502</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">
+'АМЕ
+Uùlçusj
+ш.
+
+
+I
+ш
+I
+i
+у
+
+;
+33
+
+о
+г
+
+р
+
+PD
+1
+'
+
+о
+р-у .
+,ЬЕ
+  'с/.
+10
+г 
+f
+#1
+.4
+г
+If
+,•>
+
+I «
+
+
+
+>
+4"
+о I
+  ь-
+к
+п
+S
+D
+■û
+п
+Г(
+ш
+с 
+о
+i l: 
+с
+
+
+
+:г
+ь
+•Ü
+i
+
+I
+
+<0
+
+г
+I
+СП j* 
+о j'-î 
+у
+о
+I
+ь
+г- 
+
+41
+с
+
+h
+U '
+о
+о
+Г'
+d
+о
+>
+,• 'р 
+а
+
+й I
+1У’,
+>
+
+о
+о I
+2 j
+
+>
+
+
+d
+к;
+
+Q
+п'
+i.
+П) I
+  1
+
+
+г
+г-
+1
+;
+I
+
+i
+■
+
+• \
+1
+:
+|г 
+1
+
+о
+ФЩ"
+'!
+I
+г >.
+о
+р л •j
+к-
+
+
+|?1
+ш 
+ii;'
+'‘1 г J'
+1
+с
+и
+I
+||
+il
+il
+i1
+ШГ|;
+1
+
+î
+\
+Z-
+о
+■ir 
+о
+:
+
+•:
+I
+и
+J
+
+■‘ \ i
+
+/
+i
+
+Щ
+l'âll '
+
+ дпоэ ;тэлз jq  I0I3
+Moxia svaDnoa	’
+'l aoa Я0 HAV l xnoHXIM allx SIHX
+Ш0Ш A'lxMHllrv HHd  o 'AlIdv odlAIHX HHHXIH
+aHAOI Hd m aHDV'IdsIa ae IIVHS dHdvd ом'
+1
+:
+I.'
+
+;
+i;
+Ш
+tt
+I
+.(-1
+r у
+1'
+
+
+Гх
+Ч
+
+
+d
+li
+■
+
+
+
+!:t
+!l
+ii
+ii
+•r
+			 '.'	':.'У,М _
+
+
+V
+
+т -т 'ПГ •
+
+
+•.
+,  ÇNr 89-09-0935
+щ ш ы
+■ Ч1~-Р,1.кг< р-.
+\
+
+
+
+.t
+Casc No.
+
+
+>
+%
+>
+': .'
+•\
+\ ■ ■ -
+1
+г
+с**
+V
+
+-л *
+
+j
+
+
+I
+-,
+ 
+IN THE COUNTIr C0UIIT ::
+■,'. .	"'	1 •7	,'.	•r. 
+ST,r LUCIE'	:	■;   -:
+1 COUNTY, FLORIPA
+< -	m-_ Ч .
+
+K:
+'Л .
+
+V
+i -
+i -il
+Î.'
+I
+7
+u
+Î
+r.
+. т'
+
+   
+I!.
+
+
+f V - •'
+
+: Thc State/of Flonda;'
+MANDATORY REPORT OF CHILDS ABUSE ■?;
+OR NEGLECT ■ - ••Vf'
+F.s. 415.504 .   . h
+i.
+vs.
+1(-
+ür 
+■
+ ■. l-- ■ - -:
+
+
+
+AL WEIRMAN': W/M
+N-
+
+i
+(
+:
+. t
+:
+
+
+L Défendaht
+;
+
+
+
+h
+1
+
+г
+
+>*
+
+In,the
+VTO all and Smgular Shcriffs of thc’statc of Fiorida:	-	 	„ Ц
+-wii r.ac DETEGTIVE BRIAN SCRIBNER;of ' he St. Lucie County Sherifk's bept'  ;'i
+v iiiverbe .u ueb ir6m~sept.« i  hru  ерт:-.
+vl ymec	 	••	•••
+1
+!
+7
+
+1
+?
+;  
+:i
+'1>
+I
+Ч*
+n .
+
+
+-i
+
+
+has this day madé:oath:before:mê tl t '
+■	4 V c V	’ :■'	'■
+in the County aforesai d, onc • •	: •■ w
+AX WEIRMAN did know or have reasonable grounds to suspect that a
+child was an abused or neglected child and did not report such
+knowledge or suspicion to the Department of Health a • Rehal litative
+SErvices in violation of Florida statute 415.504;	''
+
+ Of
+»J DX19 —
+:;
+{
+:
+It'l
+ш?'::
+
+J
+a
+ка
+
+■	■■ - ■
+•	■
+7
+
+•7
+
+4
+
+-t
+
+
+■M
+•l
+■.■
+
+
+':■
+
+V
+
+-
+
+
+b •
+•.
+i 1 1 =
+: ■■
+
+
+
+s
+
+f.
+■.
+
+■4  •	■
+
+У‘
+
+i.'
+'
+;
+
+(
+
+
+4,
+■ t
+’
+■
+1
+1  •
+-
+• a'
+OD
+
+.V-
+; ,
+v:l,
+: •:
+
+
+
+
+i-:'
+A
+
+
+I
+:
+;
+*
+b
+
+V*
+
+• r
+
+
+■' •
+
+
+;
+--Я' -;
+V
+
+
+«
+
+/
+
+,4,	■7,
+>J «* These-Are'''Therefore to- mmand you ;to f< thwith arrest'and■bring the ai 'ye'named defendant before!me t0:.]be	-
+.''•.deau with-according .to law. !!	; yo- А/  	'/y/1 у '	'	'
+;. ! ' '   ■i! Given undcr mrÿ'hand alid seal	day of :	д!р,
+I ■ BilindisFixedI$;- ?2ki '	.
+ 	■ ■	; ,	‘	  1 '' déob  Y-iuDGE :	■	■ Г:
+I ■
+* .•
+f'
+v'
+
+и
+-e
+i-
+',.41
+. -Л'г
+
+Case No.
+Bk.
+Pg.
+
+
+
+IN THE
+COUNTY COURT
+
+.1-
+
+<■
+
+.I-
+Bond fixed at $
+,'U
+County, Flonda
+
+Received this Warrant the
+STATE OF FLORIDA
+day of
+,19
+
+
+and executed it on the
+day of
+
+, 19
+, by alTestmg
+
+/. CHARGE
+it
+the within named
+I/
+
+
+i/
+
+
+and having
+now before the
+WAJtRANT
+
+COUIt this
+day of
+
+WITNESSES FOR THE STATE
+
+19
+•>
+
+у
+Ц.-
+WITNESSES FOR THE DEFENSE
+
+Disposal of Case
+Shenff
+Date -
+Release to -
+Defendant’s Stty.
+Plantifrs Atty. -
+1
+By
+D.s.
+Traffic Officer
+I
+AGENCY TAKiNG REPORT
+
+□ SD о PD □ OTHEa
+COMPLAINT AFFIDAVIT
+.OFFICER
+DEFENDANT: AL WEIKMAN
+ALIAS:
+89-09-0935
+Address — Home;
+Phone — Home:
+464-2229
+Address ~ Work:
+Phone — Work;
+PHYSICAL DESCRIPrION:
+Age;
+
+S:S. NO.:
+Race: _w
+Hgt.:
+Hair:
+M
+Wf.:
+Sex;
+Eyes:
+KANDATORY REPORT OF CHILD ABUSE OR NEGLECT 415.504
+TYPE OF COMPIAINT:
+TAMPERING WITH A WITNESS 914.22
+DQto and Tlm  Ы Occijroncp! 09	/_lj:12.6 /	89 at MILITARY TIME
+
+up
+
+CO
+rm
+
+
+Offense Location
+:>
+
+: oga  
+
+COMPLAINANT: DETECTIVE BRIAN SCRIBNER
+
+3:
+Гп-
+address — Home;
+Phone — Home:
+
+2ND .ST. FT. PIERCE
+461-7300
+Phone “ Work:
+о
+Address:
+Address;
+NATURE OF COMPLAINT:   ABCUr THE ЖШН (F
+TO'ШЕ SIAFF MEMBERS AT 1HE
+Ш1ШС, HAD EFLT CF THEER PRIVAm РАШ. нпнш IHE FEW DATS 'ШЕ
+AND
+ТШЗ 'ШЕМ CF A вш MEMEBR, ВТ 'ШЕ NAME OF
+SFCIŒ TO AL WEIRMEN, THE ШШШ
+QF
+AL WEIMAN шшшт ■IHESE СНШШ SEPARATELY IN Hrs СШСЕ AND A А1Ю10 TAEB EBGORDING
+GAVE ME INrERVIEWS 'ШАТ 'ШЕТ TCO) AL WEIMAN THAT ш BECK HAD FELT (F THEER PRIVATE
+L ALL
+РАШ Œ SEPARATE OCCASICNS AND РСШГЕО TO IHE PRIVATE PARIS IHET WERE SPEAnNG CF. AL WEIMAN TCO) иш HE woaLD TARE
+CARE OF IHE PRCBLM AND ЖГ Ш внас WOULD N0 ImGER жж THERE. HCWEVER AL WEIMAN FAILED TO REP(FT IHESE ACIS TO
+ANYCNE ERCM LAW ENECRCEMENr CR HEALIH AND ВШАВШТАТШ: SERVICES. AL WEIMAN ALSO ICO)
+WHENHERIIND
+(иг IHRaxH HIS шшлш IHAT SHE WAS THINKmG (F TRrJ.TNG HER ЮШЕЕ, Nor TD BECAUSE BER MfïïHFR WOUII) SUE AND ALL
+IHE СНШ)Ш WOULD BE Rjr IN FOSIER HCMES.
+AL WEIMAN KNCWINGLY WIIHHELD IHE FACIS IHAT IHE (ШОЖШ HAD КЕЕШЕО ACIS CF SEKUAL АНБЕ ССШСПЕЭ1ШIHEM BÏ IHE
+SIAFF MEMEER, Ш ЕЕСК AT IHE
+lAND DID NQr ЕЕРСЖ SUCH кнашоЕ AS ВЩПЕЕР BY F.S. 415.504
+ALSO AL WEIMAN СШШ
+Nor ТЕСШС HER ШШЕЕ. BY TFT.T.'ING 1Ш IF SHE Ш) THEY ЩП) ALL GO Ю
+FOSIER HCMES, ссшптшо A FELCNY OF THE THIRD ШШ. BY TAMPERING wnH A wrINESS, F.S. 914.22
+I swear the above statement is correct and true
+to the best of my knowledge ond bejief.
+Afflont's Signatufe
+V
+Notari/lation
+
+
+8'9-09-0935
+. ACN:
+Wairrant
+Casc No.
+
+
+7
+
+.tr
+
+i; '
+
+iN THE COUNTS COURf  1
+’/.T.T1CTF1 1	 	I	'-
+1 CQyNTY. FLORIPA
+
+4
+
+\\
+k
+
+I
+
+
+
+>
+I
+
+' '’.•n -
+■' ■-.
+‘ ~ ' *.	*	* i-
+MANDATORY RERORT OF CHILD. ABUSE \l
+OR NEGLECT, • ' • ‘	t Ы ' «
+
+
+I
+
+
+Ï*
+i
+I
+.V
+;
+r
+a
+
+' - -:Thc State’j>f Fioridar
+L : vv,j;.
+• AL  ÈIRMAN:
+*.r
+:
+:
+;
+I
+
+Г'
+
+r
+i
+* (I
+I
+:-
+«
+F.s. 415.504'4'-4.
+••
+1
+I
+
+I
+t
+Ц
+i
+I
+I
+/
+г’
+< Defendant
+
+  s
+'
+?1
+
+i
+il
+Ï
+é
+t
+3
+In' the  hlb ъ?	o  dridà — -
+ч	I	'	;	 	V-: :	f
+TO"*aII and Singular Shénffs of the State'of Florida:
+  DETECTIVE BRIAN. SCRIBNER'''of Ithe St. Lucie County Sherif'f's Dept'.Jt
+
+t
+
+f
+
+I
+
+I
+]
+
+
+i
+J
+/
+Î
+!
+
+
+
+
+Whereas
+k
+♦
+г
+
+
+I ■i
+has this day made'ôath'before' me tiiat
+in thc Oounty агог 8ш(1, ohc: f
+i
+
+
+
+I
+I
+t
+\
+%
+ûlverse:aates trom bept.f 1 tnru bept.
+on' wcc	 		i	1— 	1 
+гь, 1 S9
+AL WEIRMAN did know or have reasonable grounds to suspect that a
+child wa.s an abused .or •neglected child and did not report such
+knowledge or suspicion to the Department of Health .& Rehabilitative
+SErvices in violation of Florida statute 415.504;
+
+r-
+‘I
+
+
+1
+1
+IV
+!
+■.
+I
+
+
+
+* Л
+;
+I
+i
+
+г
+
+.■
+:   ?
+• 4
+
+
+I
+4
+%
+f и
+■
+Î
+
+.1
+!
+f
+1  
+fr   л’
+
+■J
+;
+
+i ''
+I
+;
+:
+: r
+
+
+
+Ч
+;
+
+Î
+  '
+‘
+i
+.t i'
+t .•
+'y t :•
+J
+
+y
+I vl
+
+I
+
+
+
+t
+
+•V
+
+
+*
+I
+
+i
+i ••
+I
+Ч!
+r
+[l тьке . гегтьегуоге toGommand youtto fo hwith arrest hnd :brihg tHe al e Wined defendant beforewe<ito'be
+. dealt witb according :ic> law. ' 1	  /чгг I Xy ' / 1 Jr  	 
+. Given under my hand and seal	(iay of*	A;'D.
+
+\
+Î
+«
+.rt:* ■
+:£ h ; Г--1!
+: E  
+t i
+\
+
+i
+I
+F
+I
+;
+
+i
+I
+I i !
+- €
+r.:'
+F
+
+
+Г''.
+--V
+f
+I
+i
+lE -
+»
+
+
+
+' 4.
+, ;
+
+i i
+’ rr
+I
+t
+I
+.■Ч
+!r
+r.
+i
+I
+Ч
+I
+i
+I
+
+
+
+
+
+1
+il
+I
+3
+1
+
+V < u
+
+
+
+
+
+t
+t
+\
+
+t
+t
+l;
+n
+Bail Bond is Fixed at $
+n
+ж
+*.
+
+i
+EAL)
+;
+r"
+>
+/г:
+
+I coylm'  JUDGE :- :
+i’
+
+I
+
+
+V
+:
+r
+•<
+
+
+. ACN: 89-09-0935
+Warrant
+Case No.
+IN THE COUNTY COURT
+ST. LUCIE
+COUNTY, FLORIDA
+The State of Flonda
+MANDATORY REPORT OF CHILD ABUSE
+OR NEGLECT
+F.s. 415.504
+vs.
+AL WEIRMAN W/M
+Defendant
+inda —
+In the Itahih 01
+ol
+To all and Singular Sheriffs of the State of Florida:
+DETECTIVE BRIAN SCRIBNER of the St. Lucie Countv Sheriff's Dept.
+Whereas
+_ has this day made oath before me that
+in the County aforesaid, one
+AL WEIRMAN did know or have reasonable grounds to suspect that a
+child was an abused or neglected child and did not report such
+knowledge or suspicion to the Department of Health Si Rehabilitative
+SErvices in violation of Florida statute 415.504;
+alverse aatles rrom Sept. i thru bept.
+on thoc
+
+
+These Are Therefore to Command you to fo hwith arrest and bnng the al e named Refendant before me to be
+dealt with according to law.
+Given under my hand and seai this3
+
+
+
+  A.D. 19
+day of
+
+
+
+Bail Bond is Fixed at s _4
+EAL)
+
+ СОХШТУ JUDGE
+
+
+Pg.
+Case No.
+Bk.
+• 4
+ШТНЕ
+COUNTY COURT
+
+Bond ûxed at $
+County, Flonda
+Received this Warrant the
+
+STATE OF FLORIDA
+day of
+.19
+;
+
+and executed it on the
+day of
+to
+, by alTestmg
+CHARGE
+the within named
+and having
+now before the
+WARRANT
+court this
+day of
+WITNESSES FOR THE STATE
+19
+
+I
+
+r
+1Л
+WITNESSES
+E DEFENSE .
+;■
+Ip-
+C--
+
+n_'
+
+1
+r
+i. Л
+/ 7Г)
+  /
+!i}r . П
+шмм 7
+
+
+Disposal of c e
+n
+
+t
+
+II
+
+io
+Shenff
+ûoss'e /
+Date
+Release to .
+Defendant's stty.
+Plantifrs Atty. _
+By
+D.s.
+:
+Traffic ошсег
+
+■С''.
+
+г'
+
+
+
+
+
+/ . I
+
+
+V
+* ч
+л
+.А.
+
+i.
+
+
+
+■ ’USÉ SEPARATE ORMS-FOR EACH DEFENDANT AND FOR MULTIPLE'
+OFFENSES OCCURRING АТ DIFFERENT TIME, DATEPR LOCATIPN	.	4
+I
+>
+• -Л
+-Ч
+•*
+b *,
+foLE'NO. .
+,	ARBEST AFFIDAVIT ;
+
+
+
+г ■
+! ETNI
+
+FBI NO.
+- t.
+
+X
+-   -ЛС	,
+» .
+>	Ч.-
+ABR.AGENCVOHI.'NO.,	.
+■DEFÈNOANTNAME(LAST.FmsT>VIOOLE)
+Fin erpnRled,	By:
+  '	□ ld Rl4iealion Oniy , □
+□ cr mJnol
+APIS
+
+•l I ■ IM I I -
+FLO
+CHE
+EC к
+UE
+ТЯ
+NA
+
+AKA.
+;
+‘lïGlLJ ÎMO
+с(ХАиьА ГНО.,	ОАТЕОРВттн , ■ PE ANENTAOO S{STREETNO. STREErNAME СГТТ! F ONE ,,  '$yf-30s .	ZIPCODE'' CNTY
+Нт.о .-:	/// / y /09f	A dô  /CK'-T À/e. ') - r:'(JJe  ML l 'yl Я  ЙЙУ
+ME
+
+t
+)s7 -3054
+STATE
+HAm COLOR
+BAi JIIIN GRV REO IUNKI ■
+BLIP O; QHI SVN	‘
+WEIOHf'
+DEFENDANf REQUIHED TO
+.APPEAR IN CIRCCJIT COURT '
+  rGRN MAR {UNKI'
+' aLU GfY HAZ PNK
+CE .
+
+EYEC
+BLK
+olsmGufsHING MARKS '
+SOCIAL SECURITY N JMBEE
+'ON
+)CCUP>
+loNI
+T
+AM/PM
+AT_L_
+dÈFENDANT REQUIRED’TO
+•APPEAR IN'COUNTY COUFT .
+
+■ CITV. . M STATE I CNTY
+'ARREST
+OATA
+:STHEET ADDRESS
+SECTOR
+DATE
+E
+1\1\3\1 о (с
+Y •
+
+- CITY •
+ON
+STREET AODRESS
+OFFENSE
+OATA
+DATE 1
+• /■ /
+MILITARY TIME
+SECTOR
+
+%
+At:
+AM/PM
+к  sp6T>se/ ''M ManufacIL .
+DIatfitvIP' ’ Pxodoea/'
+Culllvale
+zolher
+'	.R srT ug ta
+’	0 Detivor
+E U: 
+иге/
+Acu
+. $ Sen
+- в Buy •
+T Trainc
+4
+
+
+N к
+p Poa as
+i
+
+;
+
+Type
+N w
+в BerbKuale *
+c Cocelne
+E Hefoln
+H
+« p Parephemetia/
+EqlllpmeBt
+s evnihellc
+и Linknowri
+z othet
+
+agan
+CHARGE STATUS
+.A
+. M
+  0 ODIUm/Denv
+N M/A 1.
+A Amohelamlne
+na
+> ~
+d'CAPAIS-	D
+IF ORUGS ..
+p PW ' о Juv.'pu
+□ Cldifon'
+□ PC
+
+CHARGE/STATUTE NO
+TYPE
+ACTIVITY
+•. Л-
+
+’ FELONY'FELTRAFFIC HISO MISOTFIAF OHO OTHER
+1Л	o,
+
+
+//
+□ • . '□ ‘ □. ■
+2.. ■ □
+
+Л -
+3. ' □ •□
+
+□
+
+-'Y-
+. v‘
+
+□ ' '□ □ . ■□
+- 4..' о
+R.*
+5.' ■ □ ■ ‘	‘	□
+OFFICER loiNO.	apNclsMANysuRETYNA E ‘	• ,.1 0 AMO 
+Bp	A.ô 
+PRINCIP LARRE NGOFFICER/AGENCY {PRII TI .Scro
+
+
+*'-'co-DEFENPANTS,(LAST NAME. FIRST, MIDDLE)'
+.i‘ :
+
+. /; ■'
+:/
+V ■/..
+
+'T,
+
+PROBABLE CAUSE
+1‘ .
+:■
+
+
+
+  -
+
+V SUMMARY OF OFFÉNSES'AND PROBABLE CAUSE AFFIDAVJJ.:
+The above
+
+'e n ed déférant	th ejol lng  spfls;
+■ '■ 4 (2.
+<
+
+■	u:>AS	'ŸC' -rTU SISÙ 1:>.Ъ: A-ÜS
+• -.1
+
+lûAS ' r'eil cvjc /)'
+.■
+
+
+• Ш 0й5 .	r71  )s‘po r 
+. Di4cae	üd/ s- Boo ceù
+Aûûis ù bç  	'
+■"..-xsbG.. ~ЬЗА -~' 'ArL'sn	 О олт 	■'
+
+/b
+
+г
+  l* ‘
+- . /
+•' ‘.jr •	-	••
+i
+'* Ч
+-Y
+
+
+-•
+
+ÆLl
+>-
+s
+i
+5
+
+Y •
+
+• i
+
+‘J
+
+
+
+
+t
+'{ .
+
+
+
+
+ч-
+
+y:
+  ■ • »
+•.1
+
+• V
+
+
+
+
+'■*4
+
+
+
+  ' ThBvsceBding Is trLIe to the best ol 'ту p'resBnt knowjedge or bellef. .	.
+''-	‘	''	.	*	ù/‘ vr
+; SIgnature“- 2Ali
+. ->-\l
+:
+\
+
+I
+L
+
+V ■
+Sworn   Subscribed before me' Ihls	y'/ ’dav of-		 ’
+’л-
+
+
+
+
+
+.•и
+'  /NOTARYA'ASA
+A'
+
+
+
+.L
+• My oommisslon'expires'
+■ ■••‘C
+
+
+:■
+. A.   .
+■. ÈLS.'0
+•
+, V
+';■• A9ency. _
+• ‘ Ч
+
+
+
+A ■’	'■
+
+
+
+t R /  4
+  /> •
+Д "
+
+
+Membor Nalionai Sheriffs' Association
+MGmber Florida Sheriffs’ Associalion
+ROBERT C- "Bobby" KNOWLES
+  WÆ
+<•	  Telephone: (407)  61-7300, (407) 2B7-73()0
+' C,E c°
+p.o. Box 2148, Fort Pierce, Florida 34954
+cp.
+'S>
+
+MEMORANDUM
+ш%
+■c 
+TO:
+HONORABLE JtJDGE JAMES MIDELAS
+DETECTIVE.'BRIAN SCRIBNER ti LYNN PARK, A.S.A.
+SEPTEMBER 29 ,1989
+FROM:
+DATE:
+IT IS OUR RECOMMENDATION THAT ALLEN WEIRMAN BE RELEASED ON
+HIS OWN RECOGNIZANCE FOR THE CHARGES OF MANDATORY REPORT OF
+CHILD ABUSE OR NEGLECT, F.s. 415.504',‘ AND TAMPERING WITH A
+WITNESS, F.s. 914.22.
+
+/IM,.
+DËTËCTIVËBRÏAisciïBNER
+ST. LUCIE CO. SHERIFF'S DEPT.
+ LYNN PARK
+ASSISTANT STATE ATTORNEY
+0
+ 2 4  , 'fh£
+t£L£ =) â6	i£  r/}v7é<t.	г £	dJ
+£еас> GrAJ  Z /focë   <J
+ë/'//9•J  
+c/d £T
+f'û /L a- a coë
+J idû< s цвёбй
+
+/
+ÛÙ'A.'Ü
+upoü
+/J fo	Л: ''7' O AJ à
+-fAJ
+29
+////J
+'0au£ no 0 o ûé7û, û
+OKI К|Г4. ALL NiUKMAIIOHiNblr Lr.
+fIRST NAMI
+LbAvb CL/-.Nr
+U'.
+ 4 •   bbr t iy
+\ I rt
+lASTNAME NAM
+9f -	c/"
+
+MIDOLENAME
+/
+WEIRMtT, ■ Alan Lee
+- “ lilillliillllillllll 0002000998
+p
+ALIASES
+CONTRIBUIOR
+о
+FLOei6000l:l
+R
+\
+so
+DATE OF вттн DOB
+Monlh Da]  . Y ar
+SIONATDRE OF PERSON FINGERPRIN1ED
+FT PIERCE/ FL
+II 2 )	64
+■t/'
+DATEARRESTEOORRECEIVEO DOA
+EVES
+PLACE OF BIPFHPOB
+RACE
+HOT.
+WOT.
+HAIR
+IEX
+.ТА MAY BE COMPUTERIZED I OC STATE AND NAh N ILES
+IHIS
+09-29-89
+M w
+511
+255 bro bro
+OH
+. JIONATUREOF
+ГА1ТАК|\С. FIHOE I S / y 
+YOUR NO, 0 д
+
+
+LEAVE BLANK
+
+CHAROE
+FBI NO.
+CLASS.
+SID NO.  
+REF.
+SOI
+' FINAL DISPOSITION
+NacaASS.FPC
+rj
+11 III
+LXJ
+CAUTIONI
+□1
+
+Ш
+m
+
+■■ .
+Ш1Р
+''ШШ
+, Ётфтф
+шмштш
+\
+шр.'-
+
+|Ш|
+• •V':
+1
+
+
+...
+,:•••.■
+“	t м'	ч t *
+с
+
+шт
+рщ
+10. L. LITTLE
+-<
+
+
+
+i
+-LEFT FOUR FINGERS TAKEN SIMULTANÉCHJSLY '"	=■	FOUR FINGERS TAKEN SIMULTANEOUSLY
+
+  Ш
+■w
+Щ||  Мш
+щ Щ-
+
+ш
+ш.
+ти
+lif
+ш
+т.
+
+
+.•
+
+i
+• :.v-
+'.
+.
+Ш
+: :■
+:■
+
+
+‘..
+
+-•..S'V-/
+■hy .
+t
+i
+\ \
+\
+..... Wm --
+■ ■■■■l.aift;:'.
+■. ■4‘•
+ШШШ
+M.'
+
+*. :
+V ■
+
+
+
+ШШ-    
+;T...; V'::.S=-
+Î-Шг
+
+:.■.
+
+;l•■.
+
+
+
+
+
+Ш
+:
+■■
+
+
+t.
+
+Ф-::
+-r.
+
+
+:
+•- :
+
+*AV
+
+
+
+
+v4.-- '•
+
+t *
+• I*
+
+
+
+Ш:"::
+
+*
+
+
+.::
+
+
+■ •• • ■ -
+■■УШ ■■■■■
+
+■'
+
+•.■
+
+
+
+■
+
+I*
+V
+mî
+
+
+А.
+4.f .•
+
+Q/Latot 	с) отя.
+('Л
+
+,
+4520 SELV1T2 ROAD	 
+FORT PIERCE, FLORIDA 34981 %
+(407) 464-2229
+Y
+
+
+November 1, L989
+Lynn Parks
+.411 s. 2nd. St.
+Ft. Pierce, FL
+s,fea I
+Ilip  
+To Whom It May Concern:	 
+Prior to my arrest and release on own recogn)lr àc ,
+I purchased a hunting ticket for the state of
+I also rrl rlj ~f-u.p- . tn <:.ppnd я fpy r\ y<  in Indiana IIШПX
+deer./ From Nov. 8 through Nov. 14.
+34950
+I
+
+My ticket is non-refundable and we've planned sort
+of a family get together during this time. I respectfully
+request permission to follow through with these plans to
+go hunting.
+The address of where I'll be staying in Indiana is:
+Rev. William Brink
+Rt. 3
+Madison, Indiana 47250
+Ph: (812) 265-6739
+Thank you for your consideration.
+Sincerely,
+Alan, L. Weierman
+Director
+It is easier to train cfiildren well tfian to mnd Sro n men and women.
+*
+4
+•м-
+4С ■
+Î
+. *
+*
+
+
+v:l
+♦
+#
+о»
+: O'
+' ю
+:
+-  
+
+
+*
+
+. •■к
+н
+*
+м»
+
+•- .•г 
+
+■к
+о
+*
+*
+,-!
+;r#
+• СП
+aq н :	#.	в «	1.' - ■к
+Ен Û Û	* - ;	'Н	.	 	0. •• .• 	•-
+•<D a:	*,•	•■Z ■	 	р с--х
+'	*•	,'он .	#
+11104  	•ЕЕ-'О
+o;Q: p<PIl 	«	> <CJ
+OI E-'E-'O- #	•• lipcQ •
+lEIPH	PIqH	 	cooc/q
+>4'N. QE-'	•w	o: X .	 
+0 	\	<	*•	<a B	 
+Ç/: о D   и *	= {П •г: -■. ‘4lr
+'■	< EH и D 2:	о 2:--,'	• *■
+CO о '''О D # •.' Q г •.*
+<	l: 2: и  	zz'~r'-..- *
+- о I • 2 	. : < о
+•. Q H a о *	•
+■0	Clq	Ен	Ciq	и	*■' ■’- •
+Q	z	♦"'
+ù: hi  ztQ
+<	z	'<  	*
+CE	PLI	cc 	о
+Q	ljq	CO	c:)	 	*-•
+Ccq	EH	2;	CJ	и-
+ 	Cil	-	CO	 --
+Q	Q	PH	to	H
+C14- ca tlq Û
+EH Q EH EH  
+I oq	. 0	2: -
+2: 21	EH	EH	EH	pq	 ,.
+EH о   H * \ -
+H и pq EH Ix; и ■*' \-
+Ш   HCOEHH» 
+   	• CJ >	< lic .  , '.■
+'=>* :•
+pq<PHO'>.co . о
+С0ЕНРР:: 2;*-
+llil со	со	о	о	H	Ht- - :
+с<	2;	pq	H
+0 	H	с:)	Ен	со	If
+1	о ‘ i о pq Hf
+EH Енрн|ир4 рн.
+12 zo EHHt-
+■If i<EHO!pqEHHI-
+a22:pqco<.lf
+2	pq H и 2 Ю ■If
+pq CO EH H pq
+Ск pq CO EH pH • Hf
+pq pq pq о pq PC Hf
+Q Рч EH 2 Q 2 ■ll-
+Ш-»'
+
+о
+i.
+
+I 'N-
+• ■M-
+-,•
+H
+EH.
+■IC
+1
+; T-f
+pq CO	•IC
+CO pq	.■IC =
+< p	 
+pq a	■K
+l2 pq,	-■IC
+pq PC	. ■K
+■II-
+cy 
+Ш ■
+;
+i
+
+UJHf
+: H
+If
+l-ll-
+<
+:
+*
+ 'll-
+1
+о
+
+.<#
+■••K-
+
+E-i
+■IC .
+. CJ>II-
+о u.  ■IC-
+*	2 Е -к:''
+*
+о о  -ч
+t
+2 a MJ. -.
+If	8
+■If	EH	c:q	• IC
+If	<	i	о ■K	-
+*	и	о	EH IC
+t  lûlc
+i 8lib
+*' 2 p   I' •
+2 pH 'IC ■
+If	Q	pq	CO ■K	•■
+ 	pq	 	2 ■Ic	•■
+i
+
+■lt-
+i
+•. ■Il-
+' ■If
+• *
+
+
+EH
+t
+>i-
+I
+X H
+p <c
+;'•>• • ■ф
+
+PH Ç. • V
+#■'
+■■ ■If
+
+1
+■If
+I
+•If. ■■
+*
+■If
+
+>
+' ■If
+I
+EH-
+•IC '
+Q
+•If
+Рн Q p
+< pq H
+EH p ■ -■ if
+• EH о
+2 H .,
+PC 2
+о p Q
+  ,
+■If
+■If
+
+- ♦
+•If
+1
+■If
+:
+■If
+I
+I
+■ ■If
+■If
+iulf
+•IC .
+CO
+'-.EH	•■	.
+i
+EH 2 Q  ■
+2 < pq .
+pq Q   ■
+CO 2 o.
+PI pq >•■
+:2-lf
+f-Hf
+
+.■ ■If
+l-lf
+I
+;
+Zih
+!
+pq pH
+
+'■If
+cqlf
+Û4 pq
+olf
+П	I
+«	-	z
+Й	2	•	o.	•
+Q	<	EH	H	p
+Q	2	EH	о
+2	pq	<	pq
+pq	CO	p	EH
+pH	p	o,	2
+p	p	pq	о
+Q	р	pH	и
+-If
+EH
+
+СЛ
+CDIf
+Ш
+С_>н9
+If
+ ■If
+Рн
+
+EH z
+pq о pq ■IC
+p p CO ■IC
+о ‘■Cl c IC
+>, C->.<.,U-K
+■IC
+■If
+Olf
+. <z
+t p<
+‘
+■If
+i
+•If
+
+:
+■If
+f-lf
+
+■If
+Olf
+. »-*aq
+'
+:r:-lf
+f-*1l
+•K
+■If
+If
+z:x
+IC
+■If ■ ■If If If ■If ■If ■If If If ■if ■If If
+cq
+H
+■IC
+■If
+If
+If
+ur
+1
+
+1
+Ic
+If
+If
+If
+
+IC
+If
+If
+■  
+If
+IC
+■If
+■cf
+If
+i •■t:
+. If
+If
+If
+'ll
+[
+If
+If
+
+г
+: Z
+' ¥ '
+;
+If
+if.
+■ If
+CO ■
+<
+If
+IC
+L
+If
+If
+н:2
+t ■■ < >
+' X *
+: t-
+-"■'■' ■■lf
+■ .■■■’■lf
+
+If
+If
+a ■
+! ■■■■•■■:;пч 
+•If
+■■• '
+СЛ
+■ c
+IC
+If
+'If о
+I
+■IC ...
+If
+pq
+If
+IC'
+If
+- ■If
+<
+IC
+If
+If ■
+If
+■M
+;
+1
+•lc
+If
+If CO
+If ш
+If
+о
+;
+IC
+If
+If
+I.U
+IC
+If
+If
+■If
+
+IC
+i
+If
+If Ci:
+If <
+If X
+■If CJ
+
+>Hf
+i
+■
+IC
+•cf
+I
+lulf
+i
+oc
+;
+IC
+If
+■ZIf
+<
+I
+IC
+If
+I
+
+ailf
+Ic
+■If
+aif
+■If
+lc
+If о
+If o.
+•If <
+If
+I
+HHf
+о
+I
+г
+If
+IC
+I
+l-lf
+0.
+'
+IC
+I
+If
+<lf
+<
+It
+If
+If
+1
+If
+;
+IC
+*-lflf-lflflflf«lflflf ■If-lfifif-lfififififif'lf
+■w
+I
+Ic
+■If
+If
+If
+[
+'<}
+IC
+If
+If
+If
+
+lc
+If
+If
+pl
+If
+!
+Ic
+If
+If
+If
+i
+c
+Ejl
+If ■
+IC
+If
+If
+1
+1
+H I '< I
+<1 I
+21 >H
+о I Xl
+ q EH
+c H<l
+Ic
+*
+If
+#
+If
+If '4-
+If СП
+If о
+If l-l
+IC
+if
+lc
+H"
+If
+If
+1
+I
+IC
+If
+If
+IC
+If
+If
+о
+IC
+If
+If
+If
+CM
+!
+!
+IC
+c
+■if  
+If
+■If
+CO
+IC
+X
+If
+If
+If
+CVJ
+IC
+
+■if
+10
+•if al
+If UJ
+If -i
+■if
+1
+Ic
+
+If
+■If
+сш
+.■
+г
+\
+-<
+pq >H
+p  I 2 i ■al
+EH I Ен I  
+Ol Ui П
+lc
+If
+■if
+IC
+2
+■if
+If
+If
+
+IC
+If Ш
+If M
+If
+■if
+2
+IC
+.1 CO
+If
+If
+<
+i
+<
+IC
+■
+If
+If
+If
+Ui
+J
+2
+2 Рн
+2
+IC
+If ' -J
+If l-H
+If >
+If
+>-
+OL
+■if
+:
+Ш
+CO i	p I	I	о
+1 2t	21l	•	1'
+I H I H I   CO
+‘21 Dq luj : о
+,1	iol	<
+р I	i-H	ix	H
+‘2 I	•	UL	.	UÇ	>
+cx.	о	p
+Ш i	à.	Q	o;	Ï''
+C'	CO
+♦ p
+If <
+о
+
+IC
+■If
+
+СП
+: s
+1
+.2
+UJi a:
+IC
+■If
+о
+p
+EH
+IC
+■Cf
+If
+Ui
+Рн
+If
+
+<
+IC
+If
+If
+If
+a.
+
+If pq
+If p
+If 2
+■if H
+If p
+-if 2
+■  
+IC
+If oc
+If Ш
+If f-
+If 2
+If о
+if X
+If
+о
+IC
+■If
+T
+cc
+IC
+u.
+ul >- tu
+\ Ш 0
+•.I 2 2
+xt O'. Ш
+f-1 о u
+l- l f- uc
+rl i- о
+t/'l  
+tiJif
+rH
+IC
+г#
+u.
+о
+Hi  
+IC
+Hrif
+2lf
+
+к
+X
+IC
+If
+If
+If
+Ui
+IC
+If li If ■if If If-If If If If If If ■if Iflf ■# If II If Iflf If
+If
+2 о
+Г' ш
+о
+к
+If
+If
+If
+IC
+li-
+Hf
+<
+■if ас
+If ■n
+If CO
+■if irc
+u. IL.
+li.. u.
+i-i M
+i-H ty
+IC
+If
+H 1
+■if
+11'
+CJ
+i
+IC
+If Г-
+
+<	I-	bc:
+ca	O'.	 
+n	rl	tJI
+Clq	о
+о.	CJ	о
+о
+UJ u.i i-'
+CO I— -J
+C:
+r> I- о
+t/> о.
+IC
+CO
+li-
+If
+40
+
+IC
+■if CO
+■if rsl
+LIJif
+■if
+cn
+i-' UH
+■<t X
+IC
+If
+coif
+IC
+If ■ 1
+If CO
+■if CO
+■if
+i
+■Hl'if
+
+СЛ
+lc
+■if CJH
+H
+CJif
+CO
+IC
+Hf
+If
+CO
+IC
+IN THE CIRCUIT COURT OF THE NINETEENTH JUDICIAL CIRCUIT
+IN AND FOR ST. LUCIE COUNTY, FLORIDA
+)
+)
+STATE OF FLORIDA
+)
+)
+vs.
+)
+CASE NO. .89-2687-CF (SMITH)
+)
+ALAN L. WEIRMAN
+)
+)
+Defendant(s) )
+NO INFORMATION
+COMES NOW the state of Florida, by and through Bruce H. Colton, its
+undersigned state Attorney and files this, its, NO INFORMATION, in the
+above-styled cause wherein the Defendant is' charged with
+MANDATORY REPORT OF CHILD ABUSE OR NEGLECT
+Dated this	day of JANUARY, 1990.
+RESPECTFULLY SUBMITTED,
+Bruce H. Coltc  state Attomey
+
+BV:
+LYN PARK
+Assastant state Attorney
+Florida Bar No.0281557
+411 s. Second St.
+Ft. Pierce, Florida 34948
+Phone-(407) 465-3000
+'Шг  
+ç-r
+
+I
+•-U .
+œ
+S',
+09/'06/1997  3:46
+1 В09022- P.01
+1
+FDLE
+Florida DepartmenI of
+Law EnforcamerM
+Dwialon of Crimioal Juatica
+Information Syatama
+p.o. Box f4B9
+Tallahasaae, Flonda 32 09
+Jamas T, "Tirn'' Moore
+comml$$lon$t
+
+
+•I''
+
+
+FioRIDA СИМЕ MFORMATION CENTER BUREAU
+FA CSIMILE NmBER'é
+(Ш)П2-ЪЩ
+t/0
+m Л
+-□  
+- PHONE NUMBERS  
+{904)488-560 
+(904)488-56§l
+(904)488-56 
+(i,ov x FAX PHONÏÏ,:
+-o
+ÎNJ
+
+ т. LL>CIE c
+WARRBM A LR)R.n
+С5ь\)ч(:,г- гезз
+TO;
+00 TV
+
+ATTN!
+ШРМ:
+DISTOSITÎON srccTION
+
+IMMKD1A7’E RESEONSE REQUn EP
+
+к
+RE: MISSING PISI OSJTION UEQUEST
+The Fonowin  Rcqgcst is Keg rding ft Subieet Awaitiug FDLE Approvai to
+Purcllnse a Firearnl. Pleasc Provide (he Final Dispo.siti0Tl Data to FDLE
+Within 8 Wqruiug Hour.s a.s Provided in 790.065, Florida .Statutes.
+s>l"'dcloM resort
+NAME OF REOIJESTOR-
+DATE:  jloj 'l
+Ы 2._
+tincludinfT cnvQr sheets
+
+comminBd to
+Звмъв • IniBgrIty • RBBPBOt • QUBIIty
+' 09/ 6/1  ?
+г ! Plea t Ucturn Тп! ' v ion
+10003022	P.02
+Срцр у'	El	
+
+
+DйtÉ 
+зогпвчо
+W/M	\\lz\jh\
+nAÇE/SEX	DOB
+У\1 1ЕЯМАМ  UEЫ
+FmsT
+/94
+LaE
+.tAST
+IV1I
+AKAt,
+INFOR TION REQUESTED FROM THE CLEluc OF THE COURT.-
+DATE OF AllREST:
+\
+	CHARGE: QQi Ol  'fruc;  ir  Jiu5TIC£ -
+Re-'f lo mper' w wlTNes ,
+T	T—  '	—
+1 - Fiaal Churgc:
+2 - Court Casc / Docket Number:
+3“Level elony))rMisd. 4-Flea:
+i - Fiaal Di,spo. Date:
+r*
+No Bi0e4    '''' olnf iled/NO Acljon]! 
+Ouiky/Cunviet
+6	- Fitlal Action: (CIrcie Qoe)
+Acquiued
+Pre-Trial biyersion Adjudicated Dennquent
+7	- Connnement:
+Oropped/Abnndoncd
+Nolle pros:>ed
+Dislnis ied
+Adjudication Withileld
+0ther:_
+iürodil Time Sc’rvedi: P.
+
+probationT.
+-U
+>T1 Cor  Dfte:.
+8 -Frob. Term. Dute:,
+9-Fine:
+Rest:,
+Conrt Co t:,
+"O '
+O: 
+10 - Olher Senlellce InrQrmation:.
+ГЧ)
+INFORMATION REQtJESTED FROM THE СЩКК OFÎrHE COURf:
+PATE OF ARREST:'
+CHARGE: ooz РАГУЛ С.Ч _0-ffeosp. -
+Ясчи Pepord-d' tei
+I-Final Cllar e:,
+
+- rf-  Г7~С/-
+2	- Court Case/Docket Numberr
+7
+3	- Eevci: Felony or Misd 4 - Fica:,
+'Ч
+
+3 - Final Dispo, Pote:,
+6	- Fmal Acrion   (Cir lf От) Dt'opped/Abandoned
+Nolle Prossed
+Рге-’гг|а| Divorslou
+7	- Conrmement:	
+8	- Prob. Term. Dare:
+NOBIlIed
+'0 Info Fned / No Action
+AcqgllTed
+Di.smissed
+Gullty/Convicted
+Adjudication Withheld
+Adjudicated Delinquent
+	 Credit Tinie Served:,
+Other:,
+Rrobatton:,
+JPTI Comp. Date:,
+9-Finc::
+Rest:.
+изо'цгг Coit:.
+10 - Other Sentence InformQtion:
+TOTRL P.02
+г.с —-
+' NAME-_'=L j,
+—	
+• •
+
+.•
+J 
+a
+Ê.
+
+t:
+г
+aL
+O
+K
+\
+
+r
+<A
+O w
+ri
+
+H
+
+r
+>
+
+
+c
+R
+‘U O
+O
+r: ;l
+>
+
+
+
+O
+8N
+n
+s
+O
+b::
+ief ■g
+f-M
+г O
+1  !  
+O
+f-
+c
+
+:г
+r
+
+
+P 1- 
+г*
+
+
+O
+I
+r
+;з
+I
+B
+O
+O
+O I
+P
+
+
+T
+P
+>
+O
+$
+>
+
+l'r
+1( '-
+
+
+O
+
+l.a
+l
+i.
+I
+pr 1
+P
+I
+
+
+
+
+
+:Щ
+
+
+ 	e	 
+H	tn i
+€/•>■ .
+. ;ïr;
+ ГУУ;И
+  P
+
+i
+-C:
+
+
+
+
+rl!
+
+i
+4
+•l.
+
+Л
+
+
+ ,1
+i
+i:
+ 03 ;тэлз  ■'®1Э
+Noxia  lonoa
+инпоэ JO HAVJl InoHlIM HllJ SIRL
+WO J A7XNHhrvwH3d 30 ‘A113v30dw3x 33HXI3
+азлои133 30 aHOVIdsIa H3 l'IVHS Hadvd
+
+• )
+!li
+OM
+
+Ч
+lr
+
+■-
+
+
+•	1, -ÿ.c'/i-( F
+ACN; 89-09-0935
+Wàltallt v<
+Case No.
+J '
+
+v=
+1Й THE COÙN'hr соинт
+. r
+i]
+‘J
+TAMPERING WITH A WITNESS •
+F.s. 914.22
+l
+ST. LÜCIE
+
+
+COÜNTY, FLORIDA
+CQ
+7
+O
+]
+■д | ; ::  •
+СЛ
+l
+.The State of Flônda _
+AL WEImAN- W/M :
+y-
+nl
+I
+и
+
+го
+•l
+Defendant
+.1
+In .the name of the State of Florida —
+> .
+4Г- -
+
+To all and Singular Sheriffs of the State of Flonda:
+DETECTIVE BRIAN SCRIBNER of the St. Lucie County Sheriff's Dept
+Whereas
+_ has this day made bath.before me that
+in the County aforésâid, one
+on4i'z!f!lfs pt. 1 thru sept. 989
+AL ■WEIRMAN did thene and there unlawfully and feloniously, knowing
+that a criminal trial, an official proceeding or an investigation by
+a duly constituted prosecuting authority, a law enforcement agency,
+a grand jury or legislative concnittee, or the Judicial Qualifications
+COInmission of this state was pending, or knowing that such wae about
+to be instituted, endeavored or attempted to induce or otherwise cause
+pcument, or
+i not to tell her ■;
+a witness to withhold any testimony,  Ifo Tlatiol dc
+thing, liro irit: by telling the child,
+'' mother about the sexual abuse because she would sue the lllllllllllllllll
+and all the little children would have to goto
+foster homes in violation of Florida statute'914.22;
+
+■1 
+0
+These Are Therefore to-Command
+dealt with according to law.
+Givea under my hand and seal thisc  illJL
+. .jjve name defendant before me to be
+
+  A.D. 19
+
+rdcp-
+
+Bail Bond is Fixed at $
+—	7’	~
+I
+COUNtY JUDGE
+о
+
+I
+Case No.
+Bk.
+Pg.
+
+V
+i
+IN THE
+COUNTY COURT
+
+'Bond fixed at s
+County, Flonda
+Received this Warrant the
+
+:
+STATE OF FLORIDA
+day of
+, 19
+and executed it on the
+day of
+, 19
+, by arresting
+
+CHARGE
+the within named
+. Ч
+
+
+
+r
+and having
+now before the
+
+WARRANT
+
+
+court this
+day of
+WITNESSES FOR THE st TE
+
+19
+
+
+
+
+
+
+
+
+
+I
+WITNESSES FOR THE DEFENSE
+s о
+
+Disposal of Case
+>-
+
+
+
+Sheriff
+\
+Date 	
+Release to 	
+Defendant’s Stty.
+Plantiffs Atty. .
+•ir
+1,  
+By
+D.s.
+V
+Тгашс Officer
+
+
+
+
+
+Л1 ll r;t
+□ S[) □ I'l) □ n1fllИ.
+COMPLAINT AFFIDAVIT
+f)l I fn
+89-09-0935
+ALIASr
+DEFENDANT: AL WEIRMAN
+Phone — Home:
+Address — Home:
+A64-2229
+Phone — Wo :
+Address — Woril
+PHYSICAL DESCRIPTION:
+s,s. NO.:
+D.O.B.:.
+Age:	
+Race: л
+Hair:
+Hgt,:
+M
+Eves:
+wt.:
+Sex:
+MANDATORY REPORT OP CHILD ABUSE OR NEGLECT 415.504
+TYPE OF COMPLAINT:
+TAMPERING WITH A WITNESS 914.22
+09	/ 1 -2  /	89 a1
+u::-.
+
+MILiTARY TIMS
+Date and Time of Occurance:
+
+Offense Location
+COMPLAINANT: DETECTIVE BRIAN SCRIBNER
+
+Л-S  —
+CO
+Phone — Home:
+Address — Home:
+’.T-- b
+'...T
+461-7300
+131 N. 2ND .ST. РТ. PIERCE
+о
+Phone - worR:
+Address — Work:
+Address:
+Victim (if diff.):
+4
+Address:.
+Witnesses:
+Ш (Ж Авсиг THE ШПН (F SEPIIMBER,
+NATURE OF COMPLAINT:
+IWENr TO THE srAPP MEMBERS AT THEI	
+Ш ВЕПС. HAD PELT CF TKIER шпт PARIS. ¥ГШШ THE NEXr PPWI1AYS THEIIIIIIIIIIIIIfl KKE TO AL WETmEN. THE DIRECIDR
+AL	INIERVIEWED THESE апшм SEPARATELY IN HIS 0ЕПСЕ AND A AUDIO ТАРЕЕЕШОШС
+ТШ) THEM Œ A SIAFF MEMBER, BY THE ШМЕ ap
+CF
+IGAVE ME INIERVIEWS THAT THEY ТШ) AL WEIFMAN ШТ m BECR HAD EELT CF THEIR PRIVATE
+WAS unllzED. ATT.
+PARIS Ш SEPARATE OCCASICNS AND РОШШ) TO THE PRIVAlE PARIS THEY WERE БРЕЖШС CF. AL wmm'm) THEM HE ШИ) TARE
+CARE OF THE PROBLPM AND THAT KEN BEDC WXLD N0 LCNGER УШ THERE. HCWEVER AL WEIMAN PAIIED TD REPORr THESE ACIS TO
+HE HIM)
+ANYONE ERCM Ш ENHIOMENr CR HEALTH AND REHABlIJMTVE SERVICES. AL WEIMAN Also TCU)I
+our THRCUGH ШБINIERVIEW THAT ШЕ WAS THINKING OP тшжо HER MolHER, Nor TO BECAUSE HER PDIHER vaJLD SUE AND AIL
+THE CHILDREN WOULD Ш ШГ IN EosrER HCMES.
+AL WEIMAN KNCMNaY wnHHELD THE PACIS THAT THE CHIIDREN HAD REKIRIED ACIS aF ЕЕШАЕ АНБЕ СГШШЕР UPCN THEM BY THE
+IND ПП) Nor ШР(Ш SUCH KNCWLEDGE AS RBIPTRED BY E.s. 415.5C4
+srAPP МЕМШ . Ш BEIIC AT THEI
+АШЗ ALWI lililll I lllll i	lllill illll 11LIING HER МЖЕЖ. BY TELIJNG HER IP SHE ШР THEÏ ШП) AIL GOTO
+EosrER HCMES, ссжггшо A FELCNY OF THE THIRD rBGREE BY TAMPERING WITH A WIMESS, P.S. 914.22
+I
+I swear the above statement is correct and true
+to the best 0( my knowledge and beiief.
+I
+
+/
+/
+
+
+
+Afrianfs Signarure
+Notarization
+-■t
+
+0
+vv
+;
+
+
+
+
+
+/
+
+
+ACN: 89-09-0935
+Warraitt
+Case No.
+IN THE COUNTY COURT
+ST. LUCIE
+TAMPERING WITH A WITNESS
+F.s. 914.22
+COUNTY, FLORIDA
+The State of Flonda
+vs.
+AL WEIRMAN W/M
+Defendant
+In the name of the State of Florida —
+To ail and Singular Sheriffs of the State of Flonda:
+DETECTIVE BRIAN SCRIBNER of the St. Lucie County Sheriff's Dept.
+Whereas
+_ has this day niade oath before me that
+in the County aforesaid, one
+
+from Sept. 1 thru Sept89
+AL WEIRMAN did thenil and there unlawfully and feloniously, knowing
+that a crinlinal trial, an official proceeding or an investigation by
+a duly constituted prosecuting authority, a law enforcement agency,
+a grand jury or legislative committee, or the Judicial Qualifications
+COInmission of this state was pending, or knowing that such was about
+to be instituted, endeavored or attempted to induce or otherwise cause
+a witness to withhold any testimony, Ulfo na iol   cument, or
+thing, to wit: by telling the child,	
+the sexual abuse because she would sue the 	
+		and all the little children would have to go to
+foster homes in violation of Florida statute 914.22;
+verse
+not to tell her
+mother
+These Are Therefore to Command you to forthwith arrest and bnng the al)pve named Refendant hefore me to be
+dealt with according to law.
+Given under my hand and seal thisd
+
+
+
+day of
+A.D. 19
+ 2S'(DC0.  
+
+Bail Bond is Fixed at $
+/
+COUNTY JUDGE
+4
+Case No.
+Bk.
+Pg.
+IN THE
+COUNTY COURT
+Bond fixed at s
+County, Florida
+Received this Warrant the
+STATE OF FLORIDA
+day of
+.19
+-4?'7
+and executed it on the
+day of
+
+19
+, by arresting
+the within named
+CHARGE
+
+and having
+now before the
+WARRANT
+court this
+day of
+WITNESSES FOR THE STATE
+19
+'.Г--
+i--
+
+WITNESSES F THE DEFENSE
+о
+CJ
+
+
+
+
+Disposal of Case'
+cn
+cc
+
+V
+
+Shenff
+
+Date —
+Release to
+Defendant’s Stty.
+Plantifrs Atty. _
+By
+D.S.
+TrafHC Officer
+
+EACH DEFENDAM AND FOR
+USE  
+
+RATE
+s OCCURRING AT OIFFERENT TIME. DATE OR L
+FDLE NO
+ARREST AFFIDAVIT
+;ET Nl
+
+Гиг
+FB1 NO
+\
+
+CT
+ARR AOENCV ORI NO
+w DEFENDANTNAME(LAST.FmsT MIDDLE)
+ EOK 0 I'I (c }У A'Lpt  L
+rprmled	by
+nlll Hon Only	о
+Fln r
+OHSel
+□ Cfimlnll
+AFIS
+FLO
+TRUE
+NAM£
+00П 1П6ЮФ 9\ 
+AKA
+BOOKINOOFFICIR.
+)УГ6\
+LqoALCASENO	OATEOFBIRTK
+Гя-0в- св 5| //1 1 Ь‘/
+
+PERF1ANENT AOD5ESS (s-rREETNO STREET NAME crTY) PHONE J S7 '305’G	 • 7;
+Л  С!рув /С   ут-е/г. /г г: (~oc  H L	/м  i -4y.
+HAIR COLOR
+'9 
+EVE c
+
+WE HT
+НЕЮ HT  
+
+DEFENDANT REaulRED TO
+APPEAR CN CIRCUIT COURT
+ORY RED {UNKf
+OHI SYN
+8AL BUN
+ORN MAFI luNK)
+aLU ORY HAZ PNK
+BLK
+N
+F Su эоо
+DISTING1JI5NING MARKE
+EMPLOYER
+ON
+AM/PM
+AT.
+RTATEI CFJTY
+
+SECTOR
+DEFENDANT REOUIRED TO
+APPEAR IN COUNTV COURT
+/|/|з|/ O(o
+DATA
+OITY
+ON
+STRErr ADDRESB
+SECTOR
+MjuTARYTIME
+DATE i
+Ll
+OFFENSE
+DATA
+u
+AM/PM
+AT.
+z Other
+M MtnulAclure/
+Produce/
+Cultive (e
+liigpte
+liver
+к Olspense/
+DIFInb
+R Sm
+0 Del
+E Ule
+s Sell
+Activlly
+N N/A
+p Poseen
+ule
+в
+Buy
+T Treltic
+p Parepherr lli/
+Emilprnent
+s Svnthellc
+u Unknown
+z omer
+H Hellucinogen
+M Marl)ulnt
+ooplum'oenv
+в Bartlluele
+c COCAIne
+F Heroin
+Tvpp
+Ы N/A
+A Amphelemlne
+CHAROE ВТ ATUS
+
+If ORUGS
+
+о PW о Juv PU о Citetlon
+□ PC о CAPAIS
+□ FW
+CKARGE / STATUTE NO
+ACTIVfTV
+TYPE
+LÔAeû  r 6Г
+OTHER
+MISD MISO TRAF
+ORD
+FELONV FELTRAFfIC
+1. □ □
+□
+□
+□
+□
+
+//
+□
+□
+□
+□
+2. □
+□
+□
+□
+□
+□
+3.	□
+□
+□
+□
+□
+□
+4.	□
+D
+□
+□
+o. □
+□
+5.	□
+T6 
+OFFICER ю>ю
+Зр|ф|. -/
+eoNOSMAN/SURETY NAME
+PRINCIPAL ARRE NG OFFICER / AGENCY (PRINT) 3c.. o
+CO-DEFENDANTS (LAST NAME. FIRST. MIDDLE)
+/
+/
+/
+PROBABLE CAUSE
+SUMMARY OF OFFENSES AND PROBABLE CAUSE AFFIDA 
+The above n ed delepviant was arrest /гег the folipwing re prls;
+Dsf-.	ttA-ç ù
+х4/?/г .тг'
+
+ ‘7- :и. /.-сг А о iJAaczA-tJr 	,
+-rjk Zb r.  /95 ■r A spcar n ■7  тра Sc b 7). . А. л
+
+UIAS
+‘ 1  '= ■0
+
+s‘cso
+ÜÀAS	S A- S
+
+AO
+ü/4c/l 	[JJAS. Boo eo
+
+bie COAS ü-lJ n л-бс)|лггл e-o co-re
+
+~rp
+
+~\hll- ( Roc. c /20j p
+/
+fn
+. cn /ys
+«  fa
+w
+
+
+
+
+
+■••4.V' V V.V-
+
+
+
+
+1ЕШП
+7
+
+The preceeding 15 true to the best of my present knowledge or behef.
+
+0
+1Ъ'-.
+Г5 /V
+Signature
+Sworn 3> Subscribed before me
+/)L щшг
+NOTARY / ASA
+My commission expires
+Slc o
+Agency
+
+
+
+А
+
+Member National Sheriffs' Association
+Метьег Florlda Sheriffs' Association
+
+
+>
+ROBERT c. "Bobby" KNOWLES
+:r
+p.o. Box 2148, Fort Pierce, Fiorida 34954
+Telephone- (407) 461-7300, (407) 287-7300
+
+
+ся
+IP
+V
+MEMORANDÜM
+
+HONORABLE JUDGE JAMES MIDELAS
+TO:
+DETECTIVE BRIAN SCRIBNER £( LyNN PARK, A.S.A.
+FROM:
+SEPTEMBER 29 ,1989
+DATE:
+IT IS OUR RECOMMENDATION THAT ALLEN WEIRMAN BE RELEASED ON
+HIS OWN RECOGNIZANCE FOR THE CHARGES OF MANDATORy REPORT OF
+CHILD ABUSE OR NEGLECT, F.s. 415.504 ' AND TAMPERING WITH A
+WITNESS, F.S. 914.22.
+DETBCTIVB BR IM SCRIBNER
+ST. LUCIE CO. SHERIFF'S DEPT.
+
+ LyNN PARK
+ASSISTANT STATE ATTORNEy
+0 LO
+ lûAJ   ■ff-y£
+teLe s£ s
+C/C ‘0
+J ù'0(2r£	/f££.£ay
+/usr/94jy<é 
+/L£c-o Gr/U  Z 40С£   <J
+ÛCZ O
+b>pc ü
+14-M
+4fo £.£41£л47' j£û
+£2. /'//9 Z. crtE  
+
+y
+
+2 9
+f7'/ /  
+/7 0 0 O <tû
+р P V s
+cpu'r-  'pp ' ''
+t
+
+
+’L AV - ЫАНК
+\ '' rL Ul< i r AU INFUKMA'HON И'; Dl.ACK
+LAST NAN e NAM
+
+V r L>u/' r4i\
+I :.
+9'!A
+)
+L tooLS
+FrRST NAME
+p
+WEIRMAN, Alan Lee
+ ■'lliillll
+908
+
+CONTRIBUTOR
+AUASES
+о
+FLOSéoooo
+R
+ш
+so
+1
+OATE Of BIRTH DOB
+Month Oay
+i.
+SIGNATURE OE RERSON FINGERPRINTED
+FT PIEFICE. FL.
+Yp of
+11.21	64
+
+PLACE OP BIRTH POB
+OATE ARRESTED OR RECHVED DOA
+09-29-89
+WG.T. . ЕЩ HAIR
+255 bro bro
+RACE
+нот.
+SEk
+ТА МАУ BE COMPUTERIZED l ocROTATE AND NÀYtvN I ILES
+D  - LsiGNAJURE Of	TAKIVG	~
+HARGE	' /	/	r'
+  P/AA To R pùfr
+THIS
+5.11
+OH
+M w
+YOUR NO. Q A
+LEAVE BLANK
+PBI NO. fBI
+CLASS,
+SID NO. SID
+REF.
+FtNAl DISPOSITION
+ыас CLASS •FPC
+r'TTTI
+I
+I
+I
+I
+CAUTION
+□
+
+
+
+
+ШЁЁШЙт
+
+illi
+1тштт
+			
+
+
+ч>, | .
+-Tll
+
+
+'■
+
+
+
+ш
+
+%
+
+ т ттщ:
+
+.тс.:
+шшш
+
+
+
+-то
+
+ТО- L. ИТПЕ
+
+ш
+
+
+
+
+
+
+
+
+
+
+
+
+т
+
+
+
+шт
+шт
+л
+
+т
+ш
+
+i
+5:м
+
+iii - ш
+■'■А --гтстг-' •
+  ;:V
+.v:-.r.'.c':.	.
+ É f''iEFTFOUR RN ÉRSTAKEN SIMUtfANÉbù'èLV
+ШШ1
+wm
+
+
+:;r- •
+■U
+M
+r
+'i-T:--r
+
+
+\
+Щ
+
+
+OUR PINGERS TAKEN s мulтÀNЮUSLY
+L..vil',,;TV;v .С;д
+- ■.■ ‘JTIX •
+
+
+
+г
+
+'L
+
+
+
+
+ЛЛ''
+'.*Т'''
+
+Ilpif
+ш:-г
+L
+i
+1.
+:.чш
+J
+;
+
+
+
+а.'
+
+'с
+.-'
+
+>.'гг
+
+ШУШАУН
+шз
+  МЩША
+Атттж
+шиша
+:- ш
+[i
+
+3(:''-
+:'Ж
+■■■Жзт-Ш'--
+■У- .1 ,-VL .T.'
+V.lv
+..I ■Зз -фу
+' кь-
+;'.ч АУ'ф.'г..
+Vi': :■
+'a': 'v;c
+ф'
+
+ш
+■.т.
+
+
+г.
+
+vr
+Ж'ф.. Ж-:Ш ЖА
+,!';
+|'
+
+:v'.".fv..
+■.■ у\.-ф- -.-
+■■ "'Ж'
+
+
+
+
+''ч
+.-:
+V-.
+
+
+■п
+4.
+:SV :
+.L
+
+
+
+
+■" ■А-ф
+0I 1мк1л оппа/уи
+SEARCH WARRANT
+IN THE COUNTy COURT IN AND FOR ST. LUCIE COUNTy, FLORIDA:
+THE STATE OF FLORIDA,)
+COUNTY OF ST. LUCIE )
+IN THE NAME OF THE STATE OF FLORIDA, TO ALL AND SINGULAR:
+The Sheriff of St.
+Lucie County, Florida and his lawful
+deputies, in St. Lucie County, Florida.
+WHEREAS, complaint on oath and in writing supported by
+affidavit of a credible witness, or witnesses, has this day been
+made before me by Detective Brian Scribner of the St. Lucie
+County Sheriff's Department, Crimes Against Persons Unit.
+AND WHEREAS, said facts made known to me and
+considered by me have caused me to certify and find that there
+is probable cause to believe that certain laws have been and are
+being violated on or in the premises in St. Lucie County,
+Florida, being known and described as follows:
+Begin at the intersection of Midway Ro 
+      and proceed north on
+approximately .7 tenths of a mile to
+The building
+.nd
+
+to be
+on the east side of the
+searc
+roadway and is a one story CBS white
+building with blue trim. A sign in front of
+building states
+There is now being kept in said premises certain
+Audio tapes, written records, individual
+children files, p.ersonnel files, and other evidence relevant to
+proving that a felony has been committed in violation of Florida
+state statute 794.011, pertaining to sexual battery, and Florida
+state statute 800.04 pertaining to lewd Sc lascivious or indecent
+assault or act upon or in presence of a child.
+NOW THEREFORE,
+evidence to-wit:
+you or either of you are hereby
+commanded with the necessary assistance in the name of the state
+of Florida in the daytime or in the nighttime, or on Sunday as
+the exigencies of the occasion may demand or require,
+and search said dwelling and itB curtilage,
+thereof shall be found.
+to enter
+If same or any part
+you are then author ixed and commanded
+to seize and secure any contraband as listed above, giving proper
+receipt therefore and delivering a duplicate copy of this warrant
+to the person in charge of said prelnises, or in the absence of
+any such person, leaving a duplicate copy in said dwelling, and
+making a return of your doing under this warrant within ten (10)
+days of the date thereof, and you are further directed to bring
+said property so found before the court having jurisdiction of
+this offense to be disposed of according to law.
+You are further commanded, in the event that you seize
+any of the said property hereinbefore described, to make up at
+the time and place of seizure, a full, true, and itemized list
+and inventory of all things seized and taken in duplicate, signed
+by you and to there give and deliver the said duplicate copy
+thereof to the person from whom possession shall be taken, if
+taken from the possession of anyone, then to any person in charge
+of said premises, and in the absence of any such person, to leave
+the same in said premises. The original of this warrant together
+with the original inventory shall be returned and filed with the
+clerk of the court as stated above with then (10) days of the
+date of issuance of this warrant.
+
+Witness my hand and seal this<:; 
+day of September 1989.
+7
+Judge 1гг and for St. Lucie Co.
+Ft. Pierce, Florida.
+
+
+
+СГ-
+-2-
+• 9 -ОШ-G F
+AFFIDAVIT FOR SEARCH WARRANT
+IN THE соикту COURT, IN AND FOR ST. LUCIE COUNTy, FLORIDA
+STATE OF FLORIDA
+COUNTy OF ST. LUCIE
+
+BEFORE THE UNDERSIGNED,.
+Judge of the County Court, in and for St. Lucie County,
+personally сате Detective Brian Scribner of the St. Lucie County
+Sheriff's Department, Crimes Against Fersons Unit who being duly
+sworn deposes and states:
+your affiant is ■currently employed as a Detective
+with the St. Lucie County Sheriff's Department, St. Lucie
+County, Florida and that your affiant has so been employed as a
+full-time officer for approximately five (5) years,
+affiant is a citizen and resident of the state of Florida, and
+that he has good reason to believe and does believe that those
+certain premises located in St. Lucie County, Florida, described
+as follow, to-wit:
+1)
+That
+Begin at the intersection of Midway Roa a 
+and proceed north on
+approximately .7 tenths of a mile to
+The
+searched is located on the east side of the
+roadway and is a one story CBS white building
+with bluetrim.
+states llllllllllllll  
+to be
+i .
+A siqn in front of building
+i
+There is now being kept in said premises certain
+Audio tapes, written records, individual
+children files, personnel'. files, and other evidence relevant to
+proving that a felony has been committed in violation of Florida
+state statute 800.04 pertaining to lewd   lascivious or indecent
+assault or act upon or in the presence of a child, and Florida
+state statute 794.011, pertaining to sexual battery.
+That the facts tending to establish the grounds for
+this application and probable cause of affiant believing that
+such facts exist are as follows:
+evidence to-wit:
+On September 24, 1989,
+your affiant was informed by
+Mark Creel of H.R.S. of a possible sexual molestation on several
+children at
+by the former director and
+staff member Ken Beck who is now no longer employed at
+\
+During interviews with
+it was learned that the
+and
+Director Allen Weirnlan several weeks ago had been notified about
+these alleged incidents and in his investigation, he had inade
+audio and written recordings of the childrens statements.
+Mark
+Creel informed me that he asked Allen  eirman for the taped
+statements and Mr. Weirman informed him they had been destroyed.
+ind
+Two of the children,
+were
+told by Allen Weirman and another staff member, not to tell their
+This was substantiated by Donna Bucci, a staff meinber
+During the	with Donna
+parents.
+at
+Bucci, she advised she believed there were written incident
+reports by Allen Weirman on what the children said,
+informed this affiant that when she was employed by
+      Ш|||||||||||||||||Ш on February 14, 1989, she heard conversations by
+She also
+other staff members that Ken Beck, then director, had been
+accused of sexually molesting several children by the names of
+and
+and
+advised that the staff workers maintain a written daily log and
+there are incident reports maintained about investigations by the
+director and staff workers which are kept in several locations
+Donna Bucci informed this
+within
+affiant that the staff members were told not to discuss the
+incidents with anyone unless Allen Weirman was present.
+During this affaint's conversation with Allen Weirman
+by telephone, he informed me that he would not allow this affiant
+to interview the children unless he or his attorney was present
+in the room.
+Due to the fact that Allen Weirman has been
+uncooperative and that he did not report these latest incidents
+to law enforcement or to H.R.S. which is in violation of Florida
+state statute 415.504, it is doubtfull he will cooperate in the
+There is a possibility of prior sexual molestation which
+future.
+was not reported.
+Due to Allen Weirman's statement to Mark Creel
+that the tapes were destroyed, your affiant feels that if we do
+not retrieve these records immediately, they will be destroyed.
+Based on the above information, this affiant has
+probable cause to believe and does believe that located on the
+-2-
+premises is evidence to-wit:
+Audio tapes, written records, and
+other evidence relevant to proving that a felony has been
+committed in violation of Florida state statute 794.011
+pertaining to sexual battery, and Florida state statute 800.04
+pertaining to lewd & lascivious or indecent assault or act upon
+or in the presence of a child.
+WHEREFORE, affiant makes this affidavit and prays the
+issuance of a search warrant in due form of law for the search of
+the above described premises for the property hereto described,
+and for the seizure and safekeeping thereof, subject to the order
+of the court, by the duly constituted officers of the law.
+ь/з
+7
+AFFIANT
+SWORN TO AND SUBSCRIBED BEFORE ME THIS
+1989.
+DAY OF SEPTEMBER
+
+
+> U E OF THE COUNTY COURT IN
+AND FOR ST. LUCIE CO., FLORIDA
+cx 
+*	■j::
+Ш -
+Ш -
+'-o
+-3-
+•  - (ou-dF
+INVENTORÏ AND RKTURN
+STATE OF FLORIDA
+COUNTY OF SAINT LUCIE
+Received this Search Warrant» St. Lucie County» Florida this
+Served the same by reading and
+,» 19£I.
+day of
+delivering copy to:
+
+and making search as directed; upon which search I found:
+ Ll ro сое/op/ /ce. /	/ -■2
+CASêc -H  DecK Hcicier
+ <1 cessed r? p 
+/nlc.ro
+/
+rêe.
+
+ec.o
+
+r-' LO
+
+ N pl oy rwervT p’or 
+
+
+Ч
+Hf)r\d ■V torl-ц-егч co r<s.sp d.< nc. 	  o«-rr
+â éf s
+e
+
+
+
+c (ZKIUren' 
+/2e o. c:/-J
+.// /< 
+CO
+ou7 lil "0
+ ioe 'J=>
+lii
+-р.т -д	••
+• :Г'‘=’ со
+ ax
+LO< ' s
+  05<e.7 .
+CLIlcIreos
+  Ce:,
+го
+
+
+Ç\\e.s
+
+Æ
+
+.» the officer by whom this Warrant was
+I»
+executed, do swear that the above inventory contains a true and
+detailed account of all the property taken by me und r the authority
+of this warrant.
+OFFICER
+Sworn to and subscribed before me this
+о f  5   F-yxt ' - ГК h &Я.
+
+. 19.
+
+/2,dJU,'t:
+_ ___	_- .NOTAI .PUBLIC
+'	Irh büt/Stafe ef Ногш.
+A y comm/5sbn Ехр те  Al ay 23, Ш1
+NOTE“fHé'°’"“dr'T§"i’I bl Search Warrant» original Affidavit» and the
+inventory and return must be filed with the Clerk as stated
+in the Search v;rarrant within ten (10) days of the date of
+issuance of the Warrant.
+
+
+IN THE NINETEENTH JUDICIAL
+CIRCUIT IN AND FOR SAINT
+LUCIE COUNTS, STATE OF FLORIDA
+SEARCH WARRANT OF VICTORY CHILDREl 's HOME
+IN RE:
+ORDER
+Pursuant to the Search Warrant issued the
+day
+of SEPTEMBER
+BRIAN SCRIBNER
+1989.
+Detective
+having made his/her return to this Court and the Court having
+viewed all of the items on said return/ it is
+ORDERED AND ADJUDGED that all of the items herein are
+returned to said Detective and to be kept by him/her until duly
+called for by process issued according to law.
+DONE AND ORDERED THIS
+day of
+1989.
+z
+O INTY~JUDGE
+
+ТГ
+cr 
+s 'it3-
+'a
+\
+СЛ
+ao
+
+IN THE CIRCUIT COURT OF THE NINETEENTH JUDICIAL CIRCUIT
+IN AND FOR ST. LUCIE COUNTY, FLORIDA
+)
+)
+STATE OF FLORIDA
+)
+)
+vs.
+)
+CASE NO. 89-2686-CF(SMITH)
+)
+ALAN L. WEIRMAN
+)
+)
+Defendant(s) )
+NO INFORMATION
+COMES NOW t:he State of Florida, Ьу and through Bruce H. Colton, its
+undersigned state Attorney and files this, its NO INFORMATION, in the
+above-styled cause wherein the Defendant is charged with
+TAMPERING WITH WITNESS
+ti
+Dated this S' day of JANUARY, 1990.
+RESPECTFULLY SUBMITTED,
+Bruce H. Coltony tate Attorney
+z
+
+
+LYNI PARK
+Assistant state Attorney
+Florida Bar No.0281557
+411 s. Second St.
+Ft. Pierce, Florida 34948
+Phone (407) 465-3000
+UD
+0
+
+Mi s
+1Ш|  
+
+~o
+CP
+10909022	P.01
+09/06/1997	23Î46
+FDLE
+Florida Departmont of
+Law 6f1forcert 0ht
+Divisfon ot Crimtnal Juatioa
+infDrmauon Syatema
+p.o. 80X 148Э
+Tallahassae, Fionda 32302
+Jamas T.	Moore
+Commi  fon t
+
+r
+w
+¥
+
+
+‘■Y
+
+
+
+
+.■;■
+
+
+FLORIDA CRIME INFORMATION CENTER BVREAU
+FACSIMILE NmIBER'é
+(904)922-3   ,
+PHONE NVMBERS  
+(904)488-560 
+(904)488-56 1
+(904)488-561 , ’
+cyûo 'T FAX PHONF.: Csbo Ч(32- 2в 3
+-о
+го
+о
+
+с
+L L
+10;
+ocfa
+оо ТУ
+ALR> 
+ATTN:
+FROIVI!
+DISPO ÏTTON  кстшгя
+
+1IV1MED1A1E RESPONSE REQlJrRED
+
+RE: /VOSSING DISPOSITION REQUEST
+The Followinf» Request is Kegarding a Subieet AlvaitiHg FDLE Approval to
+Purcllasc a Firearm. Picase Provide the Kinal Disposition Data to FDLE
+Within 8 Working Hours as Provided in 790.065, Florida Statutes.
+NAME OF REOUESTORI
+DATE: R/ю/ц 
+2
+['C
+•M
+tincluding cove.r sheeti
+Commitled to
+SBIy/ieB • Intogrity • RoepBGt t 0l/a%
+1080Э022 P. 02
+09/06/1997 23:46
+
+Plea.se Rc rn To: ' H llpl00
+Countv
+
+30Z1B< 0
+DLE #:
+w/лл
+RAÇE/SEX DOB
+vxiEiEKMAM
+L.BE
+ EAST
+PIRST
+Ml
+АКЛ:,
+INFORMATION REQUESTEP FROM THE CLERK OF THE COURT:
+RATE OF A1UŒST:
+1 - Final Charge:.
+.CHAUGE: QOI oio 4ruc lnq J U5Tice
+.--F-w wiT.ess
+T*	t	————	
+2 '■ Cowrf Case / Roekcl Number:.
+Misd. 4 ~ PICB:
+6 - Final Action : (Cireje 0l1e)
+3 - Level
+3 ■ Final Dispo. Datc:
+I No Рп1ес| /-'''''1 СПП Ь Filed/No Acli 
+Gllilty/Convict Adjudication Withheld
+Dropped/Abandoned
+Nolle Prossed Acquiued
+Pre-irial Diversion Adjudicated Dclinquent
+Disinissed
+0lher:_,
+Credit Time Served: 
+
+7 - Connnenlent:
+JprobatiDn: 
+si.
+Conil  Rate:_
+Court Cost:.
+8 - Prob. Term- Rate:.
+9-Fme:
+Rest;
+-o
+o>’
+10 other Sclltence Information:.
+гч:>
+INFORMATION REQtfESTED FROM THE сщкк OF THE COURT:
+RATE OF ARREST:  	 
+1 - Final Cllarge:			
+CIIARGE: ooz Рягумич O4fe.ost:;  
+Рерэн" с>->;|СА
+3
+
+2 - Court Case/Rocket Number:
+7	~
+3-Levcl: Felolly or Misd 4-Flea;.
+6 - Final Action; (Circle Onc)
+Acqurued
+Adjudicated Deiinqueut
+Cfgdi* Time Served;.
+
+3 - Final DispQ. Rate:.
+р|1ы7ко Acïïon~~ 
+Dropped/Abandoned N0 Bilied
+Nolle Prossed
+Dismtssed
+Cuilty/Colivîcted
+Adjudication Withheld
+Рге*'гг1а1 Divarsion
+Olher:,
+7 - Conrinement:.
+Jprobatlon:.
+8 - Frob. Term. Date:.
+FTI Comp. Date:.
+9 - Fine;_
+Rest:.
+..Jü ourt Cost;.
+10 Other Sentence Information:
+T0T6L P.02
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

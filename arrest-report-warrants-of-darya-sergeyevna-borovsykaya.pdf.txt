@@ -1,0 +1,2971 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>arrest-report-warrants-of-darya-sergeyevna-borovsykaya.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:37:42 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:10.8061565</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>2/1/2017 10:40:26 AM</td></tr>
+<tr><td>revision date</td><td>2/2/2017 11:15:45 AM</td></tr>
+<tr><td>Creator</td><td>sd07p105</td></tr>
+<tr><td>publisher</td><td>KONICA MINOLTA bizhub C368</td></tr>
+<tr><td>title</td><td>sd07p105-20170201104026</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">ARREST REPORT
+A
+Agency Name
+ORi
+Date ime Arrested
+OCA
+G I
+Rowan County Sheriffs Office
+0800000 R0009
+01/31/2017 19;20
+E N
+N F
+Taken
+  Prints
+Fingerpnnt Card Check Digit # (CKN)
+Arrest Tract
+Residence Tract
+Arrest Number
+c о
+□ Photos 7647FFU
+Z08
+oc
+86694
+Y
+Name {Last, First, Middlej
+D.O.B.
+Race
+Sex
+Piace of Birth
+Country of
+citiEenship
+Age
+BOROVSYKAYA, DARYA SERGEYEVNA
+06/16/1990
+26
+w
+F
+US
+Current Address
+Phone
+Occupation
+Q Resident D Unknown
+  Non-Resident
+A
+2521 Cross Point Circle, MATTHEWS, NC
+704-930-3144
+R
+Employer's Name
+Phone
+Address
+R I
+E N
+s F
+Also Known As (Allas Names)
+Skin Tone
+Consumed Drug/Alcohol
+□ Yes   No □ Unk
+Hgt
+Wgt
+Hair
+Eyes
+T о
+DASHA
+5’07
+140
+BRO
+BRO
+E
+E
+Scars, Marks, Tattoos
+Soclal Security #
+OUN and State
+Misc, и and Type
+NC
+243-79-2385
+21998081
+Nearest Relative Name
+Phone
+Address
+If Armed, Type of Weapon
+Place of Arrest
+□	On-Vlew □ Chminal Summons
+□	Order for Arrest □ Citation	Warrant
+NOT APPLICABLE/NONE
+118 w LIBERTY ST, SALIS
+BURY
+Charge #1
+Tra iking Heroin Or Opium
+Counts
+DCI Code
+Offense jurisdiction {if not arresting agency)
+Statute #
+Warr Date
+Fel
+□ Misd
+A
+R I
+6
+1810
+90-95{H)(4)
+12/21/2016
+R N
+Charge #2
+g Q Conspire To Traffic in Opium
+Counts
+Dcicode
+Offense Junsdiction {if not arresting agency)
+Statute #
+Warr. Date
+E F
+|Ю Fei
+□ Misd
+1
+1810
+90-95(1)
+01/31/2017
+T
+cnarge #3
+Counts
+Statute #
+DCI Code
+Offense Jurisdiction {if not arresting agency)
+Warr Date
+□	Fel
+□	Misd
+VYR
+Make
+Modei
+Style
+Color
+Plate #/state
+VIN
+V '
+N
+E
+Vehicle
+1. □ Left at Scene
+2	□ Released to otner at owners request
+3	□ Impounded о Place of storage
+□ Secured
+о Unsecure
+Q Name ot Other
+Dateяime
+F
+H
+0
+Inventory on File’’.
+Date/Time Confined
+Place Confined
+c
+Committing Magistrate
+01/31/2017 20:00:00
+0
+RCDC
+G. JONES
+N в
+Type Bond
+□ Written Promise о Unsecured
+Œ1 Secured D No Bond □ Otner
+Bond Amount
+Tnal Date
+Court Of
+District Court
+City
+F о
+I N
+$1,000,000.00 02/02/2017 09:00
+SAÜSBURY
+N D
+E
+Assisting Officer Name/ID #
+Released By {Name/Department/ID #)
+0а|ея|те Released
+D
+0
+Status
+Codes
+L - Lost
+s - Stolen
+R - Recovered
+D - Damaged
+z - Seized
+C - Counterfeit / Forged
+8 - Burned
+F - Found
+Check up to 3 types of activity for each
+DCI
+Status
+Ouantity
+Type Measure
+Suspected Type
+Possess
+Buy
+Sale
+Mfg.
+Operating
+Importing
+A
+D
+R
+R
+AR
+‘JTE
+G
+s
+s T
+c
+Complainant IX
+Victim □
+Name.
+Address
+Phone'
+0
+M
+RAMSEY, D c
+232 N Mam St, Saiisbury, NC SALS
+p
+N
+17CR050449
+A
+R
+R
+A
+T
+I
+V
+E
+Arresting Officer Signature/ID ff
+s
+Date/Time Submitted
+Supervisor Signature
+T
+HODGES, J. T. (RCS000982)
+ST CLAIR, L. R.
+01/31/2017 20:32
+A
+Case Status
+□	Furtner Inv
+□	Inactive   Closed
+Case Disposition
+  Cleared By Arrest / No Supplement Needed
+D Arrest / No Investigation
+T
+Arrestee Signature
+и
+s
+DCI-608F
+Rev. 3/92
+
+of
+о
+
+
+
+
+— о
+о
+
+ 	 	 	о	i
+о	>	 	о	>	I
+ 	 	 	 	<	r
+ 	Ш	о	>	о	i
+z.	 	po	z.	 
+П	pd	гз	П	_	 
+§ i p I
+c 
+“”   ‘  f
+7  Л Ч
+о   >
+z  
+CO — “
+  G  
+” о  
+  о i~  
+th о
+3 § i
+n c =
+о   n
+:з о 9
+с    
+  = m
+  > hJ
+n   i 3
+G ГГ)   о
+7> < m  
+    CO
+H -o
+ 2
+2:
+о >
+09
+СЛ о
+i.§
+в
+
+
+>i
+B-
+в
+
+
+Э
+c 
+U)
+
+Ф
+CD
+CD
+СЛ
+о
+о
+р!0ь
+r<a
+1 
+<Q a
+о
+
+C/ 
+Ф
+    -
+
+
+H
+о
+b
+о
+n
+П
+
+b
+X
+I
+— <A
+'~~ CD
+DO
+LA
+>
+NJ
+
+
+b
+
+
+rn
+
+
+
+00
+
+
+
+tD
+CD
+C/)
+>
+m
+Z] “'
+
+c/>
+CD
+<A
+11
+Г'
+Е,-
+o
+
+
+СЛ
+CD
+9
+H
+о
+:P  
+
+ГГ]
+Oo
+■<°
+rr!? 
+<a
+
+7)
+ci Д
+li
+üi
+3 CD
+C3 «•
+;;r
+CO
+CD
+X
+>
+C/)
+IS
+о c 
+о
+z:
+K)
+Ч
+'O
+о
+Ч
+
+!TI
+X-
+UJ
+ccl
+H
+в
+m
+LA  
+
+i
+c
+•<
+■o
+'a
+Ч
+I
+о
+H-
+70
+о
+-п
+Z
+со со
+н X
+CD
+D>
+о
+
+
+■п
+п
+(D
+о
+щ I
+(л
+CD
+Со
+8
+ч
+Z
+>= 
+гп
+77
+Nüà
+
+
+=•1
+
+о
+ро
+о
+'-л
+п
+1=
+-п
+CD
+сл
+3
+
+в.
+п
+
+г
+7)
+
+о
+о
+5|
+it
+
+о
+о
+В'
+с
+-, — о
+д.
+tn
+н
+Pd
+m
+о
+77
+9
+гк;
+
+
+
+со
+X
+
+— _ so ÇD
+■9li
+>D   з-
+
+гг
+о
+о
+
+
+о
+I
+о
+о
+
+g  
+И:: CD
+I
+'О
+<
+CD
+о
+о
+ол
+а
+о
+о
+>
+-D
+
+00
+>
+о
+
+Tj
+so
+'О
+ьо qj
+i i
+гп
+:[!
+7 
+I
+LO   _
+X5x i-
+s fcf
+
+X
+77
+pa
+X
+П
+L/1 /~ч
+о
+со •- 
+що°
+о Z  
+
+>
+
+0Л
+I
+о
+
+(D
+П
+ГП
+—Pi
+■<
+о
+В'
+о
+с
+I
+
+t.
+00
+SD
+
+'О
+>
+го
+m
+о f-
+«»
+CO
+
+
+
+O
+Z
+
+
+O
+Z
+E c;r
+- i
+CD.
+CO
+cçn
+0)
+O
+>
+
+
+o->
+M
+ço
+CO
+
+H
+P
+Z
+<
+„J bo
+O 00
+O “
+
+
+O
+4DP
+O
+c 
+CD
+ço
+O CD
+(Л
+4: 
+CD
+-O
+4 
+O
+
+4 
+•O
+(/)
+O
+
+r-
+CO
+O -4
+  O
+    a:
+Zl Ф  
+=  o
+B    
+pmmi
+O O
+E. I
+
+(Л
+CD   ZT
+Q. rr  
+0) n> Я;
+я
+я |
+O CD  
+s O 5‘
+Ш
+rr Q
+аоя
+о||
+ш|_ф
+  Ё.ш
+<
+н
+
+
+
+о i"
+*0 2-
+D-
+
+  I
+о о
+X
+
+н
+
+> i
+II
+il
+о "■
+m
+>
+DP
+
+го
+П)
+рс
+  •
+PIP
+73
+8
+о
+с
+о
+с
+н
+о
+
+
+5. с р 3
+р я. в  
+р— i.’x о, со
+—. <1	—I
+CL В’  ■
+7Р' _ (Ю
+-  	 
+п со со
+о- о о
+'а PD о
+о   с
+|й н а
+6- |. i й
+в- i S-
+° Ci   i
+с
+соо
+с р
+0D
+а.
+В: з-
+D- DÎ
+а
+>
+m
+00 р
+а.
+а.
+
+
+
+со
+CL
+со п
+  а i
+о
+v:
+о
+
+о
+9
+со
+Г'
+а. в-
+m
+о
+X
+(Я'
+сл
+CD
+PIP
+77
+"П
+•
+с.
+Z
+
+
+о
+DP
+р
+
+рг-
+о
+CD
+  Z
+□□
+со
+го
+со
+со
+гг
+
+ТР
+Q.
+
+D.
+о.
+ч
+о
+о о
+со
+= в
+с/0 с
+‘TD рр
+X
+>
+QP
+сг
+II
+о
+CD я
+рр о  
+  is °
+оо
+оо
+Z
+о
+X.
+70
+с
+со
+X
+о
+X
+н
+с   
+D-
+
+о
+"D
+о
+X
+r-t>
+
+о-
+  С/0
+I  
+го
+Dr
+РГ
+ч
+D
+X
+
+оо
+я
+я
+l'o
+QP
+СРО
+р
+о
+I ГС.
+00
+в
+ГР
+о в
+
+
+CL
+>
+Z
+х-
+о Q
+со
+
+ч-..
+со
+со
+R'
+о
+а.
+а.
+р=0
+70
+в
+в
+Г’.
+с
+н
+р
+>  
+to ГГ! в
+
+о
+со
+сг -.
+о '1Л
+< "О
+в	 	Z	о
+в	о	РГ	а-
+со	п	со	р
+о	 	С1,	н:
+-с	ХР	со	со
+в   СР
+ 	ро	D-	в
+о	N	я	g-
+сг
+о
+
+Q.
+оо
+  5
+"П
+со
+со
+о
+со
+CZ
+п
+о
+о
+
+я
+<
+cfQ
+< ХР
+о
+à
+’а
+00
+я
+с
+о
+а
+со
+•.в
+Ô'
+'-t
+'-t
+Z
+73
+о
+о
+9 3 
+  со
+3
+с со
+
+  рз- сг
+3
+1 1'
+3 Q_-n
+  to pd  
+- = 11
+ 0=0
+и я п а
+7Р н 9 о
+  X i а
+п> g=
+«   X
+— СС1  
+  н о
+о» ро с
+т  
+рг ' ■
+ч
+сг
+>
+(/>
+
+р
+р
+о
+
+
+Е!
+0)
+m
+CD ■
+r-
+
+а.
+D-
+CD
+CD г—
+со о о
+со с _.
+о
+со
+со
+7J
+со
+со
+X
+р
+?3
+m X
+CD
+<
+со
+о
+о
+с  
+3
+
+р
+р
+3
+я
+р
+с
+=
+3
+о
+а.
+Q-
+н
+р
+чз -,| г—
+  CD гг
+1 1
+‘< тв
+oq 
+со о _,
+  о я|
+о
+C/J
+со
+со
+CD
+р
+р
+з-
+гп ><
+со
+
+о
+3
+3
+CD
+р
+р
+-Г)
+РГ
+
+
+f-t-
+
+о
+
+со
+з- 3
+р
+3 1
+з- g.
+рг о в
+  о b со
+о о =
+в
+я
+р
+CD
+
+со
+сг
+р сг
+р
+сг
+
+о
+3. ГР
+я ÇD
+о i.
+“Т
+в
+со
+со
+о
+р
+3
+а «•
+со
+о’
+
+3
+а.  
+
+<
+<
+о
+5’
+~|
+р
+р
+о
+р
+со
+со
+со
+с
+ст*
+сг
+сг
+X о
+р ‘=
+Q X
+<. о
+сл  
+о' t-
+3 с
+ртт  
+
+В‘
+о
+о
+о РТ’
+с. < р
+а   'Т
+  и
+о р о
+i  
+о я:  
+- в
+§0    
+ -4    • fb
+0—0.
+    я
+3 .х: со
+ос '< о
+сг р
+р
+ÇD
+<
+<
+я
+я
+—
+о
+со
+со
+со
+р
+CD
+so
+!lf
+=г CO û>
+P 3 rt
+<3 -.
+П) Œ CO
+Ф ....
+CO г сл
+P 3 c
+ala
+p"%
+a§
+3 3'
+3. ::p'
+я R
+c
+O
+so
+я
+3
+c
+3
+3
+
+я
+3’
+•n
+
+O
+O
+P
+P
+so
+'-t
+'П
+я
+
+
+>.
+O- Ш
+P
+P
+ô
+Р!Г>
+3
+
+CD
+U/
+ро.
+O
+O
+4 
+я
+я  
+  а
+P3 CO
+O
+я
+
+H
+O
+R>
+O
+
+
+'O
+c
+
+O
+— •
+
+Q,
+3
+  я
+D3 ro
+O
+a
+
+CD
+□
+P
+P
+
+
+3
+3
+3
+*<l
+O
+O
+O
+a.
+Q.
+(3-
+
+
+3 
+>
+(a
+3
+
+CO
+CO
+CO
+3
+яя
+3
+3
+
+□
+оо
+со
+со
+CD
+o'
+со
+со
+со
+3
+
+
+of
+о
+
+о
+
+
+
+— — о
+
+СЛ N) о о
+о	>	 	о	>1
+ 	 	2:	 	<	à'
+ 	о	9	 	о	“
+z	—	po	z
+П	 	n	_	Й
+c	I	c	I	i
+  H  
+21 -:: m I
+c/!  c/    b’
+H X
+  > b 
+2 H   к
+  з: d
+Q rn   о
+    m (У 
+       
+H >0
+  о
+4:- z:
+?   I
+jl Ч Ф
+  /0
+о >
+l8
+cn  
+i.§
+Ш
+
+
+>1
+I
+
+Э
+
+
+в
+UJ
+
+Ф
+Ф
+Ф
+СЛ
+о
+о
+;»3>
+Г'о.
+i-ш.
+ф  
+11
+=•
+I
+(О •’
+||
+3Ü
+D ф
+со  
+
+о
+со
+ф
+
+н
+
+п
+ь
+5|
+о
+-п
+с
+
+ь
+>
+X
+N)
+
+
+
+
+S I
+п  
+NJ
+П1
+
+
+§■
+с/:)
+
+
+
+а
+со
+>
+Т1 »_с
+п  
+ро
+со
+l‘JФ
+Оо
+т:::'
+NJ
+='
+ш
+сл
+ф
+ф
+
+н
+о
+:f  
+m
+;д:}
+::о
+
+
+Со
+ф
+X
+>
+
+Z
+  —
+Z  
+1®
+ф
+>:•
+NJ
+Z
+ш
+o 
+о
+ь
+н
+
+m
+U)
+ш
+il
+P
+H
+3
+гп
+s
+O СЛ
+O
+i
+c
+O
+-<
+■D
+O
+'a
+H
+O
+
+po
+3
+O
+-n
+z
+O
+ct
+CO
+O
+
+■П
+B
+П
+O
+Ф
+O
+§ i
+•r 
+H
+CO
+Cü
+2
+’-d
+z
+(П
+c
+73
+
+
+CO
+s
+1-i;
+PÈm 
+c
+O
+po
+bmm
+<x
+
+n
+O
+Tl
+
+Ф
+3
+
+a
+я
+n
+X
+r
+
+O
+ r
+
+“П
+O
+I
+2l
+Ëa
+D
+
+c
+__ -. O
+i
+ x I
+3*1
+
+m
+H
+PO
+*Tt
+O
+œ
+73
+3
+
+O
+O
+
+
+X
+c/:
+
+
+O
+O
+Ф
+73
+
+O
+po
+
+
+X °3
+  I
+O
+O
+<
+O
+•0:
+X
+Ul
+
+c
+
+>
+X
+“П
+
+>
+(JO
+O
+
+rn
+
+3
+~ %
+\o Ф
+\0
+
+m
+ç
+
+4 
+X
+PO
+7 
+O
+z
+  n
+O
+PO
+
+>
+4 
+z
+П
+l-
+O
+O
+4 
+O
+73
+'•O
+Ф
+m
+■<
+'-' n
+SD
+z
+r-
+
+
+a.
+z
+00
+ o
+u>
+so
+>
+
+M
+ro
+m
+O
+O
+z
+
+
+
+NJ
+O
+00
+a>
+s Vÿ
+— Ф
+If  
+-- Cc.
+hJ
+СЛ
+
+>
+O
+
+
+
+u>
+
+œ
+a
+Ч
+P
+t4)
+z:
+<
+-«J NJ
+O O®
+O •?-
+4
+
+O
+4J.
+г
+Ф
+O
+Ф
+и
+П
+CO
+4: 
+ON
+4 
+O
+
+4 
+'-J
+Ф
+O
+
+Г-.	 
+  '§
+   
+  i f  
+H. I  
+O   c CD  
+c П O
+ço P3 D.
+N<0- 00
+P- B’ -• Ш  
+в: -   a i.
+O   =T
+ит   D. CL= 
+CO  	 	;=r ÜT
+3     i°
+■n  	r- 	f- 
+'-  3 :л“	'<
+Ю B я
+  I  
+O O
+CO •“'
+<D PT*
+O O 9;
+O H
+=1:1 O
+СЛ
+9-c-H
+9,1  
+0) E. CO
+9 9-û>
+CL  
+ü> CD U.
+9-
+O'  <
+9,0-1
+o  CD lo
+SOB'
+û> Ш «:•
+Q. СГ Q3
+ô’'<
+KS%
+ 8 --
+-■4 
+9.-0  
+Ч
+
+□[8
+  a
+H
+
+X
+> i
+i*  
+ •l
+>
+m
+B-
+
+fD
+73
+7)
+
+c
+O
+H
+
+c P Ю
+  ГР D.
+’“ a- fD
+a. p;-  
+çx   	  •
+a;    
+W-.
+  O
+i i B'
+“ ‘I  
+3
+ôr
+m
+>
+- I
+O
+
+
+O
+'<
+O
+
+CO
+Г"
+m
+O
+x
+Ф
+Ф
+73
+Tl
+z
+O
+m
+
+O
+X
+z
+
+□□
+
+•<
+>
+O
+0)
+
+il
+z
+O
+
+O
+H
+
+O
+■D
+O
+X
+o'
+  CO
+-§ O
+Ф
+to
+pr
+■<
+:p
+
+
+00    
+O B  
+  B. r
+CL  
+  СГ -•
+Ш
+O
+I Cl
+D
+8-
+Q.
+>
+z
+rD
+O
+O
+CL
+c
+
+73
+Д.
+n 9
+C.J 3 •»--•
+
+Г’.
+a
+II .■
+Q   a“
+CD
+  CL 91
+  CD ft)
+O   П
+Sll
+  o'
+a cr
+3 9 9.
+— • fD DP'
+P   <
+9.  
+  r-f
+H
+O
+CO
+O
+Œ
+Tl
+n
+O
+O
+0 3
+  cr
+r 
+6
+O
+Я'*-'
+— П)
+c CO
+  œ9
+    p; 
+Ф P- fD
+O
+CD r-f
+CO O O
+CO c _.
+Ë ù) P3
+CD 9 
+1я%
+û)
+'< mf
+Bqa
+§ m 
+CO O,
+I O 9:
+- ÛJ Crt
+ТГ Ci)
+Q)   Г)
+a   r.
+ü) 9 c
+g-IB.
+  ш€
+c
+ô‘
+z
+7]
+D
+
+3
+c/) NJ pc: O
+> B I  
+i
+n  
+Pd H O
+z 2  
+n> П
+«   E
+— c/t  
+4L H c
+Pd c
+m  
+Ш '' •
+40
+
+>
+(Л
+s
+CJJ
+
+a
+a-
+m
+D-
+CD
+O
+fD
+fD
+7 
+X
+b1 3 B
+CD
+<
+O
+3
+c
+я
+O
+CL
+H
+ôo
+O
+CD
+P
+3'
+m
+•-D
+fD
+O
+c
+CD
+Ш
+O
+X“ p=-
+9 =5
+3 я
+5' i
+
+
+CD
+_2. 3
+я œ
+O Ë.
+°  
+D X
+< O
+CO  
+5' c_
+D c:
+€
+3- 3
+Ш
+3.
+w
+fD
+E)
+O
+
+я
+fD
+O-
+<
+o’
+-1
+P
+P
+0
+cr
+Ч
+O
+O
+X
+3“ Ш
+<
+<
+P
+P
+“1
+40
+о
+fD
+CD
+40
+O
+O
+'O
+9.
+c
+c
+3
+3
+3
+9-
+5’
+
+I 8
+i: 8"
+я
+O
+P
+40
+-1
+9.
+
+
+
+P
+ô'
+-X СГ
+CD
+B.
+			
+CD
+
+O
+■P
+B
+
+‘-1
+O
+9
+O
+
+
+'O
+a
+c
+O
+a
+N- «
+,-- •
+I я
+  a
+
+a.
+3
+cr о
+
+3
+
+Ф
+  O
+P l-D
+*<
+O
+P
+□
+
+O'
+я
+3
+3
+о
+о
+i's
+“в
+зя
+0) g'
+а.
+а-
+
+
+>
+о
+
+о
+3
+3
+
+со
+со
+□
+о
+а
+3
+-о
+
+
+
+о
+
+:o
+о
+
+
+— — о
+c/: ro   □ I*
+о >   о >1
+  - 2:   < I
+> o>ai
+f c	 	X	 	9
+Q pd	Ij	Q	 
+о	з:	о	c	I
+s	 	 	I	b
+    00 a
+*<	2 	■<
+CO CO
+H X
+
+:r > NJ
+> >  
+  H   П
+  2:   po
+Q rn   о
+     
+     
+  “0
+i  g
+c ■£ 2:
+
+о >
+о
+
+
+>1
+e
+
+
+
+
+
+U)
+°°
+01 о
+3 g
+«Si
+CD
+CD
+CD
+(A
+о
+о
+7 
+ь
+I
+о
+li
+'О a
+® о
+9 в
+Со
+а>
+
+:<а
+ч
+
+ь
+В|
+— Со
+CD
+Kl
+о
+о
+
+>
+Z
+
+к>
+
+>
+
+
+
+4   ■
+“П
+m
+
+el
+
+
+со
+-п
+i-
+"П
+и;
+:§;
+
+>
+т
+и PS
+я  
+  2:
+р  
+о
+Сл
+о
+0)
+
+
+ф
+О)
+I
+са •’
+li
+II	=
+  CD
+ID  
+CD %
+=-
+
+
+н
+CD
+о
+о
+:я
+Or
+:ю
+70
+
+>
+со
+ф
+X
+
+и
+-<°
+тсв'
+||
+о
+I"
+hJ ш
+1  X
+®® в
+i >ч ч.#
+2:
+с 
+о
+ч
+
+>
+m
+
+н
+
+m
+«  
+о <я
+ГГ)  
+о
+>
+i
+
+С- 
+■< со
+(л
+U
+н
+о
+
+7 
+
+>1
+~Т)
+Z
+о
+о
+CD
+со
+■п
+
+п
+о
+
+
+о
+ZH
+н
+Со
+ф
+со
+8
+
+
+Z
+
+m
+>1111#.
+■0 Е
+
+
+с  
+
+о
+'Ч
+ро
+п
+о
+3 =г
+if
+о
+со
+■п
+
+Со
+3
+
+
+г
+
+
+о
+о
+
+“d
+о
+о
+
+
+с:
+	о
+::4.
+m
+ч
+ро
+о
+■п
+7 
+<0
+в
+с; 
+
+о
+I
+X
+
+00
+
+7 
+_ чо 1®
+о ? «
+с чь '®
+  U4 S-
+D*
+о
+;о
+ф
+о
+о
+/0
+I р
+  §
+
+I
+о
+о
+<
+о
+-СГ:
+X
+fJt
+о
+>
+X
+о
+-п
+
+со
+>
+о
+
+
+ГГ)
+с 'О
+I °  
+“П
+'-4
+m
+  §
+
+
+
+2:51
+isl
+X
+7 
+7)
+о -у
+4сс 2
+W (-5
+о 9
+2  
+
+>
+
+п
+о
+7)
+00
+ÇD
+-<
+ГГ)
+чо
+п.
+
+
+'О
+с 
+1.
+ос
+'О
+>
+
+ы
+fsj
+m
+о  -
+®®  
+о
+Z
+св-
+
+
+NJ
+о
+сл
+cçn
+>
+® с;г
+-1
+о.
+к
+о
+
+
+
+со
+к
+со
+н
+■D
+с>
+2
+<
+-«J со
+о ®0
+о “
+
+
+о
+4 
+с 
+CD
+Ç0
+со
+§
+п ф
+4: 
+ф
+ON
+4:>.
+о
+
+4 
+•о
+Со
+о
+[Г
+-I
+ 	|р
+о	S	В'    
+с ф "<
+с	•7л о
+D	D.	Zl 
+■“	О-	ф	~
+    чг-
+i i f
+ш. I  
+с   гз
+со п D-
+D. ф
+/г С' 00
+в:
+(Л
+CLP'—\
+ф   гг
+S' 3 сп'
+    сл
+о ф сл
+ф о 5
+ш ф <
+с = о
+о.сга)
+0"<
+ЕВ 
+н
+
+пт
+н
+
+  I
+X
+>
+в.
+
+I  
+- I
+m
+7 
+8
+7)
+с
+о
+о
+н
+
+а
+
+m
+>
+ф
+ртЁЩ
+  >п Q
+а:     а i.
+q- в. Q.
+ii II
+lil
+г     QJ
+о i f
+  о_  
+v:
+о
+
+о
+
+сл
+г-
+m
+о
+<л
+ф
+X
+70
+Т|
+Z
+о
+т
+$
+Q □□
+Z
+Г“
+а
+
+сь
+‘а
+а.
+
+>
+о
+0	0	4
+  в 2П
+i    
+щ
+о в Z
+  а  
+11
+2
+о
+7 
+о
+н
+
+о
+■D
+X
+о
+'е
+o'
+  Со
+■D о
+ф
+ф
+-<
+о :: о
+—t» о -*»
+  о r-f
+ •  J
+Ë.-D  
+
+о
+I 41
+:з
+I
+>
+Z
+о
+о
+с
+73
+7)
+
+3
+    о
+< сг ~-
+о    
+г«.
+>   ~.
+  о  
+г**')   о
+  :г сг
+  о р
+Е
+н
+ =5'Ж
+о
+сл
+о
+а.
+  ф сл
+Т1
+п
+Ô
+о
+о
+я
+с:
+о
+ст.
+|| 
+0 0-
+сл о о
+сл с
+с
+CD
+о
+Z
+7
+о
+D
+
+73   O'
+
+'Z
+00 Kl ;7D о
+  о i I
+® i n a
+q H O S'
+- I  
+ 
+n> 9
+«   a
+— CO  
+H O
+:7D c
+m  
+ГГ) - •
+H  
+>
+O*
+0}
+P
+O
+
+СГ
+СГ
+m
+
+a.
+O.
+Ф
+O
+O
+O O
+7 s
+rn ::
+O
+7
+X
+O   O
+CD   a
+  B S-
+  B  
+П O
+nn a.  
+ГУЧ	Г5
+c/     
+_4 O p-
+X O  
+> c: c
+®0   P
+Q“
+>чн	 
+Ф
+O
+<
+O
+O
+P
+B.
+mmm
+O
+5-
+c
+Q>
+D-
+Ш
+Ф
+JP "Ч
+  Ф zr
+СЛ
+P
+rr
+tx
+m
+O
+;<
+O
+Ф
+Ф
+c '-
+H :=
+  B
+m -
+GO a.
+9.
+O*
+O
+
+
+
+Ф
+Ш
+Ш
+cr
+
+O. 5
+a fo
+O Ë.
+"Ч
+'< mË
+“ mB.
+Ф D'
+i O E:
+-' P w
+O
+Cl
+Ф
+O
+O-
+
+o'
+B
+<
+GO
+O
+GO
+s
+O
+P
+O
+c
+H T
+p:: 
+%■ O
+Ч
+Г-».
+O
+
+0)
+
+<
+P
+
+O
+O
+Ф
+40
+O •ч
+ir   D)
+Ш   3
+,r:  Ф '-»
+.c-~4 Ф
+СЛ x co
+•—' Ë СЛ
+Q) 3 c
+    Ф
+O Ë
+  S.C
+P Q)''o
+3 O
+a.
+O
+ç
+B
+'O
+Ë.
+D
+
+O e-
+3 c
+s
+-n
+5
+Ю ~
+O
+'O
+P
+00
+>-c
+B
+
+LA ~
+r- 
+O
+P
+ô
+ГР
+a*
+Ф
+
+Ф
+
+O
+4D.
+c
+c
+H
+f-*-
+
+X
+O
+O
+I  
+O Ë.
+  x: O
+  O
+я I:  
+  i s
+«	 	O
+O P ’Ч
+B‘ R  
+'O
+Ф
+E
+a.
+
+c
+Ш
+a
+
+Ф
+►-t
+O
+P
+-X-
+□
+CT O
+5-s
+X -c
+
+
+O
+O
+B-  
+>
+ca
+B
+O
+O
+
+
+::
+3'Ë-
+Ф  
+СЛ
+СЛ
+□
+O
+O
+P
+■D
+
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
